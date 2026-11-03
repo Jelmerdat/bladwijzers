@@ -1,0 +1,687 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_11.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 11: Sumatra 1:250.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328566.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 5"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328589.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 5"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328609.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 5"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328623.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328646.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328667.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328680.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328705.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328726.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540328747.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540640706.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540640971.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540641315.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540641585.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540641979.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540642303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 14 & 18"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540642776.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 14 & 18"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540643299.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 14 & 18"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540643819.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540644040.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540625404.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540625485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540625846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540626325.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540626616.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 19 & 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540626819.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 19 & 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540627090.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 19 & 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540627111.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 20"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540627133.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 20"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540627165.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 20"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540644237.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540644438.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540644451.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540644597.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540645667.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540645999.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540646341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540646797.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540647256.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540647653.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540648165.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540648624.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540649432.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540649767.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540649963.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540649168.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 26 West"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540650438.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540650953.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540651457.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540651910.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540652372.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540652773.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:250,000 – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55692/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bengkalis, D C 34,1, sheet 24"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55700/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Natal, D C 34,1, sheet 28"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55703/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Katiagan, D C 34,1, sheet 35"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55736/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mana, D C 34,1, sheet 65"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55747/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Idi, D C 34,1, sheet 6"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55807/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sibolga, D C 34,1, sheet 20"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55831/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bireuen, D C 34,1, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55874/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taikako, D C 34,1, sheet 50"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55883/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taloek, D C 34,1, sheet 37"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55895/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Siak Sri Indrapoera, D C 34,1, sheet 31"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55998/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Loeboeksikaping, D C 34,1, sheet 29"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56003/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bintoehan, D C 34,1, sheet 66"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56038/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Batoeradja, D C 34,1, sheet 67"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56046/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koendoer, D C 34,1, sheet 32"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56054/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Goenoengsitoli, D C 34,1, sheet 19"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56117/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nipahpandjang, D C 34,1, sheet 47"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56135/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pangkalpinang, D C 34,1, sheet 56"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56138/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pakanbaroe, D C 34,1, sheet 30"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56165/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Matobe, D C 34,1, sheet 49"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56166/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Djambi, D C 34,1, sheet 46"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56259/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Sumatra"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56287/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Padangsidimpoean, D C 34,1, sheet 21"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56391/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tjalang, D C 34,1, sheet 4"
+    ]
+   }
+  }
+ ]
+}

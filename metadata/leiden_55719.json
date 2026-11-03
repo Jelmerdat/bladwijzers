@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55719",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Matoewa",
+ "full_title": "Matoewa, / Army Map Service.",
+ "sheet": "XXVII-XXVIII/48-49",
+ "hind_series": "HIND 1099",
+ "shelfmark": "D B 42,1, sheet 53",
+ "scale": "Schaal 1:200.000",
+ "series": {
+  "title": "Borneo ; HIND 1099 Sheet XXVII-XXVIII/48-49",
+  "part_of": "Borneo (HIND 1099 Sheet XXVII-XXVIII/48-49) | Borneo /"
+ },
+ "published": "Matoewa; Washington D.C. : Army Map Service, 1945; D B 42,1, sheet 53",
+ "creator": "Army Map Service (Washington D.C.)",
+ "edition": "1st edition.",
+ "notes": null,
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55719",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55719",
+ "bladwijzers": [
+  {
+   "nr": "34",
+   "title": "West Borneo",
+   "scale": "1:200.000",
+   "hind": "1099",
+   "pdf": "1",
+   "pdf_page": "39",
+   "match_confidence": "high",
+   "match_note": "HIND 1099"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663670002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55719.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRTQvRDUvMjIvNjkvMkMvQkYvQUMvNDYvOEEvQzYvQUUvMEMvNzMvRTAvQjkvQ0QvMTg4N18xX2l0ZW1fNTU3MTlfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM2NzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjUyNTQiLCJoZWlnaHQiOiI3MTI4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRTQvRDUvMjIvNjkvMkMvQkYvQUMvNDYvOEEvQzYvQUUvMEMvNzMvRTAvQjkvQ0QvMTg4N18xX2l0ZW1fNTU3MTlfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM2NzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjUyNTQiLCJoZWlnaHQiOiI3MTI4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRTQvRDUvMjIvNjkvMkMvQkYvQUMvNDYvOEEvQzYvQUUvMEMvNzMvRTAvQjkvQ0QvMTg4N18xX2l0ZW1fNTU3MTlfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM2NzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjUyNTQiLCJoZWlnaHQiOiI3MTI4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 5254,
+  "height": 7128,
+  "canvases": 1
+ }
+}

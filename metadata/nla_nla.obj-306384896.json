@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-306384896",
+ "source": "National Library of Australia (Trove)",
+ "title": "Dutch Timor 1:100,000 – blad 91-92/XLV-XLVI",
+ "sheet": "91-92/XLV-XLVI",
+ "series": {
+  "id": "4541291",
+  "title": "Dutch Timor 1:100,000",
+  "scale": "Scale 1:100,000.",
+  "coordinates": "(E 122⁰00'--E 130⁰00'/S 6⁰00'--S 11⁰00').",
+  "bbox": {
+   "west": "122.0",
+   "east": "130.0",
+   "north": "-6.0",
+   "south": "-11.0"
+  },
+  "published": "Washington, D.C. : Army Map Service, 1942-1946.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Dutch West Timor, and the Portuguese enclave of Ocussi Ambeno. Relief shown by contours and spot heights. | Reproduction of sheets originally issued by Topografische Dienst, Batavia. | Includes maps titled: \"Provisional map\" prepared by Base Map Plant, U.S. Army, GHQ, SWPA. | Some maps are published by the Survey Directorate, H.Q. ALFSEA in Great Britain. | Maps published in the United States are assigned series T655. | Maps published in Great Britain are assigned series Hind 637. | Includes sheet index.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/4541291",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/4541291.marcxml"
+ },
+ "date": "01 January 1942",
+ "creator": "United States. Army Map Service.",
+ "publisher": "Army Map Service",
+ "call_number": "MAP G8117.T5 s100 (Copy 1)",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-306384896",
+ "bladwijzers": [
+  {
+   "nr": "57",
+   "title": "Timor",
+   "scale": "1:100.000",
+   "hind": "637",
+   "pdf": "2",
+   "pdf_page": "14",
+   "match_confidence": "high",
+   "match_note": "Dutch Timor 1:100.000; British edition = HIND 637 = bladwijzer HIND number"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384896.json",
+  "manifest_file": "iiif/nla/nla.obj-306384896.json",
+  "image": "https://nla.gov.au/nla.obj-306384896/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-306384896/image?wid=300",
+  "width": 12287,
+  "height": 14698
+ }
+}

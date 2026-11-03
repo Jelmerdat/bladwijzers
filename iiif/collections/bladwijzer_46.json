@@ -1,0 +1,876 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_46.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 46: Zuid West Celebes 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 74/XXXIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927327.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 74/XXXIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 74/XXXV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927369.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 74/XXXV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927388.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927401.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927425.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927463.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927482.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927505.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927526.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927547.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927560.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927583.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927604.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927648.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927661.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927685.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927700.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927737.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927759.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927776.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIII A & 74/XXXIIIB"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927792.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927810.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927832.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927855.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927878.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927893.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927919.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927935.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927956.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927970.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXV C & 75/XXXVI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927997.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXV D & 75/XXXVI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928012.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928036.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928057.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928073.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928099.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928116.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928150.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928175.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928191.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928214.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928238.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928251.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928272.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928295.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928310.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928332.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928355.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXIV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928378.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928393.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928411.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928433.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXV C & 76/XXXVI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928454.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 76/XXXV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928479.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928498.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928517.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928530.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928558.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928574.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928596.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928618.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928639.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928652.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928671.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928694.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928719.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928735.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928756.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928770.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXIII B & D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928797.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928815.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928831.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXIV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928853.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928877.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928890.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928913.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928937.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311928959.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXVI B & 78/XXXVI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311929335.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXVI D & 78/XXXVI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311929936.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXVII B & 78/XXXVII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311930587.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXVII D & 78/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311931326.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Selébès en Onderh : zuidwest – blad 77/XXXVIII B & 78/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55722/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kaloempang], D C 5,1, sheet 25"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55749/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Biloka], D C 5,1, sheet 4"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55834/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Biring Kasi], D C 5,1, sheet 26"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55853/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tjenrana], D C 5,1, sheet 14"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56055/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djampoe], D C 5,1, sheet 17"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56127/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Makasar], D C 5,1, sheet 18"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56250/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Waramparang], D C 5,1, sheet 15"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56313/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Singkang], D C 5,1, sheet 9"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56398/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Meer van Sidenreng (Taparang Sidenreng)], D C 5,1, sheet 1"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-583077462",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Sumatra's Westkust – blad XIV",
+ "sheet": "XIV",
+ "series": {
+  "id": "6610270",
+  "title": "Res. Sumatra's Westkust",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 100°19'--E 105°22'/S 0°15'--S 1°30').",
+  "bbox": {
+   "west": "92.5",
+   "east": "109.0",
+   "north": "8.5",
+   "south": "-8.0"
+  },
+  "published": "Batavia : Topografischen Dienst, [1926-1935]",
+  "extent": "maps :",
+  "notes": "Topographic map series of west Sumatra , Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading and spot heights. | Includes bladindeeling and administrative indeeling.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6610270",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6610270.marcxml"
+ },
+ "date": "01 January 1926",
+ "creator": "Netherlands. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Topografischen Dienst",
+ "call_number": "MAP G8080 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-583077462",
+ "bladwijzers": [
+  {
+   "nr": "21",
+   "title": "West-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1058",
+   "pdf": "1",
+   "pdf_page": "26",
+   "match_confidence": "high",
+   "match_note": "Res. Sumatra's Westkust 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077462.json",
+  "manifest_file": "iiif/nla/nla.obj-583077462.json",
+  "image": "https://nla.gov.au/nla.obj-583077462/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-583077462/image?wid=300",
+  "width": 10044,
+  "height": 12492
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56212",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[B[atoe] Matoempa]",
+ "full_title": "[B[atoe] Matoempa]",
+ "sheet": "13",
+ "hind_series": null,
+ "shelfmark": "D C 4,3, sheet 13",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouvernement Celebes en Onderh[origheden]; Gouvernement Celebes en Onderh[origheden]"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1931",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst 1923-1928.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56212",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56212",
+ "bladwijzers": [
+  {
+   "nr": "47",
+   "title": "Zuid Celebes",
+   "scale": "1:25.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "4",
+   "match_confidence": "low",
+   "match_note": "D C 4: Gouvt. Celebes (Makasar) 1918-41"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56212/manifest",
+  "manifest_file": "iiif/leiden/56212.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56212/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56212",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56212/full/300,/0/default.jpg",
+  "width": 4908,
+  "height": 5968,
+  "canvases": 1
+ }
+}

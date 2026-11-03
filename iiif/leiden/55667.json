@@ -1,0 +1,117 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55667/manifest",
+ "@type": "sc:Manifest",
+ "label": "D C 32,6, sheet 2",
+ "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+ "metadata": [
+  {
+   "label": "Title",
+   "value": "[G[oenoeng] Paja Karoeng], D C 32,6, sheet 2"
+  },
+  {
+   "label": "Author/creator",
+   "value": "Survey Directorate H.Q. ALFSEA"
+  },
+  {
+   "label": "Subject (topical)",
+   "value": "Maps (documents)"
+  },
+  {
+   "label": "Country",
+   "value": {
+    "@value": "No place, unknown, or undetermined",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Published (digital)",
+   "value": "Universitaire Bibliotheken Leiden"
+  },
+  {
+   "label": "Date issued",
+   "value": "2009 "
+  },
+  {
+   "label": "Language",
+   "value": {
+    "@value": "English",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Extent",
+   "value": "1 electronic resource."
+  },
+  {
+   "label": "Note",
+   "value": [
+    "Photolithographed and printed by 65 Rep. Group I.E.",
+    "Copies from Japanese maps based on Dutch Survey 1938-1940.",
+    "Legenda."
+   ]
+  },
+  {
+   "label": "Part of",
+   "value": [
+    "North Sumatra (Atjeh)",
+    "North Sumatra (Atjeh)"
+   ]
+  },
+  {
+   "label": "Published",
+   "value": "[S.l.] : Sur[ve]y Directorate H.Q. ALFSEA, 1946"
+  },
+  {
+   "label": "Shelfmark",
+   "value": "D C 32,6, sheet 2"
+  },
+  {
+   "label": "Persistent URL",
+   "value": "http://hdl.handle.net/1887.1/item:55667"
+  }
+ ],
+ "attribution": "Full access.<br><a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+ "sequences": [
+  {
+   "@type": "sc:Sequence",
+   "label": "D C 32,6, sheet 2",
+   "canvases": [
+    {
+     "@type": "sc:Canvas",
+     "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55667/canvas/default",
+     "label": "D C 32,6, sheet 2",
+     "height": 7326,
+     "width": 5888,
+     "thumbnail": {
+      "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667/full/80,/0/default.jpg",
+      "service": {
+       "@context": "http://iiif.io/api/image/2/context.json",
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     },
+     "images": [
+      {
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "height": 7326,
+        "width": 5888,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+       },
+       "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55667/canvas/default"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

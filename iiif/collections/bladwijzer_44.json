@@ -1,0 +1,183 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_44.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 44: Zuid-West Celebes 1:125.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55654/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pelaka], D C 2,1, sheet 41"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55656/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Zuid-West Celebes"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55666/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Batoelapantje], D C 2,1, sheet 21"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55713/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Krokodillen-meer (Taparang Lapompaka)], D C 2,1, sheet 6"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55717/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Bawakaraeng], D C 2,1, sheet 48"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55786/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Watansoppeng], D C 2,1, sheet 22"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55844/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Patalasang], D C 2,1, sheet 46"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55879/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Bahoeloeang], D C 2,1, sheet 70"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55908/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Spermonde Archipel], D C 2,1, sheet 26"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55989/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Mado], D C 2,1, sheet 33"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56060/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Salajar], D C 2,1, sheet 66"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56111/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Laboto], D C 2,1, sheet 19"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56134/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kalena], D C 2,1, sheet 12"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56172/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Belawa], D C 2,1, sheet 23"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56201/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Lompobatang], D C 2,1, sheet 55"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56208/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Makassar], D C 2,1, sheet 39"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56274/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kadjang], D C 2,1, sheet 51"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56284/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pare-pare], D C 2,1, sheet 8"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56326/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maros], D C 2,1, sheet 40"
+    ]
+   }
+  }
+ ]
+}

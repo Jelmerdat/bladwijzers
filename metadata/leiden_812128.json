@@ -1,0 +1,45 @@
+{
+ "id": "leiden:812128",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Sajang Island (Radja Ampat Group)",
+ "full_title": "Sajang Island (Radja Ampat Group), / prepared under the direction of the Engineer Sixth U.S. Army, August 1944.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 45,7",
+ "scale": "Schaal 1:63.360",
+ "series": {
+  "title": "Dutch New Guinea : 1:63.360 ; Sajang Island",
+  "part_of": "Dutch New Guinea. 1:63.360 (Sajang Island) | Dutch New Guinea : 1:63.360."
+ },
+ "published": "Sajang Island (Radja Ampat Group); [S.l.] : Corps of Engineers U.S. Army, War Department, 1944; D F 45,7",
+ "creator": "War Department (Washington D.C.). Corps of Engineers U.S. Army.",
+ "edition": null,
+ "notes": "Met op de achterzijde (lucht)fotoprojectie van Sajang Island. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812128",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812128",
+ "bladwijzers": [
+  {
+   "nr": "83",
+   "title": "Eilanden rondom Waigeo",
+   "scale": "1:63.360",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "37",
+   "match_confidence": "high",
+   "match_note": "D F 45: Eilanden rondom Waigeo 1:63.360 (Leiden bladwijzer D F 45,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658190002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812128.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRDkvNzEvQTUvMDIvODEvNjgvREUvMjEvNEUvMkIvMEMvRUIvN0YvMjkvQzgvN0EvMTg4N18xX2l0ZW1fODEyMTI4XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MTkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTE4IiwiaGVpZ2h0IjoiNjcwNCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRDkvNzEvQTUvMDIvODEvNjgvREUvMjEvNEUvMkIvMEMvRUIvN0YvMjkvQzgvN0EvMTg4N18xX2l0ZW1fODEyMTI4XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MTkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTE4IiwiaGVpZ2h0IjoiNjcwNCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRDkvNzEvQTUvMDIvODEvNjgvREUvMjEvNEUvMkIvMEMvRUIvN0YvMjkvQzgvN0EvMTg4N18xX2l0ZW1fODEyMTI4XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MTkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTE4IiwiaGVpZ2h0IjoiNjcwNCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5918,
+  "height": 6704,
+  "canvases": 1
+ }
+}

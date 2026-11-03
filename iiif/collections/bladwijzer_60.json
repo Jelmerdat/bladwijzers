@@ -1,0 +1,66 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_60.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 60: Ambon 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435250.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ambon-groep] – blad Blad 39 en 55 (Alg. No. XXIX-100 en XXX-100)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435368.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ambon-groep] – blad Blad 40 (Alg. No. XXIX-101)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435580.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ambon-groep] – blad Blad 41 en 57 (Alg. No. XXIX en XXX-102)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435477.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ambon-groep] – blad Blad 56 (Alg. No. XXX-101)"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55701/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Schiereiland Laitimor], D C 22,3, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56402/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Saparoea], D C 12,9, sheet 3"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "leiden:56402",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Saparoea], D C 12,9, sheet 3",
+ "full_title": "[Saparoea], D C 12,9, sheet 3",
+ "sheet": "3",
+ "hind_series": null,
+ "shelfmark": "D C 12,9, sheet 3",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouv[ernement] der Molukken (Res[identie] Ambon); Gouv[ernement] der Molukken (Res[identie] Ambon)"
+ },
+ "published": "Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1927",
+ "creator": "Topografische Dienst (Weltevreden (Batavia))",
+ "edition": null,
+ "notes": "Topografische Dienst.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56402",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56402",
+ "bladwijzers": [
+  {
+   "nr": "60",
+   "title": "Ambon",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "17",
+   "match_confidence": "low",
+   "match_note": "D C 12: Gouvt. der Molukken (Ambon, Saparoea)"
+  },
+  {
+   "nr": "61",
+   "title": "Ambon",
+   "scale": "1:50.000",
+   "hind": "635",
+   "pdf": "2",
+   "pdf_page": "17",
+   "match_confidence": "low",
+   "match_note": "D C 12: Gouvt. der Molukken (Ambon, Saparoea)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56402/manifest",
+  "manifest_file": "iiif/leiden/56402.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56402/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56402",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56402/full/300,/0/default.jpg",
+  "width": 4864,
+  "height": 6447,
+  "canvases": 1
+ }
+}

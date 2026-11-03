@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55914",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Towile Boeboei]",
+ "full_title": "[Towile Boeboei], / Topographische Inrichting.",
+ "sheet": "1",
+ "hind_series": null,
+ "shelfmark": "D C 21,2, sheet 1",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "Schetskaart van Ceram ; Blad I",
+  "part_of": "Schetskaart van Ceram (Blad I) | Schetskaart van Ceram /"
+ },
+ "published": "[Towile Boeboei]; Batavia : Topographische Inrichting, 1919; D C 21,2, sheet 1",
+ "creator": "Topographische Inrichting (Batavia)",
+ "edition": null,
+ "notes": "Verkend in 1917. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55914",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55914",
+ "bladwijzers": [
+  {
+   "nr": "62",
+   "title": "Ceram",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "18",
+   "match_confidence": "high",
+   "match_note": "D C 21: Schetskaart van Ceram 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624090002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55914.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjgvQjgvRkEvNDkvMDMvQjEvQTMvMDkvN0IvOTMvNEEvMDQvREIvOEYvOEEvODQvMTg4N18xX2l0ZW1fNTU5MTRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjQwOTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjczMDYiLCJoZWlnaHQiOiI4OTQ4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjgvQjgvRkEvNDkvMDMvQjEvQTMvMDkvN0IvOTMvNEEvMDQvREIvOEYvOEEvODQvMTg4N18xX2l0ZW1fNTU5MTRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjQwOTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjczMDYiLCJoZWlnaHQiOiI4OTQ4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjgvQjgvRkEvNDkvMDMvQjEvQTMvMDkvN0IvOTMvNEEvMDQvREIvOEYvOEEvODQvMTg4N18xX2l0ZW1fNTU5MTRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjQwOTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjczMDYiLCJoZWlnaHQiOiI4OTQ4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 7306,
+  "height": 8948,
+  "canvases": 1
+ }
+}

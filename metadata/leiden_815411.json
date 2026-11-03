@@ -1,0 +1,45 @@
+{
+ "id": "leiden:815411",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Moearalemboe], D D 43,62",
+ "full_title": "[Moearalemboe], D D 43,62",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 43,62",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Sumatra. 1:100.000; Sumatra : 1:100.000"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1935",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1930-1933.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:815411",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/815411",
+ "bladwijzers": [
+  {
+   "nr": "22",
+   "title": "Oost-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1059",
+   "pdf": "1",
+   "pdf_page": "27",
+   "match_confidence": "high",
+   "match_note": "D D 43: Oost-Sumatra 1:100.000 (Leiden \"Bladwijzer van Oost-Sumatra\" D D 43,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815411/manifest",
+  "manifest_file": "iiif/leiden/815411.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815411/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815411",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:815411/full/300,/0/default.jpg",
+  "width": 6328,
+  "height": 5946,
+  "canvases": 1
+ }
+}

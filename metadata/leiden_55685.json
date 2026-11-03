@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55685",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Manado, D B 20,1, sheet 10",
+ "full_title": "Manado, D B 20,1, sheet 10",
+ "sheet": "10",
+ "hind_series": null,
+ "shelfmark": "D B 20,1, sheet 10",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Internationale wereldkaart; Internationale wereldkaart = Carte internationale du monde"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1942",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Topografische Dienst.; Voorloopige uitgave voor luchtvaart.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55685",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55685",
+ "bladwijzers": [
+  {
+   "nr": "1",
+   "title": "Internationale Wereldkaart",
+   "scale": "1:1.000.000",
+   "hind": "5000",
+   "pdf": "1",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "D B 20: Internationale wereldkaart 1:1.000.000 (Dutch edition)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55685/manifest",
+  "manifest_file": "iiif/leiden/55685.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55685/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55685",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55685/full/300,/0/default.jpg",
+  "width": 9560,
+  "height": 7022,
+  "canvases": 1
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56236",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Kuching",
+ "full_title": "Kuching, / Survey of India.",
+ "sheet": "NA 49/SW",
+ "hind_series": "HIND 5002",
+ "shelfmark": "D B 17,1, sheet 16",
+ "scale": "Schaal 1:500.000",
+ "series": {
+  "title": "Asia ; Hind 5002 Sheet NA 49/SW",
+  "part_of": "Asia (Hind 5002 Sheet NA 49/SW) | Asia /"
+ },
+ "published": "Kuching; [S.l.] : Survey of India, 1945; D B 17,1, sheet 16",
+ "creator": "Survey of India.",
+ "edition": "1st. edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56236",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56236",
+ "bladwijzers": [
+  {
+   "nr": "2",
+   "title": "Asia-serie",
+   "scale": "1:500.000",
+   "hind": "5002",
+   "pdf": "1",
+   "pdf_page": "5",
+   "match_confidence": "high",
+   "match_note": "HIND 5002"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500688560002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/56236.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREEvMzIvODEvQTQvQkYvMzIvQUEvNzQvOTUvRUQvRDcvREQvQUQvMkQvNjQvOEMvMTg4N18xX2l0ZW1fNTYyMzZfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2ODg1NjAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjEwNDU2IiwiaGVpZ2h0IjoiNzQ0MCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREEvMzIvODEvQTQvQkYvMzIvQUEvNzQvOTUvRUQvRDcvREQvQUQvMkQvNjQvOEMvMTg4N18xX2l0ZW1fNTYyMzZfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2ODg1NjAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjEwNDU2IiwiaGVpZ2h0IjoiNzQ0MCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREEvMzIvODEvQTQvQkYvMzIvQUEvNzQvOTUvRUQvRDcvREQvQUQvMkQvNjQvOEMvMTg4N18xX2l0ZW1fNTYyMzZfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2ODg1NjAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjEwNDU2IiwiaGVpZ2h0IjoiNzQ0MCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 10456,
+  "height": 7440,
+  "canvases": 1
+ }
+}

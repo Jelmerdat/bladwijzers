@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-304918419",
+ "source": "National Library of Australia (Trove)",
+ "title": "Schetskaart van Ceram – blad XI",
+ "sheet": "XI",
+ "series": {
+  "id": "6381092",
+  "title": "Schetskaart van Ceram.",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 127°00'--E 131°30'/S 2°00'--S 3°30').",
+  "bbox": {
+   "west": "127.0",
+   "east": "131.5",
+   "north": "-2.0",
+   "south": "-3.5"
+  },
+  "published": "Batavia : Topografische Inrichting, 1917-1921.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Ceram Island, Indonesia. Relief shown by contours and spot heights. | Each sheet has individual number. | Includes index to adjoining sheets, legend, list of abbreviations, and diagram of administrative divisions.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6381092",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6381092.marcxml"
+ },
+ "date": "01 January 1917",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer.",
+ "publisher": "Topografische Inrichting",
+ "call_number": "MAP G8132.C4 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-304918419",
+ "bladwijzers": [
+  {
+   "nr": "62",
+   "title": "Ceram",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "18",
+   "match_confidence": "high",
+   "match_note": "Schetskaart van Ceram 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918419.json",
+  "manifest_file": "iiif/nla/nla.obj-304918419.json",
+  "image": "https://nla.gov.au/nla.obj-304918419/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-304918419/image?wid=300",
+  "width": 14858,
+  "height": 16305
+ }
+}

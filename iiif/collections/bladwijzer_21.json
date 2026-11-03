@@ -1,0 +1,516 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_21.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 21: West-Sumatra 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077600.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad LIV en XLIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077462.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077481.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XIVA"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077504.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077520.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XVIA"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077548.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077561.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-583077585.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's Westkust – blad XVIIIA"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669080002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sawah Loento"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669020002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koenkoen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taroesan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soengai Lansat"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Saroematinggi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pariaman"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taboejoeng"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659300002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Simpang Tonang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Padang Sidimpoean"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelau Marak"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667230002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Solok"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boeo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649970002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Moearo Laboeh"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655080002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Singkoeang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Moearo Tais"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Panjaboengan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tandjoeng Medan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644130002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tapoes"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Si Laping"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Si Lago"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651930002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pasir Talang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Hoeta Nopan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Padang Pandjang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640910002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Natal"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Padang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Indrapoera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Loeboek Si Kaping"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Hoeta Radja Tinggi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663280002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van West Sumatra"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Alahan Pandjang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koto Baharoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Langsat Kadap"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Painan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ranto Pandjang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pajakoemboeh"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelau Panggalaran"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Goenoeng Toea"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pasar Si Boehoean"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644050002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taloe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643970002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dolok Saoet"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Air Bangis"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Goenoeng Malintang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641130002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Binanga"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Katiagan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tikoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Fort de Kock"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Si Galangang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sibolga"
+    ]
+   }
+  }
+ ]
+}

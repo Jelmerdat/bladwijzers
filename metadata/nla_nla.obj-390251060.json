@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-390251060",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Z. en O. afd. v. Bornéo – blad XI&XII/64&65",
+ "sheet": "XI&XII/64&65",
+ "series": {
+  "id": "6859244",
+  "title": "Res. Z. en O. afd. v. Bornéo.",
+  "scale": "Scale 1:200,000 ;",
+  "coordinates": "(E 108°50ʹ00ʺ--E 119°16ʹ00ʺ/N 4°40ʹ00ʺ--S 4°10ʹ00ʺ).",
+  "bbox": {
+   "west": "108.8333",
+   "east": "119.2667",
+   "north": "4.6667",
+   "south": "-4.1667"
+  },
+  "published": "[Batavia?] : [Topografische Dienst?], 1924 -",
+  "extent": "maps :",
+  "notes": "Topographic map series of southern and eastern Borneo. Relief shown by hachures and spot heights. | Includes index to adjoining sheets and administrative diagram. | Sheets gridded to Batavia meridian.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6859244",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6859244.marcxml"
+ },
+ "date": "01 January 1924",
+ "creator": "",
+ "publisher": "[Topografische Dienst?]",
+ "call_number": "MAP G8100 s200",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-390251060",
+ "bladwijzers": [
+  {
+   "nr": "37",
+   "title": "Alg. schetskaarten v/d Z.-O. afd. v. Borneo",
+   "scale": "1:200.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "42",
+   "match_confidence": "medium",
+   "match_note": "Res. Z. en O. afd. v. Borneo 1:200.000 (schetskaarten)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251060.json",
+  "manifest_file": "iiif/nla/nla.obj-390251060.json",
+  "image": "https://nla.gov.au/nla.obj-390251060/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-390251060/image?wid=300",
+  "width": 9885,
+  "height": 11864
+ }
+}

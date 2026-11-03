@@ -1,0 +1,113 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56055/manifest",
+ "@type": "sc:Manifest",
+ "label": "D C 5,1, sheet 17",
+ "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+ "metadata": [
+  {
+   "label": "Title",
+   "value": "[Djampoe], D C 5,1, sheet 17"
+  },
+  {
+   "label": "Author/creator",
+   "value": "Topografische Dienst (Batavia)"
+  },
+  {
+   "label": "Subject (topical)",
+   "value": "Maps (documents)"
+  },
+  {
+   "label": "Country",
+   "value": {
+    "@value": "No place, unknown, or undetermined",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Published (digital)",
+   "value": "Universitaire Bibliotheken Leiden"
+  },
+  {
+   "label": "Date issued",
+   "value": "2009 "
+  },
+  {
+   "label": "Language",
+   "value": {
+    "@value": "Dutch",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Extent",
+   "value": "1 electronic resource."
+  },
+  {
+   "label": "Note",
+   "value": "opgenomen door den Topografischen Dienst in 1930-1931."
+  },
+  {
+   "label": "Part of",
+   "value": [
+    "Gouvernement Celebes en Onderh[origheden] (Zuidwest)",
+    "Gouvernement Celebes en Onderh[origheden] (Zuidwest)"
+   ]
+  },
+  {
+   "label": "Published",
+   "value": "Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1931"
+  },
+  {
+   "label": "Shelfmark",
+   "value": "D C 5,1, sheet 17"
+  },
+  {
+   "label": "Persistent URL",
+   "value": "http://hdl.handle.net/1887.1/item:56055"
+  }
+ ],
+ "attribution": "Full access.<br><a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+ "sequences": [
+  {
+   "@type": "sc:Sequence",
+   "label": "D C 5,1, sheet 17",
+   "canvases": [
+    {
+     "@type": "sc:Canvas",
+     "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56055/canvas/default",
+     "label": "D C 5,1, sheet 17",
+     "height": 5950,
+     "width": 4854,
+     "thumbnail": {
+      "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56055/full/80,/0/default.jpg",
+      "service": {
+       "@context": "http://iiif.io/api/image/2/context.json",
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56055",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     },
+     "images": [
+      {
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56055",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56055/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "height": 5950,
+        "width": 4854,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56055",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+       },
+       "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56055/canvas/default"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

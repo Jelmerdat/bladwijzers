@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-589210403",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra. Res. Sumatra's Westkust – blad 21/XXII-B",
+ "sheet": "21/XXII-B",
+ "series": {
+  "id": "6610531",
+  "title": "Sumatra. Res. Sumatra's Westkust",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 92°30'--E 109°00'/N 8°30'--S 8°00').",
+  "bbox": {
+   "west": "92.5",
+   "east": "109.0",
+   "north": "8.5",
+   "south": "-8.0"
+  },
+  "published": "[Batavia, Jakarta] : Topografische Inrichting, 1925-33.",
+  "extent": "maps :",
+  "notes": "Topographic map series of west Sumatra, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading and spot heights. | Includes bladindeeling and administrative indeeling.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6610531",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6610531.marcxml"
+ },
+ "date": "01 January 1925",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer, issuing body.",
+ "publisher": "Topografische Inrichting",
+ "call_number": "MAP G8080 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-589210403",
+ "bladwijzers": [
+  {
+   "nr": "19",
+   "title": "Midden Sumatra",
+   "scale": "1:50.000",
+   "hind": "1061",
+   "pdf": "1",
+   "pdf_page": "24",
+   "match_confidence": "high",
+   "match_note": "Res. Sumatra's Westkust 1:50.000 = Midden Sumatra"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210403.json",
+  "manifest_file": "iiif/nla/nla.obj-589210403.json",
+  "image": "https://nla.gov.au/nla.obj-589210403/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-589210403/image?wid=300",
+  "width": 10293,
+  "height": 12328
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_24.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 24: Zuid Sumatra 1:200.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717536.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, res. Palembang – blad A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717557.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, res. Palembang – blad B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717573.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, res. Palembang – blad C"
+    ]
+   }
+  }
+ ]
+}

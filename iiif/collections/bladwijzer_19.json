@@ -1,0 +1,363 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_19.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 19: Midden Sumatra 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209350.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 17-18/XIX-XX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209482.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 17-18/XX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209539.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 17-18/XXI-XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209552.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 20/XXI-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209685.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 20/XXI-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209721.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 20/XXI-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209792.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 20/XXI-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209878.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 20/XXII-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589209919.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 20/XXII-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210045.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXI-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210084.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXI-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210101.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXI-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210255.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXI-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210278.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXII-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210403.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXII-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210442.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXII-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210577.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXII-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210614.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXIII-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-589210638.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra. Res. Sumatra's Westkust – blad 21/XXIII-B"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoenglolo]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631630002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Batoegadjah]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655410002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengailansat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kamang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Midden Sumatra : 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekramo]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500657930002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Iboel]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearapantai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Goenoengmedan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Abai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Oedjoengtandjoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Garnizoenskaart van Fort De Kock"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengaidareh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Takoeng-Hilir]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengailimau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Gadang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kotabaroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Garnizoenskaart van Padang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Garnizoenskaart van Padangpandjang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengaikoenit]"
+    ]
+   }
+  }
+ ]
+}

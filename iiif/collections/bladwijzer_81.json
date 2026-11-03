@@ -1,0 +1,93 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_81.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 81: Sawar en omgeving 1:20.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Woske River"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wentor River"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kedir"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sarmi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516380920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Sawar en omgeving"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Arara"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kowera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676340002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sawar Drome"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Maffin Village"
+    ]
+   }
+  }
+ ]
+}

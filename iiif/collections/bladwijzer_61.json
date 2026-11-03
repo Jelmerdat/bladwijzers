@@ -1,0 +1,39 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_61.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 61: Ambon 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435032.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ambon-groep – blad XXX-101-A"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55701/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Schiereiland Laitimor], D C 22,3, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56402/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Saparoea], D C 12,9, sheet 3"
+    ]
+   }
+  }
+ ]
+}

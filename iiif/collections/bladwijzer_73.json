@@ -1,0 +1,129 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_73.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 73: Biak-Japen 1:63.360"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mamoribo (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516386910002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Eilanden Biak-Japen en Kuststrook Verkam-Hollandia"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Cape Noeborsbari (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Cape Oerimbori (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680300002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sowek (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sorendidori Strait (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Cape Wararisbari (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sansoendi (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waroi (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bosndisbari (Schouten Islands)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kamenapi (Japen Island)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ambai (Japen Island)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bosnek (Schouten Islands)"
+    ]
+   }
+  }
+ ]
+}

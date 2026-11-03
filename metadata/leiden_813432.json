@@ -1,0 +1,45 @@
+{
+ "id": "leiden:813432",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Sialanggaoeng",
+ "full_title": "Sialanggaoeng, / published by Survey Directorate H[ead] Q[uarters] ALFSEA ; reprinted from kodalines by 110 Map Production Co[mpan]y R.E.",
+ "sheet": "21-20/XXII",
+ "hind_series": "HIND 1059",
+ "shelfmark": "D D 43,109",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "East Sumatra ; HIND 1059 Sheet 21-20/XXII",
+  "part_of": "East Sumatra. 1:100.000 (HIND 1059 Sheet 21-20/XXII) | East Sumatra : 1:100.000."
+ },
+ "published": "Sialanggaoeng; [S.l.] : Survey Directorate H[ead] Q[uarters] ALFSEA, 1946; D D 43,109",
+ "creator": "Army Map Service, U.S. Army (Washington)",
+ "edition": null,
+ "notes": "1st. edition in 1944.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:813432",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/813432",
+ "bladwijzers": [
+  {
+   "nr": "22",
+   "title": "Oost-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1059",
+   "pdf": "1",
+   "pdf_page": "27",
+   "match_confidence": "high",
+   "match_note": "HIND 1059"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663580002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/813432.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODUvNzcvRDMvRDYvNkUvM0EvMDEvMzQvQzIvNkYvNzEvNDUvNjgvQjgvMUQvMTQvMTg4N18xX2l0ZW1fODEzNDMyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYzNTgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI3MjU2IiwiaGVpZ2h0IjoiNjc3MyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODUvNzcvRDMvRDYvNkUvM0EvMDEvMzQvQzIvNkYvNzEvNDUvNjgvQjgvMUQvMTQvMTg4N18xX2l0ZW1fODEzNDMyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYzNTgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI3MjU2IiwiaGVpZ2h0IjoiNjc3MyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODUvNzcvRDMvRDYvNkUvM0EvMDEvMzQvQzIvNkYvNzEvNDUvNjgvQjgvMUQvMTQvMTg4N18xX2l0ZW1fODEzNDMyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYzNTgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI3MjU2IiwiaGVpZ2h0IjoiNjc3MyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 7256,
+  "height": 6773,
+  "canvases": 1
+ }
+}

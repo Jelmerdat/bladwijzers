@@ -1,0 +1,117 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55672/manifest",
+ "@type": "sc:Manifest",
+ "label": "D C 35,1, sheet 22",
+ "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+ "metadata": [
+  {
+   "label": "Title",
+   "value": "G[oenong] Bateëkapaj"
+  },
+  {
+   "label": "Subtitle",
+   "value": "opgenomen door den Topografischen Dienst in 1936-1937, D C 35,1, sheet 22"
+  },
+  {
+   "label": "Author/creator",
+   "value": "Topografische Dienst (Batavia)"
+  },
+  {
+   "label": "Subject (topical)",
+   "value": "Maps (documents)"
+  },
+  {
+   "label": "Country",
+   "value": {
+    "@value": "No place, unknown, or undetermined",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Published (digital)",
+   "value": "Universitaire Bibliotheken Leiden"
+  },
+  {
+   "label": "Date issued",
+   "value": "2009 "
+  },
+  {
+   "label": "Language",
+   "value": {
+    "@value": "Dutch",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Extent",
+   "value": "1 electronic resource."
+  },
+  {
+   "label": "Note",
+   "value": "Legenda."
+  },
+  {
+   "label": "Part of",
+   "value": [
+    "Gouv[ernement] Sumatra. Res[identie] Atjeh en Onderh[oorigheden]",
+    "Gouv[ernement] Sumatra : Res[identie] Atjeh en Onderh[oorigheden]"
+   ]
+  },
+  {
+   "label": "Published",
+   "value": "Batavia : Reproductiebedrijf Topografische Dienst, 1939"
+  },
+  {
+   "label": "Shelfmark",
+   "value": "D C 35,1, sheet 22"
+  },
+  {
+   "label": "Persistent URL",
+   "value": "http://hdl.handle.net/1887.1/item:55672"
+  }
+ ],
+ "attribution": "Full access.<br><a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+ "sequences": [
+  {
+   "@type": "sc:Sequence",
+   "label": "D C 35,1, sheet 22",
+   "canvases": [
+    {
+     "@type": "sc:Canvas",
+     "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55672/canvas/default",
+     "label": "D C 35,1, sheet 22",
+     "height": 5966,
+     "width": 4912,
+     "thumbnail": {
+      "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55672/full/80,/0/default.jpg",
+      "service": {
+       "@context": "http://iiif.io/api/image/2/context.json",
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55672",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     },
+     "images": [
+      {
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55672",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55672/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "height": 5966,
+        "width": 4912,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55672",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+       },
+       "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55672/canvas/default"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

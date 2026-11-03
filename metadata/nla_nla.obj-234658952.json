@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-234658952",
+ "source": "National Library of Australia (Trove)",
+ "title": "[Maps of Flores] – blad 1",
+ "sheet": "1",
+ "series": {
+  "id": "6608907",
+  "title": "[Maps of Flores]",
+  "scale": "Scale 1:50,000 and 1:100,000",
+  "coordinates": "(E 119°22'00\"--E 123°55'00\"/S 8°03'00\"--S 8°57'53\").",
+  "bbox": {
+   "west": "119.3667",
+   "east": "123.9167",
+   "north": "-8.05",
+   "south": "-8.9647"
+  },
+  "published": "[Weltevreden] : [Topografische dienst], 1916-1931.",
+  "extent": "maps :",
+  "notes": "Topographic map of Flores Island, Indonesia and surrounding region showing administrative boundaries, roads, transportation, water features and populated places. Relief shown by contours, hachures and spot heights. | On some sheets: Reproductiebedrijf T D Weltevreden; Reproductiebedrijf Topografische dienst, Weltevreden; Reproductiebedrijf Topografische dienst, Batavia. | On some sheets: Auteursrecht voorbehouden (Stbl. 1912 no. 600) | Includes legend. | National Library of Australia's copies have label at bottom left corner on some sheets: LHQ/301/3296; Misc. 433. Some sheets have m",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6608907",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6608907.marcxml"
+ },
+ "date": "01 January 1916",
+ "creator": "Netherlands. Topografische Dienst, cartographer.",
+ "publisher": "[Topografische dienst]",
+ "call_number": "MAP G8117.F5 svar",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-234658952",
+ "bladwijzers": [
+  {
+   "nr": "54",
+   "title": "Onderafd. Oost Flores en Solor enz.",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "11",
+   "match_confidence": "high",
+   "match_note": "Maps of Flores 1:50.000 and 1:100.000"
+  },
+  {
+   "nr": "55",
+   "title": "Onderafd. Ende-Ngada en N. en W. Mangerai",
+   "scale": "1:50.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "12",
+   "match_confidence": "high",
+   "match_note": "Maps of Flores 1:50.000 and 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658952.json",
+  "manifest_file": "iiif/nla/nla.obj-234658952.json",
+  "image": "https://nla.gov.au/nla.obj-234658952/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-234658952/image?wid=300",
+  "width": 15931,
+  "height": 17225
+ }
+}

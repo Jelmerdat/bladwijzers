@@ -1,0 +1,123 @@
+{
+ "@context": "http://iiif.io/api/presentation/2/context.json",
+ "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57627/manifest",
+ "@type": "sc:Manifest",
+ "label": "Sarawak D B 20,1, sheet 8 ",
+ "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+ "metadata": [
+  {
+   "label": "Title",
+   "value": "Sarawak"
+  },
+  {
+   "label": "Author/creator",
+   "value": "Topografische Dienst (Batavia)"
+  },
+  {
+   "label": "Subject (topical)",
+   "value": "Maps (documents)"
+  },
+  {
+   "label": "Country",
+   "value": {
+    "@value": "No place, unknown, or undetermined",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Published (digital)",
+   "value": "Universitaire Bibliotheken Leiden"
+  },
+  {
+   "label": "Date issued",
+   "value": "2009 "
+  },
+  {
+   "label": "Language",
+   "value": {
+    "@value": "Dutch",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Language",
+   "value": {
+    "@value": "English",
+    "@language": "eng"
+   }
+  },
+  {
+   "label": "Extent",
+   "value": "1 electronic resource."
+  },
+  {
+   "label": "Note",
+   "value": [
+    "samengesteld en gedrukt bij den Topografischen Dienst.",
+    "Legenda."
+   ]
+  },
+  {
+   "label": "Part of",
+   "value": [
+    "Internationale wereldkaart",
+    "Internationale wereldkaart = Carte internationale du monde"
+   ]
+  },
+  {
+   "label": "Published",
+   "value": "Batavia : Topografische Dienst, 1935"
+  },
+  {
+   "label": "Shelfmark",
+   "value": "D B 20,1, sheet 8"
+  },
+  {
+   "label": "Persistent URL",
+   "value": "http://hdl.handle.net/1887.1/item:57627"
+  }
+ ],
+ "attribution": "Full access.<br><a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+ "sequences": [
+  {
+   "@type": "sc:Sequence",
+   "label": "Sarawak D B 20,1, sheet 8 ",
+   "canvases": [
+    {
+     "@type": "sc:Canvas",
+     "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57627/canvas/default",
+     "label": "Sarawak D B 20,1, sheet 8 ",
+     "height": 7935,
+     "width": 9344,
+     "thumbnail": {
+      "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57627/full/80,/0/default.jpg",
+      "service": {
+       "@context": "http://iiif.io/api/image/2/context.json",
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57627",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     },
+     "images": [
+      {
+       "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57627",
+       "@type": "oa:Annotation",
+       "motivation": "sc:painting",
+       "resource": {
+        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57627/full/full/0/default.jpg",
+        "@type": "dctypes:Image",
+        "height": 7935,
+        "width": 9344,
+        "service": {
+         "@context": "http://iiif.io/api/image/2/context.json",
+         "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57627",
+         "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+       },
+       "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57627/canvas/default"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

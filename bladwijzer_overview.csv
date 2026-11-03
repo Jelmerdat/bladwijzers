@@ -1,0 +1,89 @@
+﻿bladwijzer_nr,title,scale,hind,pdf,pdf_page,maps_high,maps_medium,maps_low,sources,iiif_collection,status,notes
+1,Internationale Wereldkaart,1:1.000.000,5000,1,4,29,0,0,Leiden: 29,iiif/collections/bladwijzer_1.json,found,Asia HIND 5000
+2,Asia-serie,1:500.000,5002,1,5,18,0,0,Leiden: 18,iiif/collections/bladwijzer_2.json,found,pencil: nr. 20 niet aanwezig
+3,"Java en Madura, Overzichtskaart",1:250.000,,1,6,12,0,0,National: 12,iiif/collections/bladwijzer_3.json,found,
+4,"Java, Madura en Bali",1:250.000,1046,1,7,22,0,12,Leiden: 22; National: 12,iiif/collections/bladwijzer_4.json,found,
+5,Landbouwstatistiekkaart Java en Madura,1:150.000,,1,8,0,0,0,,,not found online,
+6,"Java en Madura, Geologische kaart",1:100.000,,1,9,0,0,0,,,not found online,
+7,West- en Midden Java,1:100.000,663,1,10,0,9,0,National: 9,iiif/collections/bladwijzer_7.json,candidates - check,
+8,Java en Madura,1:50.000,1080,1,11,382,0,0,National: 382,iiif/collections/bladwijzer_8.json,found,page 1 of 2
+9,Java en Madura,1:25.000,,1,13,737,0,0,Leiden: 700; National: 37,iiif/collections/bladwijzer_9.json,found,page 1 of 2
+10,Overzichtskaart Sumatra,1:250.000,,1,15,19,0,0,National: 19,iiif/collections/bladwijzer_10.json,found,
+11,Sumatra,1:250.000,1042,1,16,23,52,0,Leiden: 23; National: 52,iiif/collections/bladwijzer_11.json,found,
+12,Geologische kaart v. Zuid Sumatra,1:200.000,,1,17,0,0,0,,,not found online,
+13,Noord Sumatra,1:200.000,655,1,18,1,13,2,National: 5; Leiden: 11,iiif/collections/bladwijzer_13.json,found,
+14,Noord Sumatra,1:100.000,656,1,19,0,0,104,Leiden: 2; National: 102,iiif/collections/bladwijzer_14.json,candidates - check,
+15,N.W. Sumatra,1:50.000,1057,1,20,37,10,0,National: 37; Leiden: 10,iiif/collections/bladwijzer_15.json,found,
+16,N.O. Sumatra,1:50.000,1044,1,21,0,56,60,National: 116,iiif/collections/bladwijzer_16.json,candidates - check,
+17,Sumatra's Oostkust,1:50.000,1062,1,22,57,17,0,Leiden: 18; National: 56,iiif/collections/bladwijzer_17.json,found,
+18,Noord Sumatra,1:100.000,1063,1,23,31,0,0,Leiden: 9; National: 22,iiif/collections/bladwijzer_18.json,found,
+19,Midden Sumatra,1:50.000,1061,1,24,39,0,0,Leiden: 20; National: 19,iiif/collections/bladwijzer_19.json,found,
+20,Midden Sumatra,1:40.000,1043,1,25,472,0,0,Leiden: 127; National: 345,iiif/collections/bladwijzer_20.json,found,
+21,West-Sumatra,1:100.000,1058,1,26,56,0,0,Leiden: 48; National: 8,iiif/collections/bladwijzer_21.json,found,
+22,Oost-Sumatra,1:100.000,1059,1,27,214,0,0,Leiden: 107; National: 107,iiif/collections/bladwijzer_22.json,found,
+23,Zuid Sumatra,1:100.000,1060,1,28,6,100,102,Leiden: 106; National: 102,iiif/collections/bladwijzer_23.json,found,
+24,Zuid Sumatra,1:200.000,,1,29,3,0,0,National: 3,iiif/collections/bladwijzer_24.json,found,
+25,Bangka,1:50.000,1097,1,30,42,0,0,Leiden: 42,iiif/collections/bladwijzer_25.json,found,
+26,Bangka,1:25.000,,1,31,350,0,0,Leiden: 176; National: 174,iiif/collections/bladwijzer_26.json,found,
+27,Billiton,1:100.000,1094,1,32,0,0,0,,,not found online,
+28,Riouw-Archipel,1:63.360,1035,1,33,16,0,0,Leiden: 16,iiif/collections/bladwijzer_28.json,found,
+29,Natuna-eilanden,1:100.000,,1,34,0,0,0,,,not found online,
+30,Anambas-eilanden,1:200.000,,1,35,0,0,0,,,not found online,
+31,Simeuloeë,1:50.000,602,1,36,0,0,0,,,not found online,
+32,Nias,1:50.000,,1,37,0,2,0,Leiden: 2,iiif/collections/bladwijzer_32.json,candidates - check,
+33,Mentawei eil.,1:100.000,1045,1,38,28,0,1,Leiden: 14; National: 15,iiif/collections/bladwijzer_33.json,found,
+34,West Borneo,1:200.000,1099,1,39,41,5,0,Leiden: 15; National: 31,iiif/collections/bladwijzer_34.json,found,
+35,West Borneo,1:50.000,625,1,40,1,0,0,National: 1,iiif/collections/bladwijzer_35.json,found,
+36,Zuider- en Oosterafd. v. Borneo,1:250.000,1112,1,41,4,0,0,Leiden: 4,iiif/collections/bladwijzer_36.json,found,
+37,Alg. schetskaarten v/d Z.-O. afd. v. Borneo,1:200.000,,1,42,3,33,0,Leiden: 3; National: 33,iiif/collections/bladwijzer_37.json,found,
+38,Z. en O. afd. v. Borneo,1:100.000,620,1,43,88,8,0,National: 88; Leiden: 8,iiif/collections/bladwijzer_38.json,found,
+39a,Zuider- en Oosterafd. v. Borneo,1:50.000,623,1,44,7,0,0,Leiden: 4; National: 3,iiif/collections/bladwijzer_39a.json,found,
+39b,Zuider- en Oosterafd. v. Borneo,1:50.000,623,1,45,7,0,0,Leiden: 4; National: 3,iiif/collections/bladwijzer_39b.json,found,
+40,Balikpapan en omgeving,1:25.000,,1,46,0,3,0,Leiden: 3,iiif/collections/bladwijzer_40.json,candidates - check,
+41,Midden Celebes,1:200.000,619,1,47,0,0,20,National: 20,iiif/collections/bladwijzer_41.json,candidates - check,
+42,"Celebes, Sangihe en Talaud eil.",1:200.000,,1,48,20,0,0,National: 20,iiif/collections/bladwijzer_42.json,found,
+43,Minahasa en Midden Celebes,1:100.000,,1,49,13,2,0,National: 13; Leiden: 2,iiif/collections/bladwijzer_43.json,found,two index maps on one page
+44,Zuid-West Celebes,1:125.000,626,2,1,19,0,0,Leiden: 19,iiif/collections/bladwijzer_44.json,found,
+45,Z.W. Celebes,1:100.000,,2,2,22,0,0,National: 22,iiif/collections/bladwijzer_45.json,found,
+46,Zuid West Celebes,1:50.000,629,2,3,87,9,0,National: 87; Leiden: 9,iiif/collections/bladwijzer_46.json,found,
+47,Zuid Celebes,1:25.000,,2,4,27,0,5,National: 27; Leiden: 5,iiif/collections/bladwijzer_47.json,found,
+48,Talaud eilanden,1:63.360,,2,5,0,2,2,Leiden: 4,iiif/collections/bladwijzer_48.json,candidates - check,
+49,Talaud eilanden,1:20.000,,2,6,0,2,1,Leiden: 3,iiif/collections/bladwijzer_49.json,candidates - check,
+50,Overzichtskaart Kleine Sunda eil.,1:250.000,1120,2,7,0,0,0,,,not found online,
+51,Bali,1:50.000,1119,2,8,26,0,0,National: 26,iiif/collections/bladwijzer_51.json,found,
+52,Lombok,1:25.000 / 1:50.000,,2,9,3,0,0,National: 3,iiif/collections/bladwijzer_52.json,found,
+53,Sumba,1:100.000,638,2,10,38,0,0,National: 38,iiif/collections/bladwijzer_53.json,found,
+54,Onderafd. Oost Flores en Solor enz.,1:100.000,,2,11,13,0,0,National: 13,iiif/collections/bladwijzer_54.json,found,
+55,Onderafd. Ende-Ngada en N. en W. Mangerai,1:50.000,,2,12,13,3,0,National: 13; Leiden: 3,iiif/collections/bladwijzer_55.json,found,
+56,P. Alor,1:100.000,,2,13,2,2,0,National: 4,iiif/collections/bladwijzer_56.json,found,
+57,Timor,1:100.000,637,2,14,46,13,0,National: 59,iiif/collections/bladwijzer_57.json,found,
+58,Zuid Wester- en Zuid Ooster eil.,1:200.000,,2,15,0,0,0,,,not found online,
+59,P. Tanimbar (Selaroe eil.),1:63.360,,2,16,0,2,0,Leiden: 2,iiif/collections/bladwijzer_59.json,candidates - check,
+60,Ambon,1:100.000,,2,17,4,1,1,National: 4; Leiden: 2,iiif/collections/bladwijzer_60.json,found,top half of page
+61,Ambon,1:50.000,635,2,17,1,1,1,National: 1; Leiden: 2,iiif/collections/bladwijzer_61.json,found,bottom half of page
+62,Ceram,1:100.000,,2,18,19,0,0,Leiden: 6; National: 13,iiif/collections/bladwijzer_62.json,found,
+63,"Halmahera 1:100.000; Ternate, Tidore enz.",1:100.000 / 1:20.000,632,2,19,39,10,3,National: 39; Leiden: 13,iiif/collections/bladwijzer_63.json,found,
+64,Morotai,1:63.360,634,2,20,7,0,0,Leiden: 7,iiif/collections/bladwijzer_64.json,found,pencil: + 1 kt Morotai schaal 1:250.000 Nr 8
+65,P. Morotai,1:20.000,,2,21,0,0,0,,,not found online,
+66,Aroe-eilanden,1:200.000,,2,22,0,0,0,,,not found online,erratum in TOC
+67,Nieuw-Guinea,1:500.000 / 1:300.000,,2,23,0,0,0,,,not found online,
+68,Nieuw Guinea,1:100.000,,2,24,542,0,0,Leiden: 211; National: 331,iiif/collections/bladwijzer_68.json,found,
+69,Nieuw Guinea,1:250.000,644,2,25,19,171,36,Leiden: 90; National: 136,iiif/collections/bladwijzer_69.json,found,
+69A,Nieuw Guinea,1:250.000,644,2,26,19,171,36,Leiden: 90; National: 136,iiif/collections/bladwijzer_69A.json,found,
+70,Radja ampat groep,1:63.360,,2,27,12,0,0,Leiden: 12,iiif/collections/bladwijzer_70.json,found,
+71,N.W. en N.O. Vogelkop,1:63.360,646,2,28,25,0,0,Leiden: 25,iiif/collections/bladwijzer_71.json,found,shared page with 72
+72,N.W. en N.O. Vogelkop,1:63.360,646,2,28,25,0,0,Leiden: 25,iiif/collections/bladwijzer_72.json,found,shared page with 71
+73,Biak-Japen,1:63.360,,2,29,13,0,0,Leiden: 13,iiif/collections/bladwijzer_73.json,found,shared page with 74
+74,Kuststreek Verkam-Hollandia,1:63.360,,2,29,21,0,0,Leiden: 21,iiif/collections/bladwijzer_74.json,found,shared page with 73
+75,Merauke en omgeving,1:63.360,,2,30,4,0,0,Leiden: 4,iiif/collections/bladwijzer_75.json,found,top half
+76,Noordwest Vogelkop,1:20.000,,2,31,23,0,0,Leiden: 23,iiif/collections/bladwijzer_76.json,found,
+77,Manokwari en omgeving,1:20.000,,2,32,16,0,0,Leiden: 16,iiif/collections/bladwijzer_77.json,found,
+78,Moemi en omgeving,1:20.000,,2,33,6,0,0,Leiden: 6,iiif/collections/bladwijzer_78.json,found,
+78A,Nabire en omgeving,1:20.000,,2,30,1,0,0,Leiden: 1,iiif/collections/bladwijzer_78A.json,found,bottom half of page with 75
+79,Eiland Noemfoor en Z. Biak,1:20.000,,2,34,11,0,0,Leiden: 11,iiif/collections/bladwijzer_79.json,found,shared page with 80
+80,Eiland Noemfoor en Z. Biak,1:20.000,,2,34,9,0,0,Leiden: 9,iiif/collections/bladwijzer_80.json,found,shared page with 79
+81,Sawar en omgeving,1:20.000,,2,35,9,0,0,Leiden: 9,iiif/collections/bladwijzer_81.json,found,
+82,Hollandia en omgeving,1:20.000,,2,36,30,0,0,Leiden: 30,iiif/collections/bladwijzer_82.json,found,
+83,Eilanden rondom Waigeo,1:63.360,,2,37,8,0,0,Leiden: 8,iiif/collections/bladwijzer_83.json,found,
+84,Eilanden rondom Nieuw Guinea,1:20.000,,2,38,6,0,0,Leiden: 6,iiif/collections/bladwijzer_84.json,found,with Mapia-eil. N.v. Manokwari
+extra,Nederlands-Nieuw-Guinea bladindeling,1:100.000,,2,39,331,0,0,National: 331,iiif/collections/bladwijzer_extra.json,found,loose sheet: printed grid index

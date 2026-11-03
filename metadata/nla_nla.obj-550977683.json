@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-550977683",
+ "source": "National Library of Australia (Trove)",
+ "title": "West Coast Sumatra 1:40,000 – blad 57",
+ "sheet": "57",
+ "series": {
+  "id": "2073082",
+  "title": "West Coast Sumatra 1:40,000",
+  "scale": "Scale 1:40,000 ;",
+  "coordinates": "(E 100°21'/S 1°00')",
+  "bbox": {
+   "west": "100.35",
+   "east": "100.35",
+   "north": "-1.0",
+   "south": "-1.0"
+  },
+  "published": "Washington, D.C. : Army Map Service, 1943.",
+  "extent": "127 maps ;",
+  "notes": "Topographic map of Sumatra showing state, district and province boundaries, main roads, railways, plantations, water features and settlements. Relief shown by contours and spot heights. | AMS T711 is an American wartime reprinting of Dutch series, with English legend and Netherlands East Indies Equatorial Zone grid. AMS T711 was itself reprinted as series HIND 1043 by Survey of India [Dehra Dun?], 1943. | Includes index to adjoining sheets and conversion table | \"Spheroid: Bessel\". | Padang meridian | Sheets numbered 1 to 64 and 68 to 130. Sheet numbers 65, 66 and 67 do not appear ",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/2073082",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/2073082.marcxml"
+ },
+ "date": "01 January 1943",
+ "creator": "United States. Army Map Service.",
+ "publisher": "Army Map Service",
+ "call_number": "MAP G8080 s40",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-550977683",
+ "bladwijzers": [
+  {
+   "nr": "20",
+   "title": "Midden Sumatra",
+   "scale": "1:40.000",
+   "hind": "1043",
+   "pdf": "1",
+   "pdf_page": "25",
+   "match_confidence": "high",
+   "match_note": "AMS T711 West Coast Sumatra 1:40.000, reprinted as HIND 1043 = bladwijzer HIND number"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977683.json",
+  "manifest_file": "iiif/nla/nla.obj-550977683.json",
+  "image": "https://nla.gov.au/nla.obj-550977683/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-550977683/image?wid=300",
+  "width": 13208,
+  "height": 16852
+ }
+}

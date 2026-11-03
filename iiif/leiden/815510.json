@@ -1,0 +1,334 @@
+{
+ "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660680002711/manifest?iiifVersion=3",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "[Kota Batoe], / opgenomen in 1909-1916 [door den Topographischen Dienst]"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "none": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "[Kota Batoe], / opgenomen in 1909-1916 [door den Topographischen Dienst]"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Author/Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Topographische Inrichting (Batavia)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Shelfmark"
+    ]
+   },
+   "value": {
+    "none": [
+     "D D 41,71 "
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leiden : Universitaire Bibliotheken Leiden"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "2009"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Form"
+    ]
+   },
+   "value": {
+    "none": [
+     "1 electronic resource."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Schaal 1:100.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Language"
+    ]
+   },
+   "value": {
+    "none": [
+     "dut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Description"
+    ]
+   },
+   "value": {
+    "none": [
+     "Legenda."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Original version note"
+    ]
+   },
+   "value": {
+    "none": [
+     "[Kota Batoe]; Batavia : Topographische Inrichting, 1922; D D 41,71"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra. 1:100.000 (Blad XXV)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra : 1:100.000."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bengkulu"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatera Selatan"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "topography"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Series"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra : Res[identië]n Palembang en Benkoelen ; Blad XXV"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Identifier"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a target=\"_blank\" href=https://leidenuniv.idm.oclc.org/login?url=http://www.worldcat.org/search?q=no:776758655>776758655</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "Full access."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">The rights status of this resource is public domain</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Permalink"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://hdl.handle.net/1887.1/item:815510"
+    ]
+   }
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/12500660680002711",
+   "type": "Image"
+  }
+ ],
+ "viewingDirection": "left-to-right",
+ "behavior": [
+  "individuals"
+ ],
+ "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+ "provider": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/delivery/31UKB_LEU/12500660680002711/provider",
+   "type": "Agent",
+   "label": {
+    "none": [
+     "Leiden University"
+    ]
+   },
+   "logo": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+     "type": "Image",
+     "service": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+       "type": "ImageService2",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660680002711/canvas/13500660150002711?iiifVersion=3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "01 - D D 41,71"
+    ]
+   },
+   "width": 4890,
+   "height": 5928,
+   "items": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660680002711/annopage/13500660150002711?iiifVersion=3",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660680002711/annopage/13500660150002711?iiifVersion=3",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzMvRjcvRUMvNUQvNTAvNDgvMUEvREUvQjUvMUQvNkIvNzEvMDMvRTYvRjkvMTQvMTg4N18xX2l0ZW1fODE1NTEwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwNjgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODkwIiwiaGVpZ2h0IjoiNTkyOCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+        "type": "Image",
+        "format": "image/jp2",
+        "service": [
+         {
+          "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzMvRjcvRUMvNUQvNTAvNDgvMUEvREUvQjUvMUQvNkIvNzEvMDMvRTYvRjkvMTQvMTg4N18xX2l0ZW1fODE1NTEwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwNjgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODkwIiwiaGVpZ2h0IjoiNTkyOCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+          "type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+         }
+        ],
+        "height": 5928,
+        "width": 4890
+       },
+       "target": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660680002711/canvas/13500660150002711?iiifVersion=3"
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/13500660150002711",
+     "type": "Image"
+    }
+   ]
+  }
+ ],
+ "@context": "http://iiif.io/api/presentation/3/context.json"
+}

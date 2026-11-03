@@ -1,0 +1,55 @@
+{
+ "id": "leiden:55714",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bladwijzer van Zuider- en ooster Afd[eling] v[an] Borneo",
+ "full_title": "Bladwijzer van Zuider- en ooster Afd[eling] v[an] Borneo,",
+ "sheet": null,
+ "hind_series": "HIND 623",
+ "shelfmark": "D B 49,4, index.",
+ "scale": "Schaal 1:50.000",
+ "series": {
+  "title": "HIND 623",
+  "part_of": "Southeastern Borneo | Southeastern Borneo /"
+ },
+ "published": "Bladwijzer van Zuider- en ooster Afd[eling] v[an] Borneo; [S.l. : s.n.], [ca. 1947]; D B 49,4, index",
+ "creator": null,
+ "edition": null,
+ "notes": null,
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55714",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55714",
+ "bladwijzers": [
+  {
+   "nr": "39a",
+   "title": "Zuider- en Oosterafd. v. Borneo",
+   "scale": "1:50.000",
+   "hind": "623",
+   "pdf": "1",
+   "pdf_page": "44",
+   "match_confidence": "high",
+   "match_note": "HIND 623"
+  },
+  {
+   "nr": "39b",
+   "title": "Zuider- en Oosterafd. v. Borneo",
+   "scale": "1:50.000",
+   "hind": "623",
+   "pdf": "1",
+   "pdf_page": "45",
+   "match_confidence": "high",
+   "match_note": "HIND 623"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663710002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55714.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRUIvRTEvMUEvMEMvM0QvMTEvQ0QvMEYvNTkvQzkvN0YvQ0YvNjQvRDYvRUEvRTMvMTg4N18xX2l0ZW1fNTU3MTRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM3MTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjM5NjAiLCJoZWlnaHQiOiIyNzUxIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRUIvRTEvMUEvMEMvM0QvMTEvQ0QvMEYvNTkvQzkvN0YvQ0YvNjQvRDYvRUEvRTMvMTg4N18xX2l0ZW1fNTU3MTRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM3MTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjM5NjAiLCJoZWlnaHQiOiIyNzUxIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRUIvRTEvMUEvMEMvM0QvMTEvQ0QvMEYvNTkvQzkvN0YvQ0YvNjQvRDYvRUEvRTMvMTg4N18xX2l0ZW1fNTU3MTRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM3MTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjM5NjAiLCJoZWlnaHQiOiIyNzUxIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 3960,
+  "height": 2751,
+  "canvases": 1
+ }
+}

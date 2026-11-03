@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-549029436",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Sumatra's westkust – blad 12/XXI-XXII",
+ "sheet": "12/XXI-XXII",
+ "series": {
+  "id": "1899928",
+  "title": "Res. Sumatra's westkust",
+  "scale": "Scale 1:100 000",
+  "coordinates": "(E 98°20'--E 148°00'/S 0°55'--S 3°40')",
+  "bbox": {
+   "west": "98.3333",
+   "east": "148.0",
+   "north": "-0.9167",
+   "south": "-3.6667"
+  },
+  "published": "Batavia, [Jakarta] : Reproductiebedrijf Topografische dienst, 1933-1938.",
+  "extent": "14 maps :",
+  "notes": "Map series of the Mentawai Islands showing transportation ground and water features, vegetation, cultivation, religious sites, kampongs and buildings. Relief shown by contours, hachures and spot heights. | Map series in Dutch. | After title: (P. Siberoet) -- (P. Sipoera) -- (Noord-Pagaï en P. Sipoera) --  (Noord Pagaï) -- (Noord- en Zuid Pagaï). | Includes index to adjoining sheets, boundary diagram, abbreviations and compilation notes.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/1899928",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/1899928.marcxml"
+ },
+ "date": "01 January 1933",
+ "creator": "Dutch East Indies. Topografische Dienst.",
+ "publisher": "Reproductiebedrijf Topografische dienst",
+ "call_number": "MAP G8082.M4 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-549029436",
+ "bladwijzers": [
+  {
+   "nr": "33",
+   "title": "Mentawei eil.",
+   "scale": "1:100.000",
+   "hind": "1045",
+   "pdf": "1",
+   "pdf_page": "38",
+   "match_confidence": "high",
+   "match_note": "Res. Sumatra's westkust 1:100.000, 14 sheets incl. Sipoera and Pagai = Mentawai (14 sheets on bladwijzer)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549029436.json",
+  "manifest_file": "iiif/nla/nla.obj-549029436.json",
+  "image": "https://nla.gov.au/nla.obj-549029436/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-549029436/image?wid=300",
+  "width": 10036,
+  "height": 14196
+ }
+}

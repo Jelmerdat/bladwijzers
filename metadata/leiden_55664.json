@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55664",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bandjermasin",
+ "full_title": "Bandjermasin, / prepared under the direction of the Chief of Engineers by the Army Map Service, US Army.",
+ "sheet": "SA 50 S",
+ "hind_series": "HIND 1112",
+ "shelfmark": "D B 47,4, sheet 11",
+ "scale": "Schaal 1:250.000;",
+ "series": {
+  "title": "Borneo ; HIND 1112 sheet SA 50 S",
+  "part_of": "Borneo 1:250.000 (HIND 1112 sheet SA 50 S) | Borneo 1:250.000 /"
+ },
+ "published": "Bandjermasin; Washington D.C. : Army Map Service, US Army, 1946; D B 47,4, sheet 11",
+ "creator": "US Army (Washington D.C.). Army Map Service.",
+ "edition": "1st edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55664",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55664",
+ "bladwijzers": [
+  {
+   "nr": "36",
+   "title": "Zuider- en Oosterafd. v. Borneo",
+   "scale": "1:250.000",
+   "hind": "1112",
+   "pdf": "1",
+   "pdf_page": "41",
+   "match_confidence": "high",
+   "match_note": "HIND 1112"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500623970002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55664.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREQvMDEvQjcvRDQvMTQvQ0EvQzIvM0QvNzIvQkUvRUUvREIvRTMvNDkvMjEvMTYvMTg4N18xX2l0ZW1fNTU2NjRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjM5NzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjU3OTAiLCJoZWlnaHQiOiI3MzIwIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREQvMDEvQjcvRDQvMTQvQ0EvQzIvM0QvNzIvQkUvRUUvREIvRTMvNDkvMjEvMTYvMTg4N18xX2l0ZW1fNTU2NjRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjM5NzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjU3OTAiLCJoZWlnaHQiOiI3MzIwIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREQvMDEvQjcvRDQvMTQvQ0EvQzIvM0QvNzIvQkUvRUUvREIvRTMvNDkvMjEvMTYvMTg4N18xX2l0ZW1fNTU2NjRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjM5NzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjU3OTAiLCJoZWlnaHQiOiI3MzIwIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 5790,
+  "height": 7320,
+  "canvases": 1
+ }
+}

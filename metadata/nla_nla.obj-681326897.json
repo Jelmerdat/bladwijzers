@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-681326897",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra – blad LIV",
+ "sheet": "LIV",
+ "series": {
+  "id": "6610069",
+  "title": "Sumatra",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 98°15ʹ--E 109°03ʹ/N 3°15ʹ--S 5°57ʹ).",
+  "bbox": {
+   "west": "98.25",
+   "east": "106.05",
+   "north": "3.25",
+   "south": "-5.95"
+  },
+  "published": "Batavia : Topografischen Dienst, [1909-1927]",
+  "extent": "maps :",
+  "notes": "Topographic map series of south Sumatra showing residency and administrative boundaries, transportation, ground and water features, vegetation, cultivation, religious sites, settlements and buildings. Relief shown by contours, shading and spot heights. | Includes index to adjoining sheets, boundary diagram, abbreviations and compilation notes. | Map in Dutch. | Each sheet is named and numbered individually.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6610069",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6610069.marcxml"
+ },
+ "date": "01 January 1909",
+ "creator": "Netherlands. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Topografischen Dienst",
+ "call_number": "MAP G8080 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-681326897",
+ "bladwijzers": [
+  {
+   "nr": "14",
+   "title": "Noord Sumatra",
+   "scale": "1:100.000",
+   "hind": "656",
+   "pdf": "1",
+   "pdf_page": "19",
+   "match_confidence": "low",
+   "match_note": "Sumatra 1:100.000 general series; bladwijzer 14 (HIND 656) covers Noord Sumatra"
+  },
+  {
+   "nr": "23",
+   "title": "Zuid Sumatra",
+   "scale": "1:100.000",
+   "hind": "1060",
+   "pdf": "1",
+   "pdf_page": "28",
+   "match_confidence": "low",
+   "match_note": "Sumatra 1:100.000 general series extends to S6; may hold Zuid Sumatra sheets"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326897.json",
+  "manifest_file": "iiif/nla/nla.obj-681326897.json",
+  "image": "https://nla.gov.au/nla.obj-681326897/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-681326897/image?wid=300",
+  "width": 10397,
+  "height": 12069
+ }
+}

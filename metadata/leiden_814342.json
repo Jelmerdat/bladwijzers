@@ -1,0 +1,45 @@
+{
+ "id": "leiden:814342",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Djalan Tjindealoes], D D 43,98",
+ "full_title": "[Djalan Tjindealoes], D D 43,98",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 43,98",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Sumatra. 1:100.000; Sumatra : 1:100.000"
+ },
+ "published": "Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1928",
+ "creator": "Topografische Dienst (Weltevreden (Batavia))",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1923-1927.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:814342",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/814342",
+ "bladwijzers": [
+  {
+   "nr": "22",
+   "title": "Oost-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1059",
+   "pdf": "1",
+   "pdf_page": "27",
+   "match_confidence": "high",
+   "match_note": "D D 43: Oost-Sumatra 1:100.000 (Leiden \"Bladwijzer van Oost-Sumatra\" D D 43,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814342/manifest",
+  "manifest_file": "iiif/leiden/814342.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:814342/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:814342",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:814342/full/300,/0/default.jpg",
+  "width": 5846,
+  "height": 5994,
+  "canvases": 1
+ }
+}

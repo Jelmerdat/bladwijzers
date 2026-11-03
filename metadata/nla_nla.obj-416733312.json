@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-416733312",
+ "source": "National Library of Australia (Trove)",
+ "title": "Borneo : Res. Z. en O. Afd. van Borneo – blad Blad 325B (old no. XXVII-62B), printed 1926",
+ "sheet": "Blad 325B (old no. XXVII-62B), printed 1926",
+ "series": {
+  "id": "6678472",
+  "title": "Borneo : Res. Z. en O. Afd. van Borneo",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 115°08'--E115°28'/S2°00'-- S3°00').",
+  "bbox": {
+   "west": "115.1333",
+   "east": "115.4667",
+   "north": "-2.0",
+   "south": "-3.0"
+  },
+  "published": "Weltevreden (Batavia) : Topografische Dienst, 1924-1926",
+  "extent": "maps :",
+  "notes": "Topographic map series of Borneo, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours and spot heights. | Includes administrative index and index to adjoining sheets. | Later sheets published by the Topografische Dienst, first in Weltevreden then later in Batavia. | \"Gegevens verzameld over de periode: 1920-1925.\"",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6678472",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6678472.marcxml"
+ },
+ "date": "01 January 1924",
+ "creator": "Netherlands. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8100 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-416733312",
+ "bladwijzers": [
+  {
+   "nr": "39a",
+   "title": "Zuider- en Oosterafd. v. Borneo",
+   "scale": "1:50.000",
+   "hind": "623",
+   "pdf": "1",
+   "pdf_page": "44",
+   "match_confidence": "high",
+   "match_note": "Borneo Res. Z. en O. Afd. 1:50.000"
+  },
+  {
+   "nr": "39b",
+   "title": "Zuider- en Oosterafd. v. Borneo",
+   "scale": "1:50.000",
+   "hind": "623",
+   "pdf": "1",
+   "pdf_page": "45",
+   "match_confidence": "high",
+   "match_note": "Borneo Res. Z. en O. Afd. 1:50.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-416733312.json",
+  "manifest_file": "iiif/nla/nla.obj-416733312.json",
+  "image": "https://nla.gov.au/nla.obj-416733312/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-416733312/image?wid=300",
+  "width": 9934,
+  "height": 12156
+ }
+}

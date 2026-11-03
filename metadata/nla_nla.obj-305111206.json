@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-305111206",
+ "source": "National Library of Australia (Trove)",
+ "title": "Overzichtskaart van het Eiland Alor – blad ",
+ "sheet": "",
+ "series": {
+  "id": "6973113",
+  "title": "Overzichtskaart van het Eiland Alor",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 124°16ʹ--E 125°08ʹ/S 8°07ʹ--S 8°28ʹ).",
+  "bbox": {
+   "west": "124.2667",
+   "east": "125.1333",
+   "north": "-8.1167",
+   "south": "-8.4667"
+  },
+  "published": "Batavia : Topografische dienst, 1932.",
+  "extent": "1 map on 2 sheets :",
+  "notes": "Map of Alor Island showing villages, sparsely inhabited regions, coconut trees, undergrowths, forests, grasses, palms, wetlands, unpaved roads, horse tracks, footpaths, rivers, lakes, stones, Christian cemeteries, Chinese and native graves, missions, and landscape borders. Relief shown by contours, and spot heights. | \"(Vluchtig opgenomen door den Topografische dienst in 1927-1928)\" | Includes leaf classification index, text, abbreviations, administrative division index, and legend.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6973113",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6973113.marcxml"
+ },
+ "date": "01 January 1932",
+ "creator": "Netherlands. Topografische Dienst",
+ "publisher": "Topografische dienst",
+ "call_number": "MAP G8117.A4 1932 (Copy 1)",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-305111206",
+ "bladwijzers": [
+  {
+   "nr": "56",
+   "title": "P. Alor",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "13",
+   "match_confidence": "high",
+   "match_note": "Overzichtskaart van het Eiland Alor 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305111206.json",
+  "manifest_file": "iiif/nla/nla.obj-305111206.json",
+  "image": "https://nla.gov.au/nla.obj-305111206/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-305111206/image?wid=300",
+  "width": 13962,
+  "height": 13877
+ }
+}

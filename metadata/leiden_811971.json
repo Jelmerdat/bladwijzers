@@ -1,0 +1,45 @@
+{
+ "id": "leiden:811971",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Kaptiaoe",
+ "full_title": "Kaptiaoe, / published by Survey Directorate H[ead] Q[uarters] ALFSEA [=American Land Forces South East Asia]",
+ "sheet": "Kaptiaoe",
+ "hind_series": "HIND 646",
+ "shelfmark": "D F 44,51",
+ "scale": "Schaal 1:63.360",
+ "series": {
+  "title": "Dutch New Guinea : 1:63.360 ; HIND 646 Sheet Kaptiaoe",
+  "part_of": "Dutch New Guinea. 1:63.360 (HIND 646 Sheet Kaptiaoe) | Dutch New Guinea : 1:63.360."
+ },
+ "published": "Kaptiaoe; [S.l.] : Corps of Engineers U.S. Army, War Department, 1946; D F 44,51",
+ "creator": "Survey Directorate Head Quarters American Land Forces South East Asia (ALFSEA)",
+ "edition": "1st edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:811971",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/811971",
+ "bladwijzers": [
+  {
+   "nr": "74",
+   "title": "Kuststreek Verkam-Hollandia",
+   "scale": "1:63.360",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "29",
+   "match_confidence": "high",
+   "match_note": "D F 44: Kuststreek Verkam-Hollandia 1:63.360 (Leiden bladwijzer D F 44,28)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680710002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/811971.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODEvMzYvN0UvRjIvNEUvNDkvMUYvOEUvQTkvNDYvODYvRTkvRTEvMEUvNUMvQjYvMTg4N18xX2l0ZW1fODExOTcxXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjgwNzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTE4IiwiaGVpZ2h0IjoiNzI3MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODEvMzYvN0UvRjIvNEUvNDkvMUYvOEUvQTkvNDYvODYvRTkvRTEvMEUvNUMvQjYvMTg4N18xX2l0ZW1fODExOTcxXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjgwNzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTE4IiwiaGVpZ2h0IjoiNzI3MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODEvMzYvN0UvRjIvNEUvNDkvMUYvOEUvQTkvNDYvODYvRTkvRTEvMEUvNUMvQjYvMTg4N18xX2l0ZW1fODExOTcxXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjgwNzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTE4IiwiaGVpZ2h0IjoiNzI3MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5918,
+  "height": 7272,
+  "canvases": 1
+ }
+}

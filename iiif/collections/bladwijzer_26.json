@@ -1,0 +1,3162 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_26.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 26: Bangka 1:25.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999163.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 31/XXIV q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999182.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 31/XXV d en h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999207.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIII m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999229.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIII p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999241.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIII q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999324.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999343.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999362.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999442.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999469.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999488.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999502.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999528.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV n en i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999544.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999566.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999589.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXIV q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999609.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999623.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999680.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999705.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999747.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999794.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999811.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 32/XXV h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999833.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999854.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999879.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-553999957.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000034.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000050.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000075.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000271.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIII q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000419.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000435.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000456.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000470.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000497.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000573.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000599.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000613.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000645.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000668.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000684.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000707.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000729.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000741.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000764.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000825.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXIV q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000849.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV a en e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000882.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000933.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554000954.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001097.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001113.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001137.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001159.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001176.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXV q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-633755456.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 33/XXVI d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001192.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIII i en e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001215.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIII k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001231.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIII l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001253.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIII n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001277.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIII o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001290.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIII p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001312.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001336.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001357.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV c en d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001373.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001399.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001410.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001432.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001455.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001478.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001493.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001516.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001534.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001550.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001575.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001591.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXIV q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001611.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001633.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001654.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001738.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001818.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001894.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001974.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554001996.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002079.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002112.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002136.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002157.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002237.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002259.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002276.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002292.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXV q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002394.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002414.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002480.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002508.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002581.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002607.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002629.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002641.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002725.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002758.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002774.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002796.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI o en n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002827.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002842.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVI q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002869.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003032.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003055.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003078.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003119.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003135.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 34/XXVII m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003156.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXIV i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003170.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXIV n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003197.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXV a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003216.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXV e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003291.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXV i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003313.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXV o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003337.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003359.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554003431.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554004434.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554005881.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554007355.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554008807.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554010129.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554011701.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554013205.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554014670.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554016184.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554017682.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554019191.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVI q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554020667.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554022113.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554023699.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554025406.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554026859.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554028437.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554030017.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554031460.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554032911.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554034144.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII k en o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554035928.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554037503.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554038971.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040099.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVII q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040116.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 35/XXVIII d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI i en e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040169.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040188.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040209.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040223.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040246.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040267.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040280.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVI q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII b"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040364.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040386.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII f en g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040406.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII i"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040422.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII k"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040440.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040465.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII o"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040487.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVII p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040563.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVIII a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040582.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVIII b en f"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040660.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVIII c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040683.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVIII d en h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040708.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVIII e"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554040781.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Bangka en onderh – blad 36/XXVIII g"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sangkoe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tempilang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[elaka]k Taroem-Besar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Paris]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668980002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Toewing]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kajoearang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengaiselan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kotawaringin]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677050002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koerau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Rimbepokan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rias]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Boenting]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengailiat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalpinang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Batoen]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Silip]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pakoe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[eleka]k Ketok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Plangas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Diniang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Berikat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660300002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djeloetoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moelia]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Poesoek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Nangka-Besar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djeloetoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632670002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Senggoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kepotjina]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kemingking]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632200002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Goendi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rambat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634630002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalberas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Monding van de Bangkaoedjoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Njelanding]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boekam]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rebo]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516374710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Peroet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Nekoerit]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Hakkok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Terentang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pergam]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ranggoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bovenloop van de Bedengoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Baroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650080002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Manggoel"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Toboali]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[T[andjoen]g Poenggoer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Penjampak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loemoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668030002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekbesar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Poepoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengaiboeloeh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Berang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Roekam]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "K[eleka]k Soengkai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sengir]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Lengko]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500657860002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Berah]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Sangkarikan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654340002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[T[andjoen]g Poenai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Airpandan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640510002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bedengoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Batoebelawang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalboeloeh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Delas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643860002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bakit]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sambong]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Dalil]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652340002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Mangka]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Moedoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Belolaoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pesaren]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ranggi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bangkakota]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Mapoer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Bantjang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Batoebetoempang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641280002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Muntok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boelang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Tenoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Poeding-Besar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[T[andjoen]g Limau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kelapa]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ridingpandjang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Penjaboengan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Pager]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Antoe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650560002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tirem]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Serdadoe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636590002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[elaka]k Ketiak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Krantai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koeboeklabat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Majang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teloekoeber]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalmendoek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Oebar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Goenoengmoeda]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kuststrook ten Noordwesten van Penagan met drie pepertuinen]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Dapoer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koba]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656050002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djeridji]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekbesar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663410002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Nanas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[A[ir] Groenggang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628230002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[eleka]k Rangkoei]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628210002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang Djoeloengmandi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Tandjoengbaran]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Tamiang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Anjar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Airgegas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Pantjoer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665630002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalanpandantoendjoek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665560002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Moearadoea]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Saleh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650960002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengtedoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516407480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res[identie] Bangka en Onderh[oorigheden]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Batoeroesa]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Binting]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Airdoeren]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643670002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[elaka]k Pangkalraja]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643590002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Niknang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Penganak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Tanah]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pajabenoea]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Petaling]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Keretak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoeng Panggoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Monding van Soengai Selan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Goentoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Penaga]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bakong]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643850002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Mentaboe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644860002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Sigoenggoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[eleka]k Tjrengga]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624080002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sempan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teritip]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Klabatlaoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djeboe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658890002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Merawang-Lama]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Tindok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengnioer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Lematang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641230002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Penagan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Radjik (Permis)]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kampa]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Perlang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Mempoenai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Terak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645030002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Iboel]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Akar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668900002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Niboeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sadai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Danta]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[eleka]k Andjil-Ketjil]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Lepar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[elaka]k Djoenet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boeboes]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Koempang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Penjoesoek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Nangka]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Airrisi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Airbara]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalnioer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Sekidjang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Dendang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Moendjel]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kapit]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Pajoeng"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677180002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kebinti]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kemangmasam]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kembal]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642590002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Mendjelang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Boenji]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643210002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[K[elaka]k Rangau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Makit]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rindik]"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,876 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_38.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 38: Z. en O. afd. v. Borneo 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634499.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 60/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634568.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 60/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634420.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 60/xxvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634448.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 60/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634461.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 60/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634867.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 60/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635150.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634932.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394634955.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635036.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635057.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635099.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635116.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635175.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635191.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 61/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635406.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635214.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635280.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635422.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635465.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 62/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635487.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635501.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635719.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635735.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635525.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635549.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635563.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635582.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635652.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635671.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635694.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635756.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635770.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 63/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635992.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64-65/xxxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636015.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64-65/xxxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635831.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635853.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635797.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635815.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635937.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635959.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 64/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636077.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 65/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636090.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 65/xxix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636031.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 65/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636053.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 65/xxviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636111.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 65/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636187.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 65/xxx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636201.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 67/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636225.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 67/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636249.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 68/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636323.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 68/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636346.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 68/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636380.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 68/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636405.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 69/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394636426.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "S.E. Borneo 1:100 000 – blad 69/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692778.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 194"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692801.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 195"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692830.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 213"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692858.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 214"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692874.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 232"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692896.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 265"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692911.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 282"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692933.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 301"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692954.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 303"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692979.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 323"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406692998.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 324"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693061.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 326"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693085.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 340"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693169.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 341"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693188.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 342"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693223.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 343"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693246.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 344"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693267.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 345"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693280.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 352"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 353"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 354"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 355"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693364.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 356"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693386.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 357"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693454.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 358"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693479.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 359"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693558.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693574.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 361"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693596.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 362"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693618.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo Res. Z. en O. Afd. van Borneo – blad 363"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624190002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kintap] : schetskaart samengesteld door den Topografischen Dienst in 1925"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pelaihari]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bandjermasin] : vluchtig opgenomen door den Topografischen Dienst in 1925"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenong] Batoepandjang] : vluchtig opgenomen door den Topografischen Dienst in 1925-1926"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mahakam-Delta Zuidwest : opgenomen door den Topografischen Dienst in 1935-1937"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636210002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Paminggir] : opgenomen door den Topografischen Dienst in 1922-1924"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Asemasem]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Samarinda : opgenomen door den Topografischen Dienst in 1934-1935"
+    ]
+   }
+  }
+ ]
+}

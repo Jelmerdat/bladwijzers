@@ -1,0 +1,55 @@
+{
+ "id": "leiden:815528",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Salawati Island",
+ "full_title": "Salawati Island, / prepared under the direction of the Chief Engineer by Base Map Plant U.S. Army, Sept. 1944.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 42,5",
+ "scale": "Schaal 1:250.000;",
+ "series": {
+  "title": "Dutch New Guinea : 1:250.000 ; Salawati Island",
+  "part_of": "Dutch New Guinea. 1:250.000 (Salawati Island) | Dutch New Guinea : 1:250.000 /"
+ },
+ "published": "Salawati Island; [Washington D.C.] : Corps of Engineers U.S. Army, War Department, 1944; D F 42,5",
+ "creator": "War Department (Washington D.C.). Corps of Engineers U.S. Army.",
+ "edition": "1st. Revision.",
+ "notes": "This map supersedes previous edition printed in May 1944. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:815528",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/815528",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660600002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/815528.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjYvODMvMTYvNTEvRjgvODIvNEIvQTIvNEQvRkEvODIvMzAvMzAvNjAvRDYvNjEvMTg4N18xX2l0ZW1fODE1NTI4XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwNjAwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTA0IiwiaGVpZ2h0IjoiNjY2MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjYvODMvMTYvNTEvRjgvODIvNEIvQTIvNEQvRkEvODIvMzAvMzAvNjAvRDYvNjEvMTg4N18xX2l0ZW1fODE1NTI4XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwNjAwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTA0IiwiaGVpZ2h0IjoiNjY2MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjYvODMvMTYvNTEvRjgvODIvNEIvQTIvNEQvRkEvODIvMzAvMzAvNjAvRDYvNjEvMTg4N18xX2l0ZW1fODE1NTI4XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwNjAwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTA0IiwiaGVpZ2h0IjoiNjY2MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5904,
+  "height": 6662,
+  "canvases": 1
+ }
+}

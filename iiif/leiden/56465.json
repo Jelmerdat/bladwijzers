@@ -1,0 +1,286 @@
+{
+ "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631580002711/manifest?iiifVersion=3",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Borneo : Res[identie] Z[uider-] en O[oster] Afd[eling] van Borneo : opgenomen door den Topografischen Dienst in 1926-1929  / Topografische Dienst.."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "none": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "Borneo : Res[identie] Z[uider-] en O[oster] Afd[eling] van Borneo : opgenomen door den Topografischen Dienst in 1926-1929  / Topografische Dienst.."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Shelfmark"
+    ]
+   },
+   "value": {
+    "none": [
+     "D B 50,2, index"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leiden : Universitaire Bibliotheken Leiden"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "2009"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Form"
+    ]
+   },
+   "value": {
+    "none": [
+     "1 electronic resource."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Schaal 1:25.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Language"
+    ]
+   },
+   "value": {
+    "none": [
+     "dut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Original version note"
+    ]
+   },
+   "value": {
+    "none": [
+     "Borneo : Bladwijzer van Balikpapan en omgeving. Res[identie] Z[uider-] en O[oster] Afd[eling] van Borneo : opgenomen door den Topografischen Dienst in 1926-1929; [Batavia : Topografische Dienst], [1932]; D B 50,2, index"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Borneo"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Borneo : Res[identie] Z[uider-] en O[oster] Afd[eling] van Borneo : opgenomen door den Topografischen Dienst in 1926-1929."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Balikpapan"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "topography"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Identifier"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a target=\"_blank\" href=https://leidenuniv.idm.oclc.org/login?url=http://www.worldcat.org/search?q=no:1191817337>1191817337</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "Full access."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">The rights status of this resource is public domain</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Permalink"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://hdl.handle.net/1887.1/item:56465"
+    ]
+   }
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/12500631580002711",
+   "type": "Image"
+  }
+ ],
+ "viewingDirection": "left-to-right",
+ "behavior": [
+  "individuals"
+ ],
+ "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+ "provider": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/delivery/31UKB_LEU/12500631580002711/provider",
+   "type": "Agent",
+   "label": {
+    "none": [
+     "Leiden University"
+    ]
+   },
+   "logo": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+     "type": "Image",
+     "service": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+       "type": "ImageService2",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631580002711/canvas/13500637410002711?iiifVersion=3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "01 - D B 50,2, index"
+    ]
+   },
+   "width": 3959,
+   "height": 2743,
+   "items": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631580002711/annopage/13500637410002711?iiifVersion=3",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631580002711/annopage/13500637410002711?iiifVersion=3",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODUvM0YvQzMvRTQvNUYvNTMvQjgvQkIvODgvMjUvOTQvOEMvNDIvQUMvOUMvQ0IvMTg4N18xX2l0ZW1fNTY0NjVfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzE1ODAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjM5NTkiLCJoZWlnaHQiOiIyNzQzIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+        "type": "Image",
+        "format": "image/jp2",
+        "service": [
+         {
+          "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODUvM0YvQzMvRTQvNUYvNTMvQjgvQkIvODgvMjUvOTQvOEMvNDIvQUMvOUMvQ0IvMTg4N18xX2l0ZW1fNTY0NjVfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzE1ODAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjM5NTkiLCJoZWlnaHQiOiIyNzQzIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+          "type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+         }
+        ],
+        "height": 2743,
+        "width": 3959
+       },
+       "target": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631580002711/canvas/13500637410002711?iiifVersion=3"
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/13500637410002711",
+     "type": "Image"
+    }
+   ]
+  }
+ ],
+ "@context": "http://iiif.io/api/presentation/3/context.json"
+}

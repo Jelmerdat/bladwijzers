@@ -1,0 +1,322 @@
+{
+ "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635270002711/manifest?iiifVersion=3",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "[Kampoengmesdjid] : opgenomen door den Topografischen Dienst in 1923-1925,"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "none": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "[Kampoengmesdjid] : opgenomen door den Topografischen Dienst in 1923-1925,"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Author/Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Topografische Dienst (Weltevreden (Batavia))"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Shelfmark"
+    ]
+   },
+   "value": {
+    "none": [
+     "D C 46,3, sheet 8."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leiden : Universitaire Bibliotheken Leiden"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "2009"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Form"
+    ]
+   },
+   "value": {
+    "none": [
+     "1 electronic resource."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Schaal 1:100.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Language"
+    ]
+   },
+   "value": {
+    "none": [
+     "dut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Description"
+    ]
+   },
+   "value": {
+    "none": [
+     "Legenda."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Original version note"
+    ]
+   },
+   "value": {
+    "none": [
+     "[Kampoengmesdjid] : opgenomen door den Topografischen Dienst in 1923-1925; Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1926; D C 46,3, sheet 8"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra. Gouv[ernement] Oostkust van Sumatra (Blad 27)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra : Gouv[ernement] Oostkust van Sumatra /"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Labuhanbatu"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "topography"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Series"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra : Gouv[ernemen]t Oostkust van Sumatra ; Blad 27"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Identifier"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a target=\"_blank\" href=https://leidenuniv.idm.oclc.org/login?url=http://www.worldcat.org/search?q=no:776733726>776733726</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "Full access."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">The rights status of this resource is public domain</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Permalink"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://hdl.handle.net/1887.1/item:56064"
+    ]
+   }
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/12500635270002711",
+   "type": "Image"
+  }
+ ],
+ "viewingDirection": "left-to-right",
+ "behavior": [
+  "individuals"
+ ],
+ "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+ "provider": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/delivery/31UKB_LEU/12500635270002711/provider",
+   "type": "Agent",
+   "label": {
+    "none": [
+     "Leiden University"
+    ]
+   },
+   "logo": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+     "type": "Image",
+     "service": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+       "type": "ImageService2",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635270002711/canvas/13500653020002711?iiifVersion=3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "01 - D C 46,3, sheet 8"
+    ]
+   },
+   "width": 4960,
+   "height": 5998,
+   "items": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635270002711/annopage/13500653020002711?iiifVersion=3",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635270002711/annopage/13500653020002711?iiifVersion=3",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMUEvMTEvQUEvOUEvMzEvOUUvNzQvREUvN0QvOTIvRTcvQzMvREIvNDcvODMvQ0MvMTg4N18xX2l0ZW1fNTYwNjRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzUyNzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQ5NjAiLCJoZWlnaHQiOiI1OTk4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+        "type": "Image",
+        "format": "image/jp2",
+        "service": [
+         {
+          "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMUEvMTEvQUEvOUEvMzEvOUUvNzQvREUvN0QvOTIvRTcvQzMvREIvNDcvODMvQ0MvMTg4N18xX2l0ZW1fNTYwNjRfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzUyNzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQ5NjAiLCJoZWlnaHQiOiI1OTk4Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+          "type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+         }
+        ],
+        "height": 5998,
+        "width": 4960
+       },
+       "target": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635270002711/canvas/13500653020002711?iiifVersion=3"
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/13500653020002711",
+     "type": "Image"
+    }
+   ]
+  }
+ ],
+ "@context": "http://iiif.io/api/presentation/3/context.json"
+}

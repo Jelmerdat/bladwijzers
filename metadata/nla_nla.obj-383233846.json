@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-383233846",
+ "source": "National Library of Australia (Trove)",
+ "title": "Borneo 1:200,000 : Western Division Residency – blad III",
+ "sheet": "III",
+ "series": {
+  "id": "6612845",
+  "title": "Borneo 1:200,000 : Western Division Residency",
+  "scale": "Scale 1:200,000",
+  "coordinates": "(E 108°48ʹ00ʺ--E 109°38ʹ00ʺ/N 1°28ʹ00ʺ--S 0°34ʹ00ʺ).",
+  "bbox": {
+   "west": "108.8",
+   "east": "109.6333",
+   "north": "1.4667",
+   "south": "-0.5667"
+  },
+  "published": "[London] : War Office, 1941-1943",
+  "extent": "maps ;",
+  "notes": "Topographic map series of Borneo , Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading and spot heights. | \"Copied from a Dutch map ...\" [Residentie Westerafdeeling van Borneo, issued by the Topografisch Bureau te Batavia] | Includes administrative index and grid data. | Sheet II & III with \"M.D.R. 574 /...\" | Sheet II & III reprinted: Washington, D.C.: Army Map Service, 1943.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6612845",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6612845.marcxml"
+ },
+ "date": "01 January 1941",
+ "creator": "Great Britain. War Office. General Staff. Geographical Section, cartographer. issuing body.",
+ "publisher": "War Office",
+ "call_number": "MAP G8100 s200",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-383233846",
+ "bladwijzers": [
+  {
+   "nr": "34",
+   "title": "West Borneo",
+   "scale": "1:200.000",
+   "hind": "1099",
+   "pdf": "1",
+   "pdf_page": "39",
+   "match_confidence": "medium",
+   "match_note": "War Office reprint, Western Division Residency 1:200.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233846.json",
+  "manifest_file": "iiif/nla/nla.obj-383233846.json",
+  "image": "https://nla.gov.au/nla.obj-383233846/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-383233846/image?wid=300",
+  "width": 15756,
+  "height": 18181
+ }
+}

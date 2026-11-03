@@ -1,0 +1,273 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_33.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 33: Mentawei eil. 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549029436.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 12/XXI-XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549029457.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 12/XXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549029473.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 13/XXI-XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031210.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 13/XXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031232.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 13/XXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031278.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 14/XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031255.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 14/XXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031293.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 15/XXIV-XXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031319.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 15/XXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031335.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 16/XXV-XXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031356.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 16/XXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031370.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 17/XXVI-XXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031397.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 17/XXVIII-XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-549031416.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Sumatra's westkust – blad 18/XXVIII-XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-711890624.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van de Mentawei-eilanden – blad (single sheet)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660560002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "P[oelau] Taitaitanopo en P[oelau] Sanding"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Straat Sipoera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "P[oelau] Siroemata"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sawangtoengkoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Ngiau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643280002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Karangmadjat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[T[andjoen]g Sakaladat]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663090002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[T[andjoen]g Oewai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearasimataloe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "P[oelau] Sipoera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Katatet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Taikako]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearasiberoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Veeckens-Baai"
+    ]
+   }
+  }
+ ]
+}

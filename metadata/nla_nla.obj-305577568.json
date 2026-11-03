@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-305577568",
+ "source": "National Library of Australia (Trove)",
+ "title": "Soemba, N.E.I., 1:100,000 – blad 77/XLIX , HIND",
+ "sheet": "77/XLIX , HIND",
+ "series": {
+  "id": "7011430",
+  "title": "Soemba, N.E.I., 1:100,000",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 118°30'--E 120°35'/S 9°20'--S 10°20').",
+  "bbox": {
+   "west": "118.5",
+   "east": "120.5833",
+   "north": "-9.3333",
+   "south": "-10.3333"
+  },
+  "published": "[Washington, D.C.] : Army Map Service, 1943-",
+  "extent": "maps :",
+  "notes": "Topographic map series of Sumba Island, Indonesia showing roads, tracks, footpaths, boundaries, water features, vegetation, cultivation, swamps, buildings and built-up areas. Relief shown by contours and spot heights. | Based on \"Netherlands East Indies, southern zone grid\". Includes \"Incidence of grid letters and index to adjoining sheets\"; Legend on some maps includes abbreviations and Dutch-English translations. | Sheets of various editions. Later maps published by the Survey Directorate, H.Q. ALFSEA, with standard series designation: Hind 638. Sheets Waikaboebak and Tossi: \"Prepared ",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/7011430",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/7011430.marcxml"
+ },
+ "date": "01 January 1943",
+ "creator": "United States. Army. Office of the Chief of Engineers, cartographer, issuing body.",
+ "publisher": "Army Map Service",
+ "call_number": "MAP G8117.S8 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-305577568",
+ "bladwijzers": [
+  {
+   "nr": "53",
+   "title": "Sumba",
+   "scale": "1:100.000",
+   "hind": "638",
+   "pdf": "2",
+   "pdf_page": "10",
+   "match_confidence": "high",
+   "match_note": "Soemba 1:100.000 AMS/BMP/HIND reprints (bladwijzer HIND 638)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577568.json",
+  "manifest_file": "iiif/nla/nla.obj-305577568.json",
+  "image": "https://nla.gov.au/nla.obj-305577568/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-305577568/image?wid=300",
+  "width": 11549,
+  "height": 14563
+ }
+}

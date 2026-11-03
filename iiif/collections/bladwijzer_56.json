@@ -1,0 +1,48 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_56.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 56: P. Alor 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305111072.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van het Eiland Alor – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305111206.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van het Eiland Alor – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305111303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Alor Island – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305111496.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Alor Island – blad "
+    ]
+   }
+  }
+ ]
+}

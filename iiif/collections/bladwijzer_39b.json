@@ -1,0 +1,75 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_39b.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 39b: Zuider- en Oosterafd. v. Borneo 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-416732916.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo : Res. Z. en O. Afd. van Borneo – blad Blad 281C (old no. XXV-62C), printed 1926"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-416733081.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo : Res. Z. en O. Afd. van Borneo – blad Blad 302B [i.e. 62/XXVIB], printed 1924"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-416733312.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo : Res. Z. en O. Afd. van Borneo – blad Blad 325B (old no. XXVII-62B), printed 1926"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Zuider- en ooster Afd[eling] v[an] Borneo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "T[angoen]g Maga"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "T[angoen]g Batoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "P[oelau] Fanny"
+    ]
+   }
+  }
+ ]
+}

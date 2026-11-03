@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55937",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bladwijzer van Noord Sumatra : schaal 1:100.000",
+ "full_title": "Bladwijzer van Noord Sumatra : schaal 1:100.000,",
+ "sheet": null,
+ "hind_series": "HIND 1063",
+ "shelfmark": "D C 46,3, index.",
+ "scale": "Schaal niet vastgesteld",
+ "series": {
+  "title": "Sumatra ; HIND 1063",
+  "part_of": "Sumatra. Gouv[ernement] Oostkust van Sumatra (HIND 1063) | Sumatra : Gouv[ernement] Oostkust van Sumatra /"
+ },
+ "published": "Bladwijzer van Noord Sumatra : schaal 1:100.000; [S.l. : s.n.], [ca. 1945]; D C 46,3, index",
+ "creator": null,
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55937",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55937",
+ "bladwijzers": [
+  {
+   "nr": "18",
+   "title": "Noord Sumatra",
+   "scale": "1:100.000",
+   "hind": "1063",
+   "pdf": "1",
+   "pdf_page": "23",
+   "match_confidence": "high",
+   "match_note": "D C 46: Noord Sumatra 1:100.000 (Leiden \"Bladwijzer van Noord Sumatra\" D C 46,3)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635990002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55937.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMkUvRTQvMzEvQTcvRTQvNDEvQ0IvQ0EvNzQvRUUvNEUvMEEvNTEvNDIvNjYvQjQvMTg4N18xX2l0ZW1fNTU5MzdfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzU5OTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQwMDAiLCJoZWlnaHQiOiIyNzgxIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMkUvRTQvMzEvQTcvRTQvNDEvQ0IvQ0EvNzQvRUUvNEUvMEEvNTEvNDIvNjYvQjQvMTg4N18xX2l0ZW1fNTU5MzdfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzU5OTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQwMDAiLCJoZWlnaHQiOiIyNzgxIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMkUvRTQvMzEvQTcvRTQvNDEvQ0IvQ0EvNzQvRUUvNEUvMEEvNTEvNDIvNjYvQjQvMTg4N18xX2l0ZW1fNTU5MzdfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzU5OTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQwMDAiLCJoZWlnaHQiOiIyNzgxIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 4000,
+  "height": 2781,
+  "canvases": 1
+ }
+}

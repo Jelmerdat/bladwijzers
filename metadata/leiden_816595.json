@@ -1,0 +1,45 @@
+{
+ "id": "leiden:816595",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Sarmi",
+ "full_title": "Sarmi, / prepared under the direction of the Chief Engineer by Base Map Plant U.S. Army, April 1944.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 54,24",
+ "scale": "Schaal 1:20.000",
+ "series": {
+  "title": "Dutch New Guinea : 1:20.000 ; Sarmi",
+  "part_of": "Dutch New Guinea. 1:20.000 (Sarmi) | Dutch New Guinea : 1:20.000."
+ },
+ "published": "Sarmi; [S.l.] : Corps of Engineers U.S. Army, War Department, 1944; D F 54,24",
+ "creator": "War Department (Washington D.C.). Corps of Engineers U.S. Army.",
+ "edition": null,
+ "notes": "Op de achterzijde is een luchtfoto van het gebied geprojecteerd. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:816595",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/816595",
+ "bladwijzers": [
+  {
+   "nr": "81",
+   "title": "Sawar en omgeving",
+   "scale": "1:20.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "35",
+   "match_confidence": "high",
+   "match_note": "D F 54: Sawar en omgeving 1:20.000 (Leiden bladwijzer D F 54,23)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636820002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/816595.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNzUvMzQvNTgvMDAvQzUvRTQvOTYvNUYvMzYvNUMvRTYvRjcvQTAvNUUvMDEvQkIvMTg4N18xX2l0ZW1fODE2NTk1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM2ODIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODk0IiwiaGVpZ2h0IjoiNjc0NCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNzUvMzQvNTgvMDAvQzUvRTQvOTYvNUYvMzYvNUMvRTYvRjcvQTAvNUUvMDEvQkIvMTg4N18xX2l0ZW1fODE2NTk1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM2ODIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODk0IiwiaGVpZ2h0IjoiNjc0NCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNzUvMzQvNTgvMDAvQzUvRTQvOTYvNUYvMzYvNUMvRTYvRjcvQTAvNUUvMDEvQkIvMTg4N18xX2l0ZW1fODE2NTk1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM2ODIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODk0IiwiaGVpZ2h0IjoiNjc0NCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5894,
+  "height": 6744,
+  "canvases": 1
+ }
+}

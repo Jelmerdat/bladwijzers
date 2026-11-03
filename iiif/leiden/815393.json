@@ -1,0 +1,346 @@
+{
+ "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677160002711/manifest?iiifVersion=3",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "[B[oeki]t Simpang], / prepared under the direction of the Chief of Engineers, U.S. Army, 1943."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "none": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "[B[oeki]t Simpang], / prepared under the direction of the Chief of Engineers, U.S. Army, 1943."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Author/Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Army Map Service U.S. Army (Washington D.C.)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Shelfmark"
+    ]
+   },
+   "value": {
+    "none": [
+     "D D 35,40 "
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leiden : Universitaire Bibliotheken Leiden"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "2009"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Form"
+    ]
+   },
+   "value": {
+    "none": [
+     "1 electronic resource."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Schaal 1:40.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Language"
+    ]
+   },
+   "value": {
+    "none": [
+     "eng"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Edition"
+    ]
+   },
+   "value": {
+    "none": [
+     "1st. edition."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Description"
+    ]
+   },
+   "value": {
+    "none": [
+     "Copied from a Dutch map dated 1897."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Original version note"
+    ]
+   },
+   "value": {
+    "none": [
+     "[B[oeki]t Simpang]; Washington D.C. : Army Map Service U.S. Army, 1943; D D 35,40"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "West Coast Sumatra. 1:40.000 (HIND 1043, Sheet No. 39)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "West Coast Sumatra : 1:40.000 /"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatera Barat"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Solok"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "topography"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Series"
+    ]
+   },
+   "value": {
+    "none": [
+     "West Coast Sumatra : 1:40.000 ; HIND 1043, Sheet No. 39"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Identifier"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a target=\"_blank\" href=https://leidenuniv.idm.oclc.org/login?url=http://www.worldcat.org/search?q=no:811247416>811247416</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "Full access."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">The rights status of this resource is public domain</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Permalink"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://hdl.handle.net/1887.1/item:815393"
+    ]
+   }
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/12500677160002711",
+   "type": "Image"
+  }
+ ],
+ "viewingDirection": "left-to-right",
+ "behavior": [
+  "individuals"
+ ],
+ "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+ "provider": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/delivery/31UKB_LEU/12500677160002711/provider",
+   "type": "Agent",
+   "label": {
+    "none": [
+     "Leiden University"
+    ]
+   },
+   "logo": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+     "type": "Image",
+     "service": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+       "type": "ImageService2",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677160002711/canvas/13500693460002711?iiifVersion=3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "01 - D D 35,40"
+    ]
+   },
+   "width": 6574,
+   "height": 8371,
+   "items": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677160002711/annopage/13500693460002711?iiifVersion=3",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677160002711/annopage/13500693460002711?iiifVersion=3",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjIvRkQvNDAvMjgvM0UvODMvRTAvMDIvNzMvMDcvMEMvQTMvQjAvRjQvRUYvN0EvMTg4N18xX2l0ZW1fODE1MzkzXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjc3MTYwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTc0IiwiaGVpZ2h0IjoiODM3MSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+        "type": "Image",
+        "format": "image/jp2",
+        "service": [
+         {
+          "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRjIvRkQvNDAvMjgvM0UvODMvRTAvMDIvNzMvMDcvMEMvQTMvQjAvRjQvRUYvN0EvMTg4N18xX2l0ZW1fODE1MzkzXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjc3MTYwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTc0IiwiaGVpZ2h0IjoiODM3MSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+          "type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+         }
+        ],
+        "height": 8371,
+        "width": 6574
+       },
+       "target": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677160002711/canvas/13500693460002711?iiifVersion=3"
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/13500693460002711",
+     "type": "Image"
+    }
+   ]
+  }
+ ],
+ "@context": "http://iiif.io/api/presentation/3/context.json"
+}

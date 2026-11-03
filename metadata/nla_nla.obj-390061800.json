@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-390061800",
+ "source": "National Library of Australia (Trove)",
+ "title": "Residentie Wester-Afdeeling van Borneo – blad XXII-p",
+ "sheet": "XXII-p",
+ "series": {
+  "id": "6572856",
+  "title": "Residentie Wester-Afdeeling van Borneo.",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 108°34ʹ00ʺ--E 114°33ʹ00ʺ/N 2°18ʹ00ʺ--S 3°36ʹ00ʺ).",
+  "bbox": {
+   "west": "108.5667",
+   "east": "114.55",
+   "north": "2.3",
+   "south": "-3.6"
+  },
+  "published": "Batavia : Topographisch Bureau, 1889-1927.",
+  "extent": "maps ;",
+  "notes": "Topographic map series of area that is now West Kalimantan (Kalimantan Barat) Province (Borneo, Indonesia). Relief shown by form lines or contours and spot heights. | Title not complete on all sheets. | Covers West Kalimantan. | Each sheet has individual title and number. | Sheet titles and numbers in upper margin (left end), e.g.: Blad XXII. Boven Kapoewos. | Set compiled from various eds. | Includes index to adjoining sheets and legend.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6572856",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6572856.marcxml"
+ },
+ "date": "01 January 1889",
+ "creator": "Netherlands. Topografisch Bureau, cartographer.",
+ "publisher": "Topographisch Bureau",
+ "call_number": "MAP G8100 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-390061800",
+ "bladwijzers": [
+  {
+   "nr": "35",
+   "title": "West Borneo",
+   "scale": "1:50.000",
+   "hind": "625",
+   "pdf": "1",
+   "pdf_page": "40",
+   "match_confidence": "high",
+   "match_note": "Res. Wester-Afdeeling van Borneo 1:50.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390061800.json",
+  "manifest_file": "iiif/nla/nla.obj-390061800.json",
+  "image": "https://nla.gov.au/nla.obj-390061800/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-390061800/image?wid=300",
+  "width": 14459,
+  "height": 15870
+ }
+}

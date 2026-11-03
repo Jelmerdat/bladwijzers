@@ -1,0 +1,435 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_15.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 15: N.W. Sumatra 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001223.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 5/III B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001246.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 6/III A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001267.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 6/III B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001280.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 6/III C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 6/III D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 7/III A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 7/III C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001364.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 7/IV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001386.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 7/IV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001406.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/III A en C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001422.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/III B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001440.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/III D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001465.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/IV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001487.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/IV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001501.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/IV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001525.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8/IV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001549.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/III A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001563.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/III C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001582.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/III D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001605.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/IV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001683.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/IV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001708.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/IV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001724.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/IV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001743.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/V B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001762.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 9/V D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001781.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/IV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001802.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/IV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001828.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/V A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001844.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/V B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001866.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/V C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001889.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/V D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001900.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/VI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001921.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/VI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001945.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/VI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001968.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/VI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001984.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 11/V A en C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585002005.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 11/VI A"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55915/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Glé Seumadeuen, D C 38,1, sheet 21"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56066/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Blang Peute, D C 38,1, sheet 12"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56101/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Seulimeum, D C 38,1, sheet 16"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56140/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Glé Tong Poedeng, D C 38,1, sheet 18"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56156/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boekit Batee Itam, D C 38,1, sheet 17"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56194/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Meulaboh, D C 38,1, sheet 25"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56271/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koeta'alam, D C 38,1, sheet 6"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56413/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelau Roebiah, D C 38,1, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56435/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koeala Meureudoe, D C 38,1, sheet 20"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56453/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tjoeplet Boelat, D C 38,1, sheet 15"
+    ]
+   }
+  }
+ ]
+}

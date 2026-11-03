@@ -1,0 +1,39 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_40.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 40: Balikpapan en omgeving 1:25.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500623950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Balikpapan] : opgenomen door den Topografischen Dienst in 1926-1929"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Manggar-Besar] : opgenomen door den Topografischen Dienst in 1926-1929"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo : Res[identie] Z[uider-] en O[oster] Afd[eling] van Borneo : opgenomen door den Topografischen Dienst in 1926-192"
+    ]
+   }
+  }
+ ]
+}

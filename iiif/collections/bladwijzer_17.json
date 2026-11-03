@@ -1,0 +1,678 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_17.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 17: Sumatra's Oostkust 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043568.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 1C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043716.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043734.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043769.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043791.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043814.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 3C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043872.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4B & 1D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043895.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044041.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044078.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044124.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044156.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044170.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 7C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 8A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001642.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 8B&D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 8C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044250.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044392.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9B & 3D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044428.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044453.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044477.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044490.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044514.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044538.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044551.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044572.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044625.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044649.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 13A&C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044663.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044682.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044706.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044722.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044787.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044804.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044820.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044885.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044905.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045109.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001688.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045123.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045146.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045167.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045180.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045205.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045226.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045247.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045260.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045283.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 19A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001702.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 20A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001728.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 20B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045302.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 21A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001744.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 21B"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500623870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Perbesi] : opgenomen door den Topografischen Dienst in 1918-1921"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500623840002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengdjahe] : opgenomen in 1913-1914"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Baroebai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663510002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pasir Poetih] : opgenomen in de jaren 1915-1917"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pematangalai] : opgenomen in de jaren 1915-1916"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pematangsiantar] : opgenomen in de jaren 1915-1916"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635970002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boenoet] : opgenomen in 1915-1918"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635200002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bindjai] : opgenomen door den Topografischen Dienst in 1913-1917"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Mbelin] : opgenomen door den Topografischen Dienst in 1920-1923"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636300002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengbringin] : opgenomen in de jaren 1913-1917"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636190002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[O[ndernemin]g Mariahpanai] : opgenomen in de jaren 1916-1917"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636130002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekpakam] : opgenomen in 1912-1913"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631560002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bohorok] : opgenomen door den Topogrsfischen Dienst in 1920-1924."
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teloekroemia] : opgenomen door den Topografischen Dienst in 1920-1921"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pertjoet] : opgenomen in 1912-1913"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tapakloeda] : opgenomen in 1913-1917"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Perdoes] : opgenomen in 1912-1913"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[D[elen]g Tenaroh] : opgenomen in 1913-1915"
+    ]
+   }
+  }
+ ]
+}

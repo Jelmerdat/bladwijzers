@@ -1,0 +1,334 @@
+{
+ "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649480002711/manifest?iiifVersion=3",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "[Boeboes], / opgenomen door den Topografischen Dienst in 1931-1933."
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "none": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "[Boeboes], / opgenomen door den Topografischen Dienst in 1931-1933."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Author/Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Topografische Dienst (Batavia)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Shelfmark"
+    ]
+   },
+   "value": {
+    "none": [
+     "D D 29,6 "
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "none": [
+     "Leiden : Universitaire Bibliotheken Leiden"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Date"
+    ]
+   },
+   "value": {
+    "none": [
+     "2009"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Form"
+    ]
+   },
+   "value": {
+    "none": [
+     "1 electronic resource."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Schaal 1:25.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Language"
+    ]
+   },
+   "value": {
+    "none": [
+     "dut"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Description"
+    ]
+   },
+   "value": {
+    "none": [
+     "Fotogrammetrische kaarteering."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Description"
+    ]
+   },
+   "value": {
+    "none": [
+     "Legenda."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Original version note"
+    ]
+   },
+   "value": {
+    "none": [
+     "[Boeboes]; Batavia : Reproductiebedrijf Topografische dienst, 1934; D D 29,6"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Res[identie] Bangka en Onderh[oorigheden] (Blad 33/XXIII-m)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Is Part Of"
+    ]
+   },
+   "value": {
+    "none": [
+     "Res[identie] Bangka en Onderh[oorigheden] /"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "Bangka"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Subjects"
+    ]
+   },
+   "value": {
+    "none": [
+     "topography"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Series"
+    ]
+   },
+   "value": {
+    "none": [
+     "Res[identie] Bangka en Onderh[oorigheden] ; Blad 33/XXIII-m"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Identifier"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a target=\"_blank\" href=https://leidenuniv.idm.oclc.org/login?url=http://www.worldcat.org/search?q=no:776751919>776751919</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "Full access."
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "none": [
+     "<a href=\"https://creativecommons.org/publicdomain/mark/1.0/\">The rights status of this resource is public domain</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "none": [
+     "Permalink"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://hdl.handle.net/1887.1/item:814444"
+    ]
+   }
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/12500649480002711",
+   "type": "Image"
+  }
+ ],
+ "viewingDirection": "left-to-right",
+ "behavior": [
+  "individuals"
+ ],
+ "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+ "provider": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/delivery/31UKB_LEU/12500649480002711/provider",
+   "type": "Agent",
+   "label": {
+    "none": [
+     "Leiden University"
+    ]
+   },
+   "logo": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+     "type": "Image",
+     "service": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/infra/branding/logo/logo-main.png?institutionCode=31UKB_LEU",
+       "type": "ImageService2",
+       "profile": "http://iiif.io/api/image/2/level2.json"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649480002711/canvas/13500661200002711?iiifVersion=3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "01 - D D 29,6"
+    ]
+   },
+   "width": 4909,
+   "height": 5920,
+   "items": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649480002711/annopage/13500661200002711?iiifVersion=3",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649480002711/annopage/13500661200002711?iiifVersion=3",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODEvOTEvMjEvMDkvRUUvRDUvQjEvRjEvMEQvNTQvODEvMjMvRDcvMEMvRDQvMTAvMTg4N18xX2l0ZW1fODE0NDQ0XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ5NDgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTA5IiwiaGVpZ2h0IjoiNTkyMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+        "type": "Image",
+        "format": "image/jp2",
+        "service": [
+         {
+          "id": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODEvOTEvMjEvMDkvRUUvRDUvQjEvRjEvMEQvNTQvODEvMjMvRDcvMEMvRDQvMTAvMTg4N18xX2l0ZW1fODE0NDQ0XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ5NDgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTA5IiwiaGVpZ2h0IjoiNTkyMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+          "type": "ImageService2",
+          "profile": "http://iiif.io/api/image/2/level2.json"
+         }
+        ],
+        "height": 5920,
+        "width": 4909
+       },
+       "target": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649480002711/canvas/13500661200002711?iiifVersion=3"
+      }
+     ]
+    }
+   ],
+   "thumbnail": [
+    {
+     "id": "https://catalogue.leidenuniv.nl/view/delivery/thumbnail/31UKB_LEU/13500661200002711",
+     "type": "Image"
+    }
+   ]
+  }
+ ],
+ "@context": "http://iiif.io/api/presentation/3/context.json"
+}

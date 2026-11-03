@@ -1,0 +1,156 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_13.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 13: Noord Sumatra 1:200.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717676.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8-9/VI-VII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717599.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 2-3/IV/V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717613.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 4-5/IV-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717637.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 4-5/VI-VII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717659.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Sumatra Res. Atjeh en Onderh – blad 8-9/VI-VII"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55667/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Paja Karoeng], D C 32,6, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55672/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "G[oenong] Bateëkapaj"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55772/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Midden Peutoë"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55780/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Peudada"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55802/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koealasimpang"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55860/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Blang Oebor-Oebor, D C 32,6, sheet 3"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55871/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Lhoksoekon"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55939/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Blanggloempang"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56121/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gle Goh"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56406/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Peudawa-Rajeu"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56445/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kroeëngmane"
+    ]
+   }
+  }
+ ]
+}

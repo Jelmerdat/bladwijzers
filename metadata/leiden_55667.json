@@ -1,0 +1,55 @@
+{
+ "id": "leiden:55667",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[G[oenoeng] Paja Karoeng], D C 32,6, sheet 2",
+ "full_title": "[G[oenoeng] Paja Karoeng], D C 32,6, sheet 2",
+ "sheet": "2",
+ "hind_series": null,
+ "shelfmark": "D C 32,6, sheet 2",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "North Sumatra (Atjeh); North Sumatra (Atjeh)"
+ },
+ "published": "[S.l.] : Sur[ve]y Directorate H.Q. ALFSEA, 1946",
+ "creator": "Survey Directorate H.Q. ALFSEA",
+ "edition": null,
+ "notes": "Photolithographed and printed by 65 Rep. Group I.E.; Copies from Japanese maps based on Dutch Survey 1938-1940.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55667",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55667",
+ "bladwijzers": [
+  {
+   "nr": "13",
+   "title": "Noord Sumatra",
+   "scale": "1:200.000",
+   "hind": "655",
+   "pdf": "1",
+   "pdf_page": "18",
+   "match_confidence": "low",
+   "match_note": "D C 32: North Sumatra (Atjeh) ALFSEA 1946"
+  },
+  {
+   "nr": "14",
+   "title": "Noord Sumatra",
+   "scale": "1:100.000",
+   "hind": "656",
+   "pdf": "1",
+   "pdf_page": "19",
+   "match_confidence": "low",
+   "match_note": "D C 32: North Sumatra (Atjeh) ALFSEA 1946"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55667/manifest",
+  "manifest_file": "iiif/leiden/55667.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55667/full/300,/0/default.jpg",
+  "width": 5888,
+  "height": 7326,
+  "canvases": 1
+ }
+}

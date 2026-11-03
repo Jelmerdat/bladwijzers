@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-482315635",
+ "source": "National Library of Australia (Trove)",
+ "title": "Java – blad XX",
+ "sheet": "XX",
+ "series": {
+  "id": "386943",
+  "title": "Java",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 105°00'--E 116°00'/S 5°50'--S 9°00')",
+  "bbox": {
+   "west": "105.0",
+   "east": "116.0",
+   "north": "-5.8333",
+   "south": "-9.0"
+  },
+  "published": "Batavia [Jakarta] : Topographische Inrichting, 1906-",
+  "extent": "maps :",
+  "notes": "Topographic map series of Java showing residency and administrative boundaries, transportation, ground and water features, cultivation, built-up areas and populated places. Relief shown by shading, contours, hachures and spot heights. | Each sheet has individual number. | Includes index of adjoining sheets, list of private estates and diagram of administrative areas.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/386943",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/386943.marcxml"
+ },
+ "date": "01 January 1906",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia)",
+ "publisher": "Topographische Inrichting",
+ "call_number": "MAP G8090 s100 1906-43",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-482315635",
+ "bladwijzers": [
+  {
+   "nr": "7",
+   "title": "West- en Midden Java",
+   "scale": "1:100.000",
+   "hind": "663",
+   "pdf": "1",
+   "pdf_page": "10",
+   "match_confidence": "medium",
+   "match_note": "Java 1:100.000 series; bladwijzer covers only West- en Midden Java (HIND 663)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315635.json",
+  "manifest_file": "iiif/nla/nla.obj-482315635.json",
+  "image": "https://nla.gov.au/nla.obj-482315635/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-482315635/image?wid=300",
+  "width": 9788,
+  "height": 11703
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "leiden:815757",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "P[oelau] Rempang",
+ "full_title": "P[oelau] Rempang, / compiled and revised by I Ind. Fd. S[ur]v[e]y Co[mpan]y R.I.E. ; reproduced by 65 Ind. Rep[roduction] G[rou]p R.I.E. ; published by S[ur]v[e]y Directorate H[ead] Q[uarters] ALFSEA.",
+ "sheet": "4M/1",
+ "hind_series": "HIND 1035",
+ "shelfmark": "D D 32,15",
+ "scale": "Schaal 1:63.360",
+ "series": {
+  "title": "Riouw Archipelago : 1 inch to 1 mile ; HIND 1035 4M/1",
+  "part_of": "Riouw Archipelago. 1 inch to 1 mile (HIND 1035 4M/1) | Riouw Archipelago : 1 inch to 1 mile /"
+ },
+ "published": "P[oelau] Rempang; [S.l.] : S[ur]v[e]y Directorate H[ead] Q[uarters] ALFSEA, 1946; D D 32,15",
+ "creator": "S[u]rv[e]y Directorate H[ead] Q[uarters] ALFSEA.",
+ "edition": "1st edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:815757",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/815757",
+ "bladwijzers": [
+  {
+   "nr": "28",
+   "title": "Riouw-Archipel",
+   "scale": "1:63.360",
+   "hind": "1035",
+   "pdf": "1",
+   "pdf_page": "33",
+   "match_confidence": "high",
+   "match_note": "HIND 1035"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634410002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/815757.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjMvQ0MvMkMvRUMvRUIvNTYvRjUvNDYvNDkvQUYvN0MvQUIvNTkvMTIvOTAvNDgvMTg4N18xX2l0ZW1fODE1NzU3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM0NDEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODUxIiwiaGVpZ2h0IjoiNzAxMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjMvQ0MvMkMvRUMvRUIvNTYvRjUvNDYvNDkvQUYvN0MvQUIvNTkvMTIvOTAvNDgvMTg4N18xX2l0ZW1fODE1NzU3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM0NDEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODUxIiwiaGVpZ2h0IjoiNzAxMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjMvQ0MvMkMvRUMvRUIvNTYvRjUvNDYvNDkvQUYvN0MvQUIvNTkvMTIvOTAvNDgvMTg4N18xX2l0ZW1fODE1NzU3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM0NDEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODUxIiwiaGVpZ2h0IjoiNzAxMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5851,
+  "height": 7012,
+  "canvases": 1
+ }
+}

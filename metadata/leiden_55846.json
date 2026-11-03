@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55846",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Timor-Zee, D B 21,1, sheet 15",
+ "full_title": "Timor-Zee, D B 21,1, sheet 15",
+ "sheet": "15",
+ "hind_series": null,
+ "shelfmark": "D B 21,1, sheet 15",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Internationale wereldkaart; Internationale wereldkaart = Carte internationale du monde"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1941",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Topografische Dienst.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55846",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55846",
+ "bladwijzers": [
+  {
+   "nr": "1",
+   "title": "Internationale Wereldkaart",
+   "scale": "1:1.000.000",
+   "hind": "5000",
+   "pdf": "1",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "D B 21: Internationale wereldkaart 1:1.000.000 (Dutch edition)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55846/manifest",
+  "manifest_file": "iiif/leiden/55846.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55846/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55846",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55846/full/300,/0/default.jpg",
+  "width": 9512,
+  "height": 6958,
+  "canvases": 1
+ }
+}

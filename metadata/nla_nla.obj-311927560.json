@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-311927560",
+ "source": "National Library of Australia (Trove)",
+ "title": "Gouvt. Selébès en Onderh : zuidwest – blad 75/XXXI B",
+ "sheet": "75/XXXI B",
+ "series": {
+  "id": "6607267",
+  "title": "Gouvt. Selébès en Onderh : zuidwest",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 118°30'--E 120°45'/S 3°00'--S 6°30').",
+  "bbox": {
+   "west": "118.5",
+   "east": "120.75",
+   "north": "-3.0",
+   "south": "-6.5"
+  },
+  "published": "Batavia : Topographische Inrichting, 1922-1934.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Sulawesi, Indonesia. Relief shown by contours and spot heights. | Title varies. | Later sheets published by the Topographische Dienst. | Each sheet has individual number. | Includes sheets of nearby islands with varying subtitle. | Includes legend, index to adjoining sheets and administrative boundary diagram.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6607267",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6607267.marcxml"
+ },
+ "date": null,
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer.",
+ "publisher": "Topographische Inrichting",
+ "call_number": "MAP G8110 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-311927560",
+ "bladwijzers": [
+  {
+   "nr": "46",
+   "title": "Zuid West Celebes",
+   "scale": "1:50.000",
+   "hind": "629",
+   "pdf": "2",
+   "pdf_page": "3",
+   "match_confidence": "high",
+   "match_note": "Gouvt. Selebes zuidwest 1:50.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-311927560.json",
+  "manifest_file": "iiif/nla/nla.obj-311927560.json",
+  "image": "https://nla.gov.au/nla.obj-311927560/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-311927560/image?wid=300",
+  "width": 9958,
+  "height": 11675
+ }
+}

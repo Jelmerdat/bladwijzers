@@ -1,0 +1,248 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384729.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Dutch Timor 1:100,000 – blad 90-91/XLVIII"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 90-91/XLVIII"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Sheet"
+    ]
+   },
+   "value": {
+    "none": [
+     "90-91/XLVIII"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Series"
+    ]
+   },
+   "value": {
+    "none": [
+     "Dutch Timor 1:100,000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Scale 1:100,000."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Coordinates (series)"
+    ]
+   },
+   "value": {
+    "none": [
+     "(E 122⁰00'--E 130⁰00'/S 6⁰00'--S 11⁰00')."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Published (series)"
+    ]
+   },
+   "value": {
+    "none": [
+     "Washington, D.C. : Army Map Service, 1942-1946."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Sheet date"
+    ]
+   },
+   "value": {
+    "none": [
+     "01 January 1942"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "United States. Army Map Service."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Call number"
+    ]
+   },
+   "value": {
+    "none": [
+     "MAP G8117.T5 s100 (Copy 1)"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Bladwijzer (Kaartenmagazijn Topografische Dienst)"
+    ]
+   },
+   "value": {
+    "none": [
+     "nr. 57 Timor 1:100.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Persistent URL"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://nla.gov.au/nla.obj-306384729"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Access conditions"
+    ]
+   },
+   "value": {
+    "none": [
+     "Unrestricted"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "IIIF Presentation 3 wrapper generated from National Library of Australia (Trove) data. The image is served by nla.gov.au, which has no IIIF Image API (no deep zoom)."
+  ]
+ },
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "National Library of Australia, nla.obj-306384729"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://nla.gov.au/nla.obj-306384729",
+   "type": "Text",
+   "label": {
+    "en": [
+     "National Library of Australia"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://catalogue.nla.gov.au/catalog/4541291.marcxml",
+   "type": "Dataset",
+   "label": {
+    "en": [
+     "MARC record (series)"
+    ]
+   },
+   "format": "application/xml"
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/metadata/nla_nla.obj-306384729.json",
+   "type": "Dataset",
+   "label": {
+    "en": [
+     "Sheet metadata (JSON)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nla.gov.au/nla.obj-306384729/image?wid=300",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384729.json/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "blad 90-91/XLVIII"
+    ]
+   },
+   "width": 14602,
+   "height": 13407,
+   "items": [
+    {
+     "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384729.json/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384729.json/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nla.gov.au/nla.obj-306384729/image",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 14602,
+        "height": 13407
+       },
+       "target": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384729.json/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

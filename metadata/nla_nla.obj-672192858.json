@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-672192858",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xix",
+ "sheet": "24/xix",
+ "series": {
+  "id": "1937322",
+  "title": "Sumatra, Gouvt. Oostkust van Sumatra",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 100°05ʹ--E 104°30ʹ/N 2°00ʹ--S 2°00ʹ).",
+  "bbox": {
+   "west": "100.0833",
+   "east": "104.5",
+   "north": "2.0",
+   "south": "-2.0"
+  },
+  "published": "Batavia [Indonesia] : Reproductie drijf Topografische dienst, [1928-1940]",
+  "extent": "maps :",
+  "notes": "Map series of the east coast of Sumatra showing administrative boundaries, transportation, ground and water features, vegetation, cultivation, religious sites, kampongs and buildings. | Map in Dutch. | Some sheets have varied titles. | Each sheet has individual number. | Includes index to adjoining sheets, boundary diagram, abbreviations and compilation notes.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/1937322",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/1937322.marcxml"
+ },
+ "date": "01 January 1928",
+ "creator": "Dutch East Indies. Topografische Dienst.",
+ "publisher": "Reproductie drijf Topografische dienst",
+ "call_number": "MAP G8080 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-672192858",
+ "bladwijzers": [
+  {
+   "nr": "22",
+   "title": "Oost-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1059",
+   "pdf": "1",
+   "pdf_page": "27",
+   "match_confidence": "high",
+   "match_note": "Gouvt. Oostkust van Sumatra 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192858.json",
+  "manifest_file": "iiif/nla/nla.obj-672192858.json",
+  "image": "https://nla.gov.au/nla.obj-672192858/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-672192858/image?wid=300",
+  "width": 9996,
+  "height": 12118
+ }
+}

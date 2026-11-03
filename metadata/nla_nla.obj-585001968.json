@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-585001968",
+ "source": "National Library of Australia (Trove)",
+ "title": "Gouvt. Sumatra Res. Atjeh en Onderh – blad 10/VI D",
+ "sheet": "10/VI D",
+ "series": {
+  "id": "6612720",
+  "title": "Gouvt. Sumatra Res. Atjeh en Onderh",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 96°03'--E 98°23'/N 5°23'--N 3°54').",
+  "bbox": {
+   "west": "96.05",
+   "east": "98.7",
+   "north": "5.3833",
+   "south": "3.9"
+  },
+  "published": "Batavia, Indonesia : Topografische dienst, 1937-1942.",
+  "extent": "maps :",
+  "notes": "Topographic map series of northeast Aceh, Sumatra, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading, form lines and spot heights. | Includes bladindeeling, administrative index | Each sheet is named and numbered individually.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6612720",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6612720.marcxml"
+ },
+ "date": "01 January 1938",
+ "creator": "Netherlands. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Topografische dienst",
+ "call_number": "MAP G8080 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-585001968",
+ "bladwijzers": [
+  {
+   "nr": "15",
+   "title": "N.W. Sumatra",
+   "scale": "1:50.000",
+   "hind": "1057",
+   "pdf": "1",
+   "pdf_page": "20",
+   "match_confidence": "high",
+   "match_note": "Atjeh 1:50.000, extent E96-98 N3.9-5.4 = N.W. Sumatra"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-585001968.json",
+  "manifest_file": "iiif/nla/nla.obj-585001968.json",
+  "image": "https://nla.gov.au/nla.obj-585001968/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-585001968/image?wid=300",
+  "width": 10056,
+  "height": 12233
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_59.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 59: P. Tanimbar (Selaroe eil.) 1:63.360"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57215/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Selaroe Island East, D C 22,2, sheet 1"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57421/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Selaroe Island West, D C 22,2, sheet 2"
+    ]
+   }
+  }
+ ]
+}

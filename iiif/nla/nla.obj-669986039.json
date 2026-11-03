@@ -1,0 +1,248 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986039.json",
+ "type": "Manifest",
+ "label": {
+  "none": [
+   "Sumatra : Res. Sumatra's Westkust – blad 76"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 76"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Sheet"
+    ]
+   },
+   "value": {
+    "none": [
+     "76"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Series"
+    ]
+   },
+   "value": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Scale"
+    ]
+   },
+   "value": {
+    "none": [
+     "Scale 1:40,000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Coordinates (series)"
+    ]
+   },
+   "value": {
+    "none": [
+     "(E 98°42'--E 101°32'/N 2°00'--S 2°00')."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Published (series)"
+    ]
+   },
+   "value": {
+    "none": [
+     "Batavia : Topografische dienst, 1893-1937."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Sheet date"
+    ]
+   },
+   "value": {
+    "none": [
+     "01 January 1893"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Creator"
+    ]
+   },
+   "value": {
+    "none": [
+     "Netherlands. Topografische Dienst, cartographer. issuing body."
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Call number"
+    ]
+   },
+   "value": {
+    "none": [
+     "MAP G8080 s40"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Bladwijzer (Kaartenmagazijn Topografische Dienst)"
+    ]
+   },
+   "value": {
+    "none": [
+     "nr. 20 Midden Sumatra 1:40.000"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Persistent URL"
+    ]
+   },
+   "value": {
+    "none": [
+     "https://nla.gov.au/nla.obj-669986039"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Access conditions"
+    ]
+   },
+   "value": {
+    "none": [
+     "Unrestricted"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "IIIF Presentation 3 wrapper generated from National Library of Australia (Trove) data. The image is served by nla.gov.au, which has no IIIF Image API (no deep zoom)."
+  ]
+ },
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "National Library of Australia, nla.obj-669986039"
+   ]
+  }
+ },
+ "homepage": [
+  {
+   "id": "https://nla.gov.au/nla.obj-669986039",
+   "type": "Text",
+   "label": {
+    "en": [
+     "National Library of Australia"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://catalogue.nla.gov.au/catalog/6613082.marcxml",
+   "type": "Dataset",
+   "label": {
+    "en": [
+     "MARC record (series)"
+    ]
+   },
+   "format": "application/xml"
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/metadata/nla_nla.obj-669986039.json",
+   "type": "Dataset",
+   "label": {
+    "en": [
+     "Sheet metadata (JSON)"
+    ]
+   },
+   "format": "application/json"
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nla.gov.au/nla.obj-669986039/image?wid=300",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ],
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986039.json/canvas/1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "blad 76"
+    ]
+   },
+   "width": 12298,
+   "height": 14608,
+   "items": [
+    {
+     "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986039.json/canvas/1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986039.json/canvas/1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nla.gov.au/nla.obj-669986039/image",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 12298,
+        "height": 14608
+       },
+       "target": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986039.json/canvas/1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

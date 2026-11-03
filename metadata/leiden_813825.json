@@ -1,0 +1,45 @@
+{
+ "id": "leiden:813825",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Ketaoen",
+ "full_title": "Ketaoen,",
+ "sheet": "71-a",
+ "hind_series": "HIND 1060",
+ "shelfmark": "D D 42,30.",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "South Sumatra ; HIND 1060 Sheet 71-a",
+  "part_of": "South Sumatra. 1:100.000 (HIND 1060 Sheet 71-a) | South Sumatra : 1:100.000."
+ },
+ "published": "Ketaoen; [Washington D.C. : War Office], 1945; D D 42,30",
+ "creator": "War Office (Washington D.C.)",
+ "edition": "2nd edition.",
+ "notes": "1st edition in 1942. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:813825",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/813825",
+ "bladwijzers": [
+  {
+   "nr": "23",
+   "title": "Zuid Sumatra",
+   "scale": "1:100.000",
+   "hind": "1060",
+   "pdf": "1",
+   "pdf_page": "28",
+   "match_confidence": "high",
+   "match_note": "HIND 1060"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658770002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/813825.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREUvNTYvQ0QvMDUvNEUvRkQvMTYvMTEvREUvNjkvRkQvNDcvRDAvOTIvNkIvMjQvMTg4N18xX2l0ZW1fODEzODI1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4NzcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODQwIiwiaGVpZ2h0IjoiNzkzNSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREUvNTYvQ0QvMDUvNEUvRkQvMTYvMTEvREUvNjkvRkQvNDcvRDAvOTIvNkIvMjQvMTg4N18xX2l0ZW1fODEzODI1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4NzcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODQwIiwiaGVpZ2h0IjoiNzkzNSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvREUvNTYvQ0QvMDUvNEUvRkQvMTYvMTEvREUvNjkvRkQvNDcvRDAvOTIvNkIvMjQvMTg4N18xX2l0ZW1fODEzODI1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4NzcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODQwIiwiaGVpZ2h0IjoiNzkzNSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5840,
+  "height": 7935,
+  "canvases": 1
+ }
+}

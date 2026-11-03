@@ -1,0 +1,55 @@
+{
+ "id": "leiden:812273",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Boven Digoel-Rivier",
+ "full_title": "Boven Digoel-Rivier, / Topografische Dienst.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D G 5,24",
+ "scale": "Schaal 1:250.000",
+ "series": {
+  "title": "Zuid Nieuw Guinea (Res[identie] Molukken) : 1:250.000 ; Boven Digoel-Rivier",
+  "part_of": "Zuid Nieuw Guinea (Res[identie] Molukken) (Boven Digoel-Rivier) | Zuid Nieuw Guinea (Res[identie] Molukken) /"
+ },
+ "published": "Boven Digoel-Rivier; Batavia : Reproductiebedrijf Topografische Dienst, 1937; D G 5,24",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812273",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812273",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "low",
+   "match_note": "D G 5: Topografische Dienst 1937, 1:250.000 New Guinea"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "low",
+   "match_note": "D G 5: Topografische Dienst 1937, 1:250.000 New Guinea"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654490002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812273.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvOTMvRDgvNTYvNjYvOTkvOTAvMjQvNzYvMDUvNEUvMDMvRDAvNkEvRDkvMkYvQkIvMTg4N18xX2l0ZW1fODEyMjczXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU0NDkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTkwIiwiaGVpZ2h0IjoiNzM3NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvOTMvRDgvNTYvNjYvOTkvOTAvMjQvNzYvMDUvNEUvMDMvRDAvNkEvRDkvMkYvQkIvMTg4N18xX2l0ZW1fODEyMjczXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU0NDkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTkwIiwiaGVpZ2h0IjoiNzM3NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvOTMvRDgvNTYvNjYvOTkvOTAvMjQvNzYvMDUvNEUvMDMvRDAvNkEvRDkvMkYvQkIvMTg4N18xX2l0ZW1fODEyMjczXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU0NDkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTkwIiwiaGVpZ2h0IjoiNzM3NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 6590,
+  "height": 7376,
+  "canvases": 1
+ }
+}

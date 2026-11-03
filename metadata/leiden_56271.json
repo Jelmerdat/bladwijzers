@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56271",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Koeta'alam, D C 38,1, sheet 6",
+ "full_title": "Koeta'alam, D C 38,1, sheet 6",
+ "sheet": "6",
+ "hind_series": null,
+ "shelfmark": "D C 38,1, sheet 6",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Northwest Sumatra; Northwest Sumatra"
+ },
+ "published": "Washington D.C. : Army Map Service, 1944",
+ "creator": "Army Map Service U.S. Army (Washington D.C.)",
+ "edition": null,
+ "notes": "prepared under the direction of the Chief of Engineers U.S. Army by the Army Map Service.; 1st. edition in 1943, A.M.S. T714.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56271",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56271",
+ "bladwijzers": [
+  {
+   "nr": "15",
+   "title": "N.W. Sumatra",
+   "scale": "1:50.000",
+   "hind": "1057",
+   "pdf": "1",
+   "pdf_page": "20",
+   "match_confidence": "medium",
+   "match_note": "D C 38: Northwest Sumatra AMS 1944"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56271/manifest",
+  "manifest_file": "iiif/leiden/56271.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56271/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56271",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56271/full/300,/0/default.jpg",
+  "width": 5616,
+  "height": 6959,
+  "canvases": 1
+ }
+}

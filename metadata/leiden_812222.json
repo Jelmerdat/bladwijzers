@@ -1,0 +1,45 @@
+{
+ "id": "leiden:812222",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Painan]",
+ "full_title": "[Painan], / prepared under the direction of the Chief of Engineers, U.S. Army, 1943.",
+ "sheet": "45",
+ "hind_series": "HIND 1043",
+ "shelfmark": "D D 35,46",
+ "scale": "Schaal 1:40.000",
+ "series": {
+  "title": "West Coast Sumatra : 1:40.000 ; HIND 1043, Sheet No. 45",
+  "part_of": "West Coast Sumatra. 1:40.000 (HIND 1043, Sheet No. 45) | West Coast Sumatra : 1:40.000 /"
+ },
+ "published": "[Painan]; Washington D.C. : Army Map Service U.S. Army, 1943; D D 35,46",
+ "creator": "Army Map Service U.S. Army (Washington D.C.)",
+ "edition": "1st. edition.",
+ "notes": "Copied from a Dutch map dated 1895.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812222",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812222",
+ "bladwijzers": [
+  {
+   "nr": "20",
+   "title": "Midden Sumatra",
+   "scale": "1:40.000",
+   "hind": "1043",
+   "pdf": "1",
+   "pdf_page": "25",
+   "match_confidence": "high",
+   "match_note": "HIND 1043"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654750002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812222.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjYvNDEvOUEvREEvNEEvQUUvM0UvMkMvMzgvQTcvMTAvMEUvQ0MvOTYvMUYvRDkvMTg4N18xX2l0ZW1fODEyMjIyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU0NzUwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTE0IiwiaGVpZ2h0IjoiODM4MyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjYvNDEvOUEvREEvNEEvQUUvM0UvMkMvMzgvQTcvMTAvMEUvQ0MvOTYvMUYvRDkvMTg4N18xX2l0ZW1fODEyMjIyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU0NzUwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTE0IiwiaGVpZ2h0IjoiODM4MyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjYvNDEvOUEvREEvNEEvQUUvM0UvMkMvMzgvQTcvMTAvMEUvQ0MvOTYvMUYvRDkvMTg4N18xX2l0ZW1fODEyMjIyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU0NzUwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2NTE0IiwiaGVpZ2h0IjoiODM4MyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 6514,
+  "height": 8383,
+  "canvases": 1
+ }
+}

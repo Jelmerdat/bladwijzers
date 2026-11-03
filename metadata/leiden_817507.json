@@ -1,0 +1,45 @@
+{
+ "id": "leiden:817507",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Tjoeroep]",
+ "full_title": "[Tjoeroep], / opgenomen door den Topografischen Dienst in 1914-1923.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 41,84",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "Sumatra : Res[identie] Benkoelen ; Blad LXX",
+  "part_of": "Sumatra. 1:100.000 (Blad LXX) | Sumatra : 1:100.000."
+ },
+ "published": "[Tjoeroep]; Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1925; D D 41,84",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:817507",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/817507",
+ "bladwijzers": [
+  {
+   "nr": "23",
+   "title": "Zuid Sumatra",
+   "scale": "1:100.000",
+   "hind": "1060",
+   "pdf": "1",
+   "pdf_page": "28",
+   "match_confidence": "medium",
+   "match_note": "D D 41: Sumatra 1:100.000, southern sheets (Lampong, Palembang, Benkoelen)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643730002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/817507.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMUQvRUUvNTgvMTYvMjEvRUQvQjQvRkYvRjgvOUYvQTEvQjIvRUUvODgvQzYvMjMvMTg4N18xX2l0ZW1fODE3NTA3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQzNzMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODY0IiwiaGVpZ2h0IjoiNjA3OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMUQvRUUvNTgvMTYvMjEvRUQvQjQvRkYvRjgvOUYvQTEvQjIvRUUvODgvQzYvMjMvMTg4N18xX2l0ZW1fODE3NTA3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQzNzMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODY0IiwiaGVpZ2h0IjoiNjA3OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMUQvRUUvNTgvMTYvMjEvRUQvQjQvRkYvRjgvOUYvQTEvQjIvRUUvODgvQzYvMjMvMTg4N18xX2l0ZW1fODE3NTA3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQzNzMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODY0IiwiaGVpZ2h0IjoiNjA3OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 4864,
+  "height": 6078,
+  "canvases": 1
+ }
+}

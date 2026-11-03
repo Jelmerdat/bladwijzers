@@ -1,0 +1,45 @@
+{
+ "id": "leiden:57378",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Koepang, D B 21,1, sheet 13",
+ "full_title": "Koepang, D B 21,1, sheet 13",
+ "sheet": "13",
+ "hind_series": null,
+ "shelfmark": "D B 21,1, sheet 13",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Internationale wereldkaart; Internationale wereldkaart = Carte internationale du monde"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1941",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Topografische Dienst.; Met vliegroutes.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:57378",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/57378",
+ "bladwijzers": [
+  {
+   "nr": "1",
+   "title": "Internationale Wereldkaart",
+   "scale": "1:1.000.000",
+   "hind": "5000",
+   "pdf": "1",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "Internationale wereldkaart 1:1.000.000 (D B 20-21)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57378/manifest",
+  "manifest_file": "iiif/leiden/57378.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57378/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57378",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57378/full/300,/0/default.jpg",
+  "width": 9400,
+  "height": 6622,
+  "canvases": 1
+ }
+}

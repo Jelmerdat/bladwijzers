@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-234435250",
+ "source": "National Library of Australia (Trove)",
+ "title": "[Ambon-groep] – blad Blad 39 en 55 (Alg. No. XXIX-100 en XXX-100)",
+ "sheet": "Blad 39 en 55 (Alg. No. XXIX-100 en XXX-100)",
+ "series": {
+  "id": "6381632",
+  "title": "[Ambon-groep]",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 128°10'53\"/S 3°41'42\").",
+  "bbox": {
+   "west": "128.1814",
+   "east": "128.1814",
+   "north": "-3.695",
+   "south": "-3.695"
+  },
+  "published": "Weltevreden, [Gambir] : Reproductiebedrijf Topografische dienst, 1921-",
+  "extent": "maps :",
+  "notes": "Topographic map series of Ambon Island, Indonesia. Relief shown by contours and spot heights. | Each sheet has individual number e.g. Blad 40 (Alg. no. XXIX-101). | Includes legend, index to adjoining sheets, boundary diagram, abbreviations and notes. | Some sheets in National Library of Australia's copies have handwritten annotations in pencil. $5ANL",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6381632",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6381632.marcxml"
+ },
+ "date": "01 January 1921",
+ "creator": "Dutch East Indies. Topografische Dienst, cartographer.",
+ "publisher": "Reproductiebedrijf Topografische dienst",
+ "call_number": "MAP G8132.A4 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-234435250",
+ "bladwijzers": [
+  {
+   "nr": "60",
+   "title": "Ambon",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "17",
+   "match_confidence": "high",
+   "match_note": "Ambon-groep 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435250.json",
+  "manifest_file": "iiif/nla/nla.obj-234435250.json",
+  "image": "https://nla.gov.au/nla.obj-234435250/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-234435250/image?wid=300",
+  "width": 5022,
+  "height": 7390
+ }
+}

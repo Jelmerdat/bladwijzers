@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56280",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[P[oelau] Makian], D C 21,1, sheet 23",
+ "full_title": "[P[oelau] Makian], D C 21,1, sheet 23",
+ "sheet": "23",
+ "hind_series": null,
+ "shelfmark": "D C 21,1, sheet 23",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouv[ernemen]t der Molukken (Res[identie] Ternate); Gouv[ernemen]t der Molukken (Res[identie] Ternate)"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1924",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1924.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56280",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56280",
+ "bladwijzers": [
+  {
+   "nr": "63",
+   "title": "Halmahera 1:100.000; Ternate, Tidore enz.",
+   "scale": "1:100.000 / 1:20.000",
+   "hind": "632",
+   "pdf": "2",
+   "pdf_page": "19",
+   "match_confidence": "medium",
+   "match_note": "D C 21: Gouvt. der Molukken (Res. Ternate) 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56280/manifest",
+  "manifest_file": "iiif/leiden/56280.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56280/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56280",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56280/full/300,/0/default.jpg",
+  "width": 5616,
+  "height": 6006,
+  "canvases": 1
+ }
+}

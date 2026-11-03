@@ -1,0 +1,4260 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_20.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 20: Midden Sumatra 1:40.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550969979.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970050.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 3"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970075.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 4"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970091.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 5"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970114.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 5"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970138.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 6"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970151.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 6"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970172.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 7"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970195.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 7"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970252.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970271.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970294.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970315.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970331.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 10"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550970353.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 10"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550975914.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 11"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976063.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 11"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976096.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976118.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976139.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976152.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976171.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 14"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976194.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 14"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976219.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976235.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976256.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 16"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976270.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976297.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 18"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976311.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 19"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976340.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976365.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976387.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976404.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976420.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976448.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976461.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976500.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976521.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976545.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976602.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976628.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976644.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976666.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 29"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976689.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 29"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976703.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 30"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976727.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 30"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976742.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 31"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976769.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 31"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976788.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 32"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976809.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 32"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976867.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 33"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976880.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 33"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 34"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976929.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 34"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 35"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976964.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 35"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550976986.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 36"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977012.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 36"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977036.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 37"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977057.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 37"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977073.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 38"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977099.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 38"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977116.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 39"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 39"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977150.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 40"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977175.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 40"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977191.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 41"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977214.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 41"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977238.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 42"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977251.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 42"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977272.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 43"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977295.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 43"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977310.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 44"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977332.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 44"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977355.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 45"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977378.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 45"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977393.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 46"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977411.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 46"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977433.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 47"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977454.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 47"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977479.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 48"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977498.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 48"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977517.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 49"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977530.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 50"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977558.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 51"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977574.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 52"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977596.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 53"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977626.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 54"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977647.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 55"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977660.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 56"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977683.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 57"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550977708.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 58"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550980598.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550982865.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 60"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550982887.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 60"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550982904.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550982920.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 62"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550982948.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 63 & 63a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988615.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 67"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988631.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 68"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988653.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 69"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988677.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 69"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988690.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 70"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988716.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 70"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988734.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 71"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988750.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 71"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988775.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 72"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550988791.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 72"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550992600.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 73"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550993889.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 73"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550993900.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 74"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550993921.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 74"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550993945.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 75"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550993968.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 75"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550993984.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 76"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994009.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 76"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994023.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 77"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994067.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 77"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994080.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 78"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994102.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 78"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994128.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 79"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994144.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 79"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994166.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 80"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994189.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 80"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994206.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 81"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994222.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 81"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994240.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 82"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994265.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 82"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994287.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 83"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 83"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994327.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 84"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 84"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994369.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 85"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994388.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 85"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994401.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 86"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994425.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 86"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 87"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994463.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 87"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994482.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 88"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994505.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 88"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994526.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 89"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994547.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 89"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994560.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 90"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994583.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 90"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994604.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 91"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550994620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 91"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999856.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 92"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999870.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 92"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999897.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 93"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999914.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 93"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999938.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 94"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999951.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 94"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999972.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 95"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-550999995.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 95"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000011.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 96"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000033.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 96"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000054.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 97"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000079.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 97"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000098.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 98"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000112.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 98"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000136.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 99"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000157.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 99"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000173.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 100"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000199.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 100"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000213.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 101"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000237.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 101"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000259.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 102"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000276.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 102"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000292.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 103"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000318.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 103"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000339.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 104"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000352.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 104"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000371.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 105"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000394.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 105"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000414.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 106"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000451.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 106"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000472.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 107"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000495.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 107"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000519.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 108"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000535.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 108"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000556.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 109"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551000570.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 109"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551001941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 110"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005674.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 110"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005696.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 111"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005711.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 111"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005733.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 112"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005754.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 112"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005779.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 113"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005798.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 113"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005812.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 114"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005836.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 114"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005857.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 115"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005873.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 115"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005899.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 116"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005918.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 116"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005939.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 117"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551005952.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 117"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551007115.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 118"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010830.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 118"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010858.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 119"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010874.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 119"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010896.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 120"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010911.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 120"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010940.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 121"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010965.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 121"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551010987.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 122"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011008.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 122"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011024.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 123"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011043.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 123"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011062.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 124"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011081.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 124"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011100.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 125"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011121.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 125"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011145.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 126"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011168.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 126"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011184.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 127"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011202.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 127"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011228.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 128"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011244.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 128"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011266.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 129"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011289.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 129"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011304.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 130"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-551011320.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Coast Sumatra 1:40,000 – blad 130"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669871862.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676989968.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676989984.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 3"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990001.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 4"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990025.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 6"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990049.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 7"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-708683148.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872007.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990063.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 10"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990082.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990105.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990126.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 14"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990147.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872086.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 16"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990160.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990183.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 18"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990208.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 19"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990224.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990243.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990262.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990281.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872108.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872124.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990340.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 29"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990365.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 30"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990387.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 31"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872143.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 32"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 33"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990404.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 34"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990420.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 36"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990448.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 37"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 38"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990461.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 39"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 40"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 41"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990500.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 42"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990521.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 43"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990545.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 44"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990568.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 45"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990584.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 46"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990602.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 47"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990628.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 48"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990791.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 49"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 50"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990929.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 51"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 52"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990964.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 53"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990986.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 54"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991002.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 55"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991028.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 56"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991106.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 57"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991122.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 58"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872269.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669872288.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 60"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991140.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991187.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 62"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991225.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 63"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669985993.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 67"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991249.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 68"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991263.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 69"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991282.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 70"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991346.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 71"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991367.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 72"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991380.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 73"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991405.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 74"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986018.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 75"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986039.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 76"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991426.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 78"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991447.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 79"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991460.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 82"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991483.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 83"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986141.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 84"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986193.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 85"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991507.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 86"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986212.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 87"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986236.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 88"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986257.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 89"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986273.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 90"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986358.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 91"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991529.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 92"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986374.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 93"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991541.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 94"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991564.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 95"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991643.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 96"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991662.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 97"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991681.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 98"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991704.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 99"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991720.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 100"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986587.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 101"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986603.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 102"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-669986627.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 103"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676991748.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 104"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670061288.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 105"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670061300.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 106"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670061321.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 107"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670061345.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 108"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670061415.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 109"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670061431.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 110"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412823.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 111"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 112"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412867.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 113"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412880.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 114"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 115"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412929.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 116"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 117"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412964.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 118"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670412986.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 119"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413000.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 120"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413021.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 121"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413045.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 122"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413068.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 123"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413084.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 124"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413125.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 125"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413163.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 126"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413182.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 127"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413264.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 128"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413286.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 129"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670413308.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Res. Sumatra's Westkust – blad 130"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Adian Tano Poetoes]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Karang Poetih]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Parsirangan Ni Aek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pajakoemboeh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maligi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rao]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soerian]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Panjaboengan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sikarbau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677670002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Natal]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Kapau]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Simpang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Gasa]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Anggoli]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koealo Batang Toroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Taratak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Baai van Taroesan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632560002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tapian Djorbing]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Galanggang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Hoeta Bargot]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634590002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soeliki]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearo Poetoes]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500666900002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Si Bakoer]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Oeloe Bangko]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Taloe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631590002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Parmaremarear]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tambangan Djae]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Mande Roebiah]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649980002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Saligawan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678150002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Oedjoeng Gading]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koto Padang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang Si Dimpoean]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Solok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667900002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoeng Gadang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moeara Laboeh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Karang Tinggi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[O[edjoeng] Biang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680630002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Batoe Taban]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Njamoek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Poentjak Soengaiandoering]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tajehbaroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500657880002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Pandan Aboe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Painan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640630002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kota Nopan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Baai van Boengoes]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Batang Toroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Boentak]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Tindjauan Agam]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Malintang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651880002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Taloek Palimboengan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652180002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Gadang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Si Njaroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Koedoekdjawi]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeg] Malintang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Pasaman]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Amboen]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Soengai Dahan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sawah Loento]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekaloeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644030002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Ranting]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Oelakan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Sarik]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rodang Si Bara Bara]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Katiagan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641180002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearo Tantang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640970002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengpandjang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679670002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboek Si Kaping]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Pamatang Sanggah]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Bakal]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Batang Baras Baras]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Si Aboe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Batoebardjoendjoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Mandiangin]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Koebangan Lado]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boeo]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Ampang Balai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rawang Taroengtaroeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Parhaloeangan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Pantai Tjarmin]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Si Lajang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oekit] Loemoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Saloh]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sapan Tanah]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Toengkoe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tor Si Dohar Dohar]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Fort van der Capellen]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Alahan Pandjang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoeng Medan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650880002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Abai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Si Laping]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635930002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pakanbaroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635860002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Midden Sumatra : 1:40.000"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635190002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang Lawas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang Pandjang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Adian Antahas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Hoeta Tolang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Air Bangis]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Balai Boeroek]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kota Ketjil]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pintoe Padang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624150002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Si Raboengan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Fort de Kock]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500623910002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Lasoeng Toengkoet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Soengai Daras]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang Maretjo]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoeng Lolo]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Mallenggok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Panggalaran]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Si Pirok]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641150002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Manambin]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kambang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645340002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oeki]t Mamboet]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645260002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Padang Mandaling]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bantjah Lawas]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sibolga]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tikoe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Binanga]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pariaman]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Takoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Singgalang]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[M[oeara] Poenggasan]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Adian Marogoeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pamatang Tjondong]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Adian Hoteng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643080002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboek Bargaloeng]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642850002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kota Baharoe]"
+    ]
+   }
+  }
+ ]
+}

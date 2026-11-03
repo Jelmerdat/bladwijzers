@@ -1,0 +1,1938 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_22.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 22: Oost-Sumatra 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184372.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 17/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184555.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 17/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184578.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 17/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184656.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 17/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672186097.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18-19/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18/xii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184927.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18/xiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184942.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672184969.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185211.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185334.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 18/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191044.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19-20/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185496.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185518.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185612.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185648.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185661.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185924.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672185962.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 19/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192180.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20-21/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672186145.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672186622.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672187345.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672190910.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672188235.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672188838.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672189781.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672190602.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 20/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192456.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21-22/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192470.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21-22/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192497.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21-22/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191089.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191217.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191258.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192088.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191720.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672191934.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192167.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 21/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192205.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192331.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192252.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192271.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192294.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192315.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192353.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192377.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192390.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192419.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 22/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192512.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23-24/xiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192613.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192536.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192557.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192573.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192599.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192637.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192659.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192676.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192692.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192710.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192732.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192755.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 23/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192998.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24-25/xxvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192858.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192778.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192793.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192817.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192830.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192874.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192896.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192911.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192933.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192954.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672192979.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 24/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193099.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193012.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193036.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xvi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193057.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193073.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193116.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193150.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193175.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193191.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193238.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 25/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193959.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26-27/xxv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193378.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193251.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xvi-xvii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193332.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193393.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193549.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193694.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193844.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193921.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 26/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193976.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27-28/xviii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672193992.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27/xix"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194014.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27/xx"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194038.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27/xxi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194051.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194072.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194095.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 27/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194115.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 28/xxi-xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194144.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 28/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194166.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 28/xxiv"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194211.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 29-30/xxiii"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-672194190.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra, Gouvt. Oostkust van Sumatra – blad 29/xxii"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ketampoetih"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814866/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teboekdalam], D D 43,43"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814885/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boven Soengai Goenting, D D 43,51"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814920/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sarolangoen], D D 43,101"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814992/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Talang Nebangkoekoe], D D 43,97"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815106/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bagan-Siapiapi], D D 43,24"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815184/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Betara], D D 43,75"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815333/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[T[a]s[ik] Besarserkap], D D 43,25"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815385/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearaboengo], D D 43,93"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815411/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearalemboe], D D 43,62"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815415/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sintong], D D 43,38"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815420/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Midden Soengai Gaoeng, D D 43,59"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815430/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koeak], D D 43,44"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660410002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soengailansat"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815448/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengaiapit], D D 43,8"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815462/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Doesoenpeloempat], D D 43,85"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815503/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rokan], D D 43,20"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815511/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Telaga], D D 43,4"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815646/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djambi], D D 43,82"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815657/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Betoengbedarah], D D 43,95"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815704/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sitoegal], D D 43,55"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815773/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekmoeda], D D 43,7"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815801/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bangko], D D 43,100"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815823/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Titinaka], D D 43,31"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815981/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Merantiboenting], D D 43,18"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:815996/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Doesoenkeboeng], D D 43,77"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816180/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Doendang], D D 43,47"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:811842/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koeala Ladjau, D D 43,69"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:811907/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pematangpaoeh], D D 43,104"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812007/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Rengat, D D 43,66"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812020/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Amphitrite-Baai, D D 43,61"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812135/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Nasinasi], D D 43,29"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812207/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Poeak], D D 43,40"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812219/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Langadai], D D 43,33"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812229/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kotalama], D D 43,12"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812232/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Koealapandoek], D D 43,48"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812307/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengkedaboe], D D 43,10"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812374/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Poelaumoeda], D D 43,50"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812413/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Goenoengsahilan], D D 43,45"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812422/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Gasip], D D 43,15"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812574/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Serapoeng], D D 43,42"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812612/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pakanbaroe], D D 43,23"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812616/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sebanga], D D 43,39"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812676/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Batoepandjang], D D 43,35"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812760/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Paoeh, D D 43,102"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812810/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bangkinang], D D 43,22"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812889/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pasirpengarajan], D D 43,11"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812956/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Oost-Sumatra"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:812964/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djelmoe], D D 43,105"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813136/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sepondjen], D D 43,83"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813178/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teloekmeranti], D D 43,49"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813236/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pangkalanpasir], D D 43,34"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813268/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tempoeling, D D 43,67"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816357/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wildreservaat \"Berbak\", D D 43,84"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816423/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ajabajani], D D 43,30"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816497/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bagansemoet], D D 43,32"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816553/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tembilahan, D D 43,60"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816576/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soengaigoenting, D D 43,52"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816606/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboektanahliat], D D 43,71"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816621/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kotatengah], D D 43,3"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816733/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Taloek], D D 43,63"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816810/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Segoempal], D D 43,27"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816825/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Simpangtiga], D D 43,79"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816911/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Selatpandjang], D D 43,9"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816932/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Seberida, D D 43,72"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816944/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Geragai], D D 43,89"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817066/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sikidjang], D D 43,13"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817131/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kebonbaroe], D D 43,36"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817219/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Merloeng], D D 43,78"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817252/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Daloedaloe], D D 43,2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817296/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Loeboekdjering], D D 43,86"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817375/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandjoengpaoeh], D D 43,54"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817385/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sakeanlosong], D D 43,56"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soengaidareh"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817538/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tanahlomang], D D 43,19"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:817582/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Toerai], D D 43,81"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813360/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Pekaitan], D D 43,26"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813369/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Doesoenbiroen], D D 43,99"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813415/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koealatoengkal, D D 43,74"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813429/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teroesan], D D 43,88"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sialanggaoeng"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813450/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kasangbangsawan], D D 43,37"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813469/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soeroelangoen], D D 43,106"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813473/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Bengkalis], D D 43,41"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813531/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Teloekkajoepoetih], D D 43,76"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813535/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boentoemahang], D D 43,80"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813654/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Soengailimau], D D 43,92"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813759/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Roemahampai], D D 43,57"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813792/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tjerinti], D D 43,64"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:813859/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Tandoen], D D 43,21"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814031/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Psangmoendjoeng], D D 43,103"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelaudaro"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814107/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kotabaroe, D D 43,73"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814134/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearatebo], D D 43,94"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814160/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Penjengat], D D 43,17"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814171/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Moearatembesi], D D 43,87"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814290/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Parit], D D 43,90"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814342/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djalan Tjindealoes], D D 43,98"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814353/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kotabatak], D D 43,14"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814363/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Langgam], D D 43,46"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814390/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boven Soengai Gaoeng, D D 43,58"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814429/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pangkalankasai, D D 43,65"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814571/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Siak Sri Indrapoera], D D 43,16"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814730/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Ladakoening], D D 43,6"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814750/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Berbak, D D 43,91"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814761/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Enok, D D 43,68"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814762/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Balaipoengoet], D D 43,5"
+    ]
+   }
+  }
+ ]
+}

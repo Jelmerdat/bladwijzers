@@ -1,0 +1,2046 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_69.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 69: Nieuw Guinea 1:250.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705868.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705884.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705927.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705942.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705969.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616705988.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706007.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706029.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706041.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706064.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706086.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706108.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706124.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706143.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706162.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706181.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706269.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706288.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706300.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706321.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706345.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706368.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706444.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706466.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706489.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706509.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706523.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706546.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706567.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706580.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706625.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706649.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706663.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706682.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706740.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706765.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706787.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706804.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706820.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706848.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706861.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706899.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706918.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706939.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706952.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706971.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706994.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707018.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707039.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707052.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707071.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707094.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707110.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707132.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707155.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707178.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707193.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707212.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707236.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707257.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707273.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707299.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707317.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707330.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707358.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707374.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707396.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707413.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707437.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707459.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707476.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707492.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707511.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707533.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707554.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707579.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707598.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707616.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707634.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707650.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707675.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707691.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707715.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707731.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707753.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707777.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707790.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707819.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707835.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707856.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707870.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707897.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707914.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707946.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707967.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616707980.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708006.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708022.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708040.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708065.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708087.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708104.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708120.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708148.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708161.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708185.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708200.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708221.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708245.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708268.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708284.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708305.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708326.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708347.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708360.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708383.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708409.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708423.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708446.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708467.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708480.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708508.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708524.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708543.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708562.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708581.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708607.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708629.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708641.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708664.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616708686.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bian-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516399990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch New Guinea : 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Fak-Fak"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Charles Louis-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676980002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wilhelmina-Top"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Anggi Gigi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tamrau-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Rouffaer-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677880002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "M[oun]t Tulband"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Awa-Top"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waropen West"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tanahmerah"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Salawati Island"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kokenau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Japen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "J.P. Coen-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Merauke"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waropen Oost"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bloemen-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waropen-West"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Amaroe of Maroe Meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Babo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650050002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mamberamo Delta"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wilhelmina-Top"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678130002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Van Rees en Gauttier Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nabire"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tahoen Lake"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oost-Japen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Hollandia"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tamrau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Manokwari"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516169540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch New Guinea : 1:250.000."
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wildeman-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Juliana-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boven Digoel-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waigeo-Eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Frederik Hendrik-Eiland Zuid"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waigeo Island"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "East Geelvink Bay"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Paniai-Meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wasior"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Juliana-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Paniai-Meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Rouffaer Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Straat Roemberpon"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "M[oun]t Awa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wasior"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Eilanden-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaiboes Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Digoel-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sorong"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Fak Fak"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Anggi-Giggi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schouten Islands"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bloemen-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Carstensz-Toppen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Etna Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schouten-Eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waropen East"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Straat Roemberpon"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "East Japen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Meervlakte-Oost"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665410002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mamberamo Delta"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Frederik Hendrik-Eiland Noord"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Teloek Sebakor Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaiboes-Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West-Japen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643680002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kokenau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Idenburg Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaimana"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516376530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw-Guinea"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nabire"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629150002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "J.P. Coen-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663360002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Manokwari"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644280002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaimana"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Meervlakte-West"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Amaroe of Maroe Meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645540002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Teloek Sebakor-Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Salawati-Eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Eilanden-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mappi-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wildeman-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Cooks-Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Babo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Charles Louis-Gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Etna-Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koemamba Eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boven Digoel-Rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sorong"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Biri Rivier"
+    ]
+   }
+  }
+ ]
+}

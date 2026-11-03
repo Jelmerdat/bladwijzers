@@ -1,0 +1,55 @@
+{
+ "id": "leiden:817107",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "M[oun]t Sagawawi",
+ "full_title": "M[oun]t Sagawawi, / published by Survey Directorate H[ead] Q[uarters] ALFSEA [=American Land Forces South East Asia]",
+ "sheet": "MT Sagawati",
+ "hind_series": "HIND 646",
+ "shelfmark": "D F 44,9",
+ "scale": "Schaal 1:63.360",
+ "series": {
+  "title": "Dutch New Guinea : 1:63.360 ; HIND 646 SHeet MT Sagawati",
+  "part_of": "Dutch New Guinea. 1:63.360 (HIND 646 SHeet MT Sagawati) | Dutch New Guinea : 1:63.360."
+ },
+ "published": "M[oun]t Sagawawi; [S.l.] : Survey Directorate H[ead] Q[uarters] ALFSEA [=American Land Forces South East Asia], 1946; D F 44,9",
+ "creator": "Survey Directorate Head Quarters American Land Forces South East Asia (ALFSEA)",
+ "edition": "1st. edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:817107",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/817107",
+ "bladwijzers": [
+  {
+   "nr": "71",
+   "title": "N.W. en N.O. Vogelkop",
+   "scale": "1:63.360",
+   "hind": "646",
+   "pdf": "2",
+   "pdf_page": "28",
+   "match_confidence": "high",
+   "match_note": "D F 44: Dutch New Guinea 1:63.360 (HIND 646), N.W. en N.O. Vogelkop"
+  },
+  {
+   "nr": "72",
+   "title": "N.W. en N.O. Vogelkop",
+   "scale": "1:63.360",
+   "hind": "646",
+   "pdf": "2",
+   "pdf_page": "28",
+   "match_confidence": "high",
+   "match_note": "D F 44: Dutch New Guinea 1:63.360 (HIND 646), N.W. en N.O. Vogelkop"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628390002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/817107.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNDYvM0QvNzcvRDQvRTQvQzEvNDYvREMvRTcvN0EvQTIvNjAvOEIvMzEvRkYvN0MvMTg4N18xX2l0ZW1fODE3MTA3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjI4MzkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1NzQyIiwiaGVpZ2h0IjoiNzI3MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNDYvM0QvNzcvRDQvRTQvQzEvNDYvREMvRTcvN0EvQTIvNjAvOEIvMzEvRkYvN0MvMTg4N18xX2l0ZW1fODE3MTA3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjI4MzkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1NzQyIiwiaGVpZ2h0IjoiNzI3MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNDYvM0QvNzcvRDQvRTQvQzEvNDYvREMvRTcvN0EvQTIvNjAvOEIvMzEvRkYvN0MvMTg4N18xX2l0ZW1fODE3MTA3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjI4MzkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1NzQyIiwiaGVpZ2h0IjoiNzI3MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5742,
+  "height": 7272,
+  "canvases": 1
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_3.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 3: Java en Madura, Overzichtskaart 1:250.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad I"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335821.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335845.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335868.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335884.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad IV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477336007.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad IX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335927.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335942.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad VI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335969.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad VII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335988.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477336029.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Java en Madoera – blad X"
+    ]
+   }
+  }
+ ]
+}

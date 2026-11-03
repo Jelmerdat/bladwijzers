@@ -1,0 +1,45 @@
+{
+ "id": "leiden:816497",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Bagansemoet], D D 43,32",
+ "full_title": "[Bagansemoet], D D 43,32",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 43,32",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Sumatra. 1:100.000; Sumatra : 1:100.000"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1930",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1926-1927.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:816497",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/816497",
+ "bladwijzers": [
+  {
+   "nr": "22",
+   "title": "Oost-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1059",
+   "pdf": "1",
+   "pdf_page": "27",
+   "match_confidence": "high",
+   "match_note": "D D 43: Oost-Sumatra 1:100.000 (Leiden \"Bladwijzer van Oost-Sumatra\" D D 43,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:816497/manifest",
+  "manifest_file": "iiif/leiden/816497.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:816497/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:816497",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:816497/full/300,/0/default.jpg",
+  "width": 4933,
+  "height": 5950,
+  "canvases": 1
+ }
+}

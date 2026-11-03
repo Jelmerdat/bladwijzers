@@ -1,0 +1,3450 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_8.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 8: Java en Madura 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586063.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 32/XXXIX A & pt.C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586082.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 32/XXXIX B & pts.32/XXXVIII D & 32/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586049.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 32/XXXVIII C & pts. 31/XXXVIII D & 32/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586147.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 33/XXXIX A & pt.C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586160.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 33/XXXIX B & pt.D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586105.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 33/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586126.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 33/XXXVIII D & pt.B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586365.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXIX A & pt.C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586387.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586404.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586183.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVI D "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586208.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586224.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586243.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVII C "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586262.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586281.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586340.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 34/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586689.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586703.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586602.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586628.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586644.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586666.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586420.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVI C & pt.A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586448.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586461.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVII B & pt.35/XXXVI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586500.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586521.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586545.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586568.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586584.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 35/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586986.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XL A & pt.35/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587004.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587020.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587048.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587061.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587085.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586929.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586964.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586727.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586742.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586769.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586788.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586809.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586823.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586867.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586880.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 36/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587364.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587386.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587406.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587422.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587440.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587267.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587280.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587103.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587127.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587142.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587169.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587188.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587209.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587223.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587246.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 37/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587660.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587683.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587708.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587724.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587743.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XLI B & pt.D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587626.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587647.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587465.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVII A & pt.38/XXXVI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587487.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVII B & pt.38/XXXVI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587501.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587525.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587549.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587563.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587582.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587605.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 38/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587921.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587945.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587968.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587984.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XLI D & pt.39/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587889.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587900.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587762.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXVII C & pt.A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587781.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587802.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587828.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587844.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495587866.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 39/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588144.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588166.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588189.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588206.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588222.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588240.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588265.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588287.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588128.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588009.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXVII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588023.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXVII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588046.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588067.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588080.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588102.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 40/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588505.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588526.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588547.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588560.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588583.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588604.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588648.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588661.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588685.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588425.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588463.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588482.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588327.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXVII C & pt.D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588369.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXVIII B & pt.42/XXXVIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588388.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588401.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 41/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588768.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588784.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588807.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588829.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588841.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588864.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588886.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588908.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588924.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588943.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588962.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588721.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588745.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588700.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 42/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589028.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589044.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589066.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589089.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589106.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589122.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589140.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589165.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589187.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589201.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495588981.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XXXIX C & pt.A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589002.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 43/XXXIX D & pt.B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589263.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589282.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589309.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589323.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589346.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589367.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589380.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589405.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589426.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589447.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589225.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XXXIX C & pt.A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589249.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 44/XXXIX D & pt.B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589483.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 45/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589507.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 45/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589460.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 45/XXXIX C & pt.A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589541.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 46/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589529.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 46/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589564.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 47/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589586.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 47/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589608.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 47/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589624.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 47/XLII C & pt.47/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589643.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 47/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589681.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589704.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589720.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589748.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589761.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589785.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589821.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589845.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XLIII B & pt.D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589662.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 48/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590005.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590026.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590047.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590060.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590083.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590107.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590129.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590141.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590164.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590186.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590204.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590220.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590248.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590261.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590285.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590301.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589927.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXIX A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589942.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589969.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589988.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589868.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXVIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589884.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495589903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 49/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590400.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590421.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590445.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590468.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590484.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590506.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590522.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590540.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590565.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590587.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590603.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590627.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590642.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590688.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590325.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XXXIX A & pt.50/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590349.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XXXIX B & pt.50/XXXVIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590363.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590382.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 50/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590819.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590862.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590914.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590938.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590951.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590972.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590995.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591011.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591033.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591054.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591079.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591098.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591112.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591136.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591157.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590702.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XXXIX A & pt.51/XXXVIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590731.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XXXIX B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590777.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495590790.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 51/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591237.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591259.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591276.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591292.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591318.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591339.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591352.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591371.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591394.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591414.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591438.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591451.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591472.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591495.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591519.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591535.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591173.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XXXIX A & pt.B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591199.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591213.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 52/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591597.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591610.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591632.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591655.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591678.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591693.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591717.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591730.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591758.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591774.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591796.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591816.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591834.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591850.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591875.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLIII C & pt.53/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591891.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591915.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591556.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591570.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 53/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591977.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XL A & pt.B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591990.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XL B & pt.D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592013.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592037.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XL D & pt.55/XLC"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592059.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLI A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592076.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLI B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592092.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592117.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-496565589.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLI D, 54/XLII B, 55/XLI C, 55/XLII A montaged on canvas"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592130.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592158.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592174.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592196.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592210.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592232.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592255.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592278.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592293.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592319.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591931.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495591953.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 54/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592356.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592370.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592397.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592416.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592434.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLI C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592450.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592475.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLII B & pt.55/XLI D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592491.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592515.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592531.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592553.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592577.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592335.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 55/XXXIX D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592590.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592614.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592638.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592651.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592672.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592695.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592718.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592739.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592752.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592771.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592794.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592811.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592833.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 56/XLIV B & pt.A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592879.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-496813930.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592898.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592912.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592936.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XL D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592957.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592973.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592999.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593016.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593034.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593050.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593075.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593091.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593114.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593138.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XLIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495592854.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 57/XXXIX C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593151.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XL A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593172.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XL B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593195.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XL C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593218.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLI D & pt.C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593239.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593252.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593271.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593294.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593315.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593331.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593353.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593377.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593390.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593419.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593435.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 58/XLIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593456.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593470.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593497.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593512.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593536.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593557.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593573.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593599.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593613.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593637.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593659.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593676.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593692.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 59/XLV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495593710.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java 1:50,000 – blad 60/XLIV C"
+    ]
+   }
+  }
+ ]
+}

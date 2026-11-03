@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-305307411",
+ "source": "National Library of Australia (Trove)",
+ "title": "Kl. Soenda-Eilanden (Bali) – blad old no.97C , new no. 60/XLIII C",
+ "sheet": "old no.97C , new no. 60/XLIII C",
+ "series": {
+  "id": "6609821",
+  "title": "Kl. Soenda-Eilanden (Bali).",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 114°21ʹ17ʺ--E 115°48ʹ27ʺ/S 8°03ʹ26ʺ--S 8°51ʹ37ʺ).",
+  "bbox": {
+   "west": "114.3547",
+   "east": "115.8075",
+   "north": "-8.0572",
+   "south": "-8.8603"
+  },
+  "published": "Batavia : Topografische Inrichting, [1924?-1934?]",
+  "extent": "maps :",
+  "notes": "Maps for <1925-1934> issued by Topografische Dienst. | Topographic map series of Bali, Indonesia. Relief shown by contours and spot heights. | Some sheets have title: Kleine Soenda-Eilanden (Bali). | Some sheets have variant statement of attribution, e.g.: Reproductiebedrijf Topografische dienst, Weltevreden, 1925. | Sheets individually numbered, e.g.: Blad 101 B. (Alg. No. XLIV-61 B.) -- Blad XLIV-62 B (oud No. 105 B) -- Blad 110C. (Alg. No. XLIV-63 C.). | Includes legend, notes, sheet-index diagram, and administrative divisions diagram.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6609821",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6609821.marcxml"
+ },
+ "date": "01 January 1924",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer, issuing body.",
+ "publisher": "Topografische Inrichting",
+ "call_number": "MAP G8117.B3 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-305307411",
+ "bladwijzers": [
+  {
+   "nr": "51",
+   "title": "Bali",
+   "scale": "1:50.000",
+   "hind": "1119",
+   "pdf": "2",
+   "pdf_page": "8",
+   "match_confidence": "high",
+   "match_note": "Kl. Soenda-Eilanden (Bali) 1:50.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307411.json",
+  "manifest_file": "iiif/nla/nla.obj-305307411.json",
+  "image": "https://nla.gov.au/nla.obj-305307411/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-305307411/image?wid=300",
+  "width": 10038,
+  "height": 12411
+ }
+}

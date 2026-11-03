@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56391",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Tjalang, D C 34,1, sheet 4",
+ "full_title": "Tjalang, D C 34,1, sheet 4",
+ "sheet": "4",
+ "hind_series": null,
+ "shelfmark": "D C 34,1, sheet 4",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Sumatra; Sumatra"
+ },
+ "published": "[Washington D.C.] : War Office, 1945",
+ "creator": "War Office (Washington D.C.)",
+ "edition": null,
+ "notes": "published by War Office = uitgegeven door War Office ; revised and photolithographed by War Office.; Tekst op kaartblad is in het Engels en het Nederlands gesteld.; Reproduced from A[rmy] M[ap] S[ervice] T5II dated 1944 = gereproduceerd van A.M.S. T5II gedateerd 1944.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56391",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56391",
+ "bladwijzers": [
+  {
+   "nr": "11",
+   "title": "Sumatra",
+   "scale": "1:250.000",
+   "hind": "1042",
+   "pdf": "1",
+   "pdf_page": "16",
+   "match_confidence": "high",
+   "match_note": "D C 34: Sumatra 1:250.000 (Leiden \"Bladwijzer van Sumatra\" D C 34,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56391/manifest",
+  "manifest_file": "iiif/leiden/56391.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56391/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56391",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56391/full/300,/0/default.jpg",
+  "width": 5709,
+  "height": 7208,
+  "canvases": 1
+ }
+}

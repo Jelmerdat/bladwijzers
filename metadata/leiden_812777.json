@@ -1,0 +1,45 @@
+{
+ "id": "leiden:812777",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Alhan] : hermeten in 1900-1902",
+ "full_title": "[Alhan] : hermeten in 1900-1902, / Topographisch Bureau.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D G 27,12",
+ "scale": "Schaal 1:25.000",
+ "series": {
+  "title": "Java : Res[identie] Kedoe : 1:25.000 ; Blad XV p",
+  "part_of": "Java. 1:25.000 (Blad XV p) | Java : 1:25.000."
+ },
+ "published": "[Alhan] : hermeten in 1900-1902; Batavia : Topographisch Bureau, 1905; D G 27,12",
+ "creator": "Topographisch Bureau (Batavia)",
+ "edition": null,
+ "notes": null,
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812777",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812777",
+ "bladwijzers": [
+  {
+   "nr": "9",
+   "title": "Java en Madura",
+   "scale": "1:25.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "13",
+   "match_confidence": "high",
+   "match_note": "D G 27: idem"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516165530002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812777.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMjkvQkMvOTAvM0EvODkvMjUvNDYvOTkvMTYvRDQvQzcvRTkvNzkvRTcvMkYvM0UvMTg4N18xX2l0ZW1fODEyNzc3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTE2MTY1NTMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1MTA2IiwiaGVpZ2h0IjoiNTk2NCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMjkvQkMvOTAvM0EvODkvMjUvNDYvOTkvMTYvRDQvQzcvRTkvNzkvRTcvMkYvM0UvMTg4N18xX2l0ZW1fODEyNzc3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTE2MTY1NTMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1MTA2IiwiaGVpZ2h0IjoiNTk2NCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMjkvQkMvOTAvM0EvODkvMjUvNDYvOTkvMTYvRDQvQzcvRTkvNzkvRTcvMkYvM0UvMTg4N18xX2l0ZW1fODEyNzc3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTE2MTY1NTMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1MTA2IiwiaGVpZ2h0IjoiNTk2NCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5106,
+  "height": 5964,
+  "canvases": 1
+ }
+}

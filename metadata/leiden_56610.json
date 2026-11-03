@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56610",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[P[oelau] Nias]",
+ "full_title": "[P[oelau] Nias],",
+ "sheet": "4.",
+ "hind_series": null,
+ "shelfmark": "D C 43,1, sheet 4.",
+ "scale": "Schaal 1:750.000",
+ "series": {
+  "title": "Overzichtskaart van Sumatra ; Blad IV",
+  "part_of": "Overzichtskaart van Sumatra (Blad IV) | Overzichtskaart van Sumatra."
+ },
+ "published": "[P[oelau] Nias]; Batavia : Reproductiebedrijf Topografische Dienst, 1934; D C 43,1, sheet 4",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56610",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56610",
+ "bladwijzers": [
+  {
+   "nr": "32",
+   "title": "Nias",
+   "scale": "1:50.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "37",
+   "match_confidence": "medium",
+   "match_note": "Topografische Dienst 1934-36; sheet 4 found under 'Nias'"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636140002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/56610.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjEvN0MvQTIvNDYvM0IvRkEvRUQvNzYvOTIvMjIvNkQvMkUvNjIvQjQvQ0EvRTEvMTg4N18xX2l0ZW1fNTY2MTBfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzYxNDAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6Ijg4NjkiLCJoZWlnaHQiOiI2NDU3Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjEvN0MvQTIvNDYvM0IvRkEvRUQvNzYvOTIvMjIvNkQvMkUvNjIvQjQvQ0EvRTEvMTg4N18xX2l0ZW1fNTY2MTBfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzYxNDAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6Ijg4NjkiLCJoZWlnaHQiOiI2NDU3Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjEvN0MvQTIvNDYvM0IvRkEvRUQvNzYvOTIvMjIvNkQvMkUvNjIvQjQvQ0EvRTEvMTg4N18xX2l0ZW1fNTY2MTBfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzYxNDAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6Ijg4NjkiLCJoZWlnaHQiOiI2NDU3Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 8869,
+  "height": 6457,
+  "canvases": 1
+ }
+}

@@ -1,0 +1,210 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_45.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 45: Z.W. Celebes 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649325.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 72-73/XXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649421.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 73/XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649445.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 74/XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649349.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 74/XXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649603.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 74/XXXIV (old no.12)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649688.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 74/XXXV (old no.4)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649468.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 75/XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649363.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 75/XXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649565.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 75/XXXIII (old no.21)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649627.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 75/XXXIV (old no.13)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649702.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 75/XXXV (old no.5)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649484.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 76/XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649382.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 76/XXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649522.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 76/XXX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649587.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 76/XXXIII "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649642.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 76/XXXIV (old no.14)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649728.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 76/XXXV (old no.6)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649506.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 77/XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649400.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 77/XXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649540.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 77/XXX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 77/XXXIV (old no.15)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649744.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Celebes 1:100,000] – blad 77/XXXV (old no.7)"
+    ]
+   }
+  }
+ ]
+}

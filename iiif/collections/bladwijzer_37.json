@@ -1,0 +1,336 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_37.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 37: Alg. schetskaarten v/d Z.-O. afd. v. Borneo 1:200.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251047.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XI&XII/64&65"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251060.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XI&XII/64&65"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251083.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XI&XII/70&71"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251107.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XI&XII/70&71"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251129.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XIII&XIV/58&59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251141.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XIII&XIV/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251164.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XIII&XIV/62&63"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251325.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XIX&XX/58&59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251349.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XIX&XX/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251363.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XIX&XX/64&65"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251186.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XV&XVI/58&59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251204.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XV&XVI/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251220.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XV&XVI/62&63"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251248.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XVII&XVIII/58&59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251261.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XVII&XVIII/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251285.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XVII&XVIII/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251301.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XVII&XVIII/62&63"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251382.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXI&XXII/62&63"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251400.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXI&XXII/64&65"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251421.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXIII&XXIV/50&51"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251445.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXIII&XXIV/52&53"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251468.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXIII&XXIV/58&59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251484.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXIII&XXIV/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251506.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXIII&XXIV/66&67"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251522.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXV&XXVI/50&51"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251540.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXV&XXVI/52&53"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251565.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXV&XXVI/54&55"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251587.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXV&XXVI/60&61"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251603.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXV&XXVI/64&65"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251627.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXV&XXVI/66&67"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251642.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXVII&XXVIII/48&49"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXVII&XXVIII/52&53"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390251688.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Z. en O. afd. v. Bornéo – blad XXVII&XXVIII/58&59"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Algemeene schetskaart van Nederlandsch-Indië : Gouv[ernement] Borneo : Res[identie] Zuider- en Oosterafd[eeling] v[an] B"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sebangan-Baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662960002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "T[angoen]g Poeting"
+    ]
+   }
+  }
+ ]
+}

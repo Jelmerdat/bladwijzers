@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55866",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Ceram",
+ "full_title": "Ceram, / U.S. Army Map Service.",
+ "sheet": "SA 52",
+ "hind_series": "HIND 5000",
+ "shelfmark": "D B 16,2, sheet 4",
+ "scale": "Schaal 1:1.000.000",
+ "series": {
+  "title": "East Indies ; HIND 5000 Sheet SA 52",
+  "part_of": "East Indies (HIND 5000 Sheet SA 52) | East Indies /"
+ },
+ "published": "Ceram; Washington D.C. : U.S. Army Map Service, 1944; D B 16,2, sheet 4",
+ "creator": "U.S. Army Map Service (Washington D.C.)",
+ "edition": "1st. edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55866",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55866",
+ "bladwijzers": [
+  {
+   "nr": "1",
+   "title": "Internationale Wereldkaart",
+   "scale": "1:1.000.000",
+   "hind": "5000",
+   "pdf": "1",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "HIND 5000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624240002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55866.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzIvQjkvNjUvODMvRDgvMjUvOUUvRTYvNzUvNTkvNkMvOEQvOUUvM0IvOTMvQkMvMTg4N18xX2l0ZW1fNTU4NjZfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjQyNDAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjEwMTM2IiwiaGVpZ2h0IjoiNzQ2MSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzIvQjkvNjUvODMvRDgvMjUvOUUvRTYvNzUvNTkvNkMvOEQvOUUvM0IvOTMvQkMvMTg4N18xX2l0ZW1fNTU4NjZfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjQyNDAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjEwMTM2IiwiaGVpZ2h0IjoiNzQ2MSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzIvQjkvNjUvODMvRDgvMjUvOUUvRTYvNzUvNTkvNkMvOEQvOUUvM0IvOTMvQkMvMTg4N18xX2l0ZW1fNTU4NjZfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MjQyNDAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjEwMTM2IiwiaGVpZ2h0IjoiNzQ2MSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 10136,
+  "height": 7461,
+  "canvases": 1
+ }
+}

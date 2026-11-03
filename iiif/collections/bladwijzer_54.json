@@ -1,0 +1,129 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_54.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 54: Onderafd. Oost Flores en Solor enz. 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234660005.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658733.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658952.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659554.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234660110.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658848.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659060.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659777.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234660220.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659178.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 3"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 3"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659445.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 4"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659881.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 4"
+    ]
+   }
+  }
+ ]
+}

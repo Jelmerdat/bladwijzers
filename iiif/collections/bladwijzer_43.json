@@ -1,0 +1,147 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_43.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 43: Minahasa en Midden Celebes 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308524205.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Resn. Celebes en Onderh. en Manado – blad 79-80/XXVI Matano-Meer"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308525373.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Resn. Celebes en Onderh. en Manado – blad 81/XXVI Mahalona-Meer , 1939 edition"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308526265.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Resn. Celebes en Onderh. en Manado – blad 81/XXVI Mahalona-Meer , 1940 edition"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308527120.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Groote Oost. Resn. Celebes en Onderh. en Manado – blad 81/XXVII Towoeti-Meer"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462721.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 89-90/XVI , 1936 ed."
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462745.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 89-90/XVI , 1940 ed."
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462661.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 89/XV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462768.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 90-91-92/XIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462685.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 90/XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462700.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 90/XV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462784.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 91/XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462807.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 91/XV-XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462829.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Manado (Minahasa) – blad 92/XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Algemeene Schetskaart van Nederlandsch Indië : Gouv[ernement] Groote Oost Res[identie] Celebes en Onderh[origheden] en M"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Matano-Meer"
+    ]
+   }
+  }
+ ]
+}

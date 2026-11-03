@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-554002796",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Bangka en onderh – blad 34/XXVI o en n",
+ "sheet": "34/XXVI o en n",
+ "series": {
+  "id": "377560",
+  "title": "Res. Bangka en onderh.",
+  "scale": "Scale 1:25 000",
+  "coordinates": "(E 105°05'--E 106°55'/S 2°30'--S 3°10')",
+  "bbox": {
+   "west": "105.0833",
+   "east": "106.9167",
+   "north": "-2.5",
+   "south": "-3.1667"
+  },
+  "published": "Batavia, [Jakarta] : Reproductiebedrijf Topografische dienst, 1930-1936.",
+  "extent": "maps :",
+  "notes": "Map series of Bangka Island, off Sumatra, Indonesia, showing administrative boundaries, transportation, ground and water features, vegetation, cultivation, religious sites, kampongs and buildings. Relief shown by contours, hachures and spot heights. | Map in Dutch. | At top of maps: Fotogrammetrische kaarteering or Topografische en fotogrammetrische kaarteering. | Each sheet has individual number. | Includes sheet index, boundary diagram, glossary and compilation note.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/377560",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/377560.marcxml"
+ },
+ "date": "01 January 1930",
+ "creator": "Dutch East Indies. Topografische Dienst.",
+ "publisher": "Reproductiebedrijf Topografische dienst",
+ "call_number": "MAP G8082.B3 s25",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-554002796",
+ "bladwijzers": [
+  {
+   "nr": "26",
+   "title": "Bangka",
+   "scale": "1:25.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "31",
+   "match_confidence": "high",
+   "match_note": "Res. Bangka 1:25.000, sheet labels e.g. 31/XXIV q"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-554002796.json",
+  "manifest_file": "iiif/nla/nla.obj-554002796.json",
+  "image": "https://nla.gov.au/nla.obj-554002796/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-554002796/image?wid=300",
+  "width": 10813,
+  "height": 12114
+ }
+}

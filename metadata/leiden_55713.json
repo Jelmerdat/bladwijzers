@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55713",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Krokodillen-meer (Taparang Lapompaka)], D C 2,1, sheet 6",
+ "full_title": "[Krokodillen-meer (Taparang Lapompaka)], D C 2,1, sheet 6",
+ "sheet": "6",
+ "hind_series": null,
+ "shelfmark": "D C 2,1, sheet 6",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouvernement Celebes en Onderh[origheden] (Zuidwest); Gouvernement Celebes en Onderh[origheden] (Zuidwest)"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1933",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1929-1932.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55713",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55713",
+ "bladwijzers": [
+  {
+   "nr": "44",
+   "title": "Zuid-West Celebes",
+   "scale": "1:125.000",
+   "hind": "626",
+   "pdf": "2",
+   "pdf_page": "1",
+   "match_confidence": "high",
+   "match_note": "D C 2: Zuid-West Celebes (Leiden bladwijzer D C 2,1 index), sheets numbered as on bladwijzer 44"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55713/manifest",
+  "manifest_file": "iiif/leiden/55713.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55713/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55713",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55713/full/300,/0/default.jpg",
+  "width": 4901,
+  "height": 5960,
+  "canvases": 1
+ }
+}

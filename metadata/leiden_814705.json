@@ -1,0 +1,45 @@
+{
+ "id": "leiden:814705",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Maffin Village",
+ "full_title": "Maffin Village, / prepared under the direction of the Chief Engineer by Base Map Plant U.S. Army, April 1944.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 54,28",
+ "scale": "Schaal 1:20.000",
+ "series": {
+  "title": "Dutch New Guinea : 1:20.000 ; Maffin Village",
+  "part_of": "Dutch New Guinea. 1:20.000 (Maffin Village) | Dutch New Guinea : 1:20.000."
+ },
+ "published": "Maffin Village; [S.l.] : Corps of Engineers U.S. Army, War Department, 1944; D F 54,28",
+ "creator": "War Department (Washington D.C.). Corps of Engineers U.S. Army.",
+ "edition": null,
+ "notes": "Op de achterzijde is een luchtfoto van het gebied geprojecteerd. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:814705",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/814705",
+ "bladwijzers": [
+  {
+   "nr": "81",
+   "title": "Sawar en omgeving",
+   "scale": "1:20.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "35",
+   "match_confidence": "high",
+   "match_note": "D F 54: Sawar en omgeving 1:20.000 (Leiden bladwijzer D F 54,23)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642490002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/814705.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNUIvOEYvRjYvN0UvMDAvNDAvOTYvRkYvNTYvOUIvRDkvOUEvNEQvNUYvMEQvNjgvMTg4N18xX2l0ZW1fODE0NzA1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQyNDkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTEwIiwiaGVpZ2h0IjoiNjY1NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNUIvOEYvRjYvN0UvMDAvNDAvOTYvRkYvNTYvOUIvRDkvOUEvNEQvNUYvMEQvNjgvMTg4N18xX2l0ZW1fODE0NzA1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQyNDkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTEwIiwiaGVpZ2h0IjoiNjY1NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNUIvOEYvRjYvN0UvMDAvNDAvOTYvRkYvNTYvOUIvRDkvOUEvNEQvNUYvMEQvNjgvMTg4N18xX2l0ZW1fODE0NzA1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQyNDkwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTEwIiwiaGVpZ2h0IjoiNjY1NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5910,
+  "height": 6656,
+  "canvases": 1
+ }
+}

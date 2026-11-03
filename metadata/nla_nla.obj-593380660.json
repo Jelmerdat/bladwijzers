@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-593380660",
+ "source": "National Library of Australia (Trove)",
+ "title": "Schetskaart van de eilanden Tidore en Maitara – blad (single sheet)",
+ "sheet": "(single sheet)",
+ "series": {
+  "id": "7541920",
+  "title": "Schetskaart van de eilanden Tidore en Maitara",
+  "scale": "Scale 1:20,000 ;",
+  "coordinates": "(E 127°21'28\"--E 127°27'53\"/N 0°45'41\"--N 0°37'07\").",
+  "bbox": {
+   "west": "127.3578",
+   "east": "127.4647",
+   "north": "0.7614",
+   "south": "0.6186"
+  },
+  "published": "[Bendigo, Victoria] : LHQ Cartographic Coy, 1945.",
+  "extent": "1 map ;",
+  "notes": "Reproduced map of the islands of Tidore and Maitara , Indonesia showing administrative boundaries, transportation, water features, vegetation and populated places. Relief shown by contours and spot heights. | Includes legend. | \"LHQ/MISC/782.\"",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/7541920",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/7541920.marcxml"
+ },
+ "date": null,
+ "creator": "Dutch East Indies. Topografische Dienst, cartographer.",
+ "publisher": "LHQ Cartographic Coy",
+ "call_number": "MAP G8132.T5 1945 (Copy 1)",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-593380660",
+ "bladwijzers": [
+  {
+   "nr": "63",
+   "title": "Halmahera 1:100.000; Ternate, Tidore enz.",
+   "scale": "1:100.000 / 1:20.000",
+   "hind": "632",
+   "pdf": "2",
+   "pdf_page": "19",
+   "match_confidence": "high",
+   "match_note": "Tidore en Maitara 1:20.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-593380660.json",
+  "manifest_file": "iiif/nla/nla.obj-593380660.json",
+  "image": "https://nla.gov.au/nla.obj-593380660/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-593380660/image?wid=300",
+  "width": 14804,
+  "height": 23620
+ }
+}

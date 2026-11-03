@@ -1,0 +1,45 @@
+{
+ "id": "leiden:57215",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Selaroe Island East, D C 22,2, sheet 1",
+ "full_title": "Selaroe Island East, D C 22,2, sheet 1",
+ "sheet": "1",
+ "hind_series": null,
+ "shelfmark": "D C 22,2, sheet 1",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Tanimbar Islands; Tanimbar Islands"
+ },
+ "published": "[S.l.] : Survey Directorate H[ead] Q[uarters] ALFSEA [=American LAnd Forces South East Asia], 1946",
+ "creator": "Survey Directorate Head Quarters American Land Forces South East Asia (ALFSEA)",
+ "edition": null,
+ "notes": "published by Survey Directorate H[ead] Q[uarters] ALFSEA [=American Land Forces South East Asia]; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:57215",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/57215",
+ "bladwijzers": [
+  {
+   "nr": "59",
+   "title": "P. Tanimbar (Selaroe eil.)",
+   "scale": "1:63.360",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "16",
+   "match_confidence": "medium",
+   "match_note": "ALFSEA/Australian Survey Corps 1944-46, 2 sheets = Selaroe West/East"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57215/manifest",
+  "manifest_file": "iiif/leiden/57215.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57215/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57215",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:57215/full/300,/0/default.jpg",
+  "width": 9864,
+  "height": 7439,
+  "canvases": 1
+ }
+}

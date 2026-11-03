@@ -1,0 +1,183 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_62.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 62: Ceram 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918218.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad I"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918239.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918252.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918271.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad IV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918377.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad IX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304919402.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918315.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad VI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918331.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad VII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918353.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304919490.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918419.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad XI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918435.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad XII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304918456.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van Ceram – blad XIII"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Geser]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624090002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Towile Boeboei]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Baai van Piroe]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636260002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kil Maiman]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636230002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Wahai]"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Moerkele Besar]"
+    ]
+   }
+  }
+ ]
+}

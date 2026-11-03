@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-616706203",
+ "source": "National Library of Australia (Trove)",
+ "title": "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea)  = Division Great East Residency Moluccas (New Guinea) – blad ",
+ "sheet": "",
+ "series": {
+  "id": "4735279",
+  "title": "Gouvt. Groote Oost. Res. Molukken (Nieuw-Guinea) Division Great East Residency Moluccas (New Guinea)",
+  "scale": "Scale 1:250,000",
+  "coordinates": "(E130°00'--E141°00'/S0°00'--S9°00').",
+  "bbox": {
+   "west": "130.0",
+   "east": "141.0",
+   "north": "-0.0",
+   "south": "-9.0"
+  },
+  "published": "[Washington, D.C.] : BMP, [1936-1947?]",
+  "extent": "maps :",
+  "notes": "Topographic map series of Dutch New Guinea (Irian Jaya). Maps originally produced by the Dutch Topografische dienst, and revised and reprined by the Japanese and Allied forces during and immediately after the Second World War. Relief shown by contours, shading or hachures, and spot heights. | Various titles and editions. | \"10000 meter modified British grid system\" | Some sheets are designated:  \"Schetskaart Sketchmap\", \"Schetkaart\", \"Sketch Map\", or \"Provisional Map\". | Some sheets are provisional eds., first revisions or second revisions. Some have standard map series designation: ",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/4735279",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/4735279.marcxml"
+ },
+ "date": "01 January 1936",
+ "creator": "United States. Army. South West Pacific Area. Base Map Plant.",
+ "publisher": "BMP",
+ "call_number": "MAP G8073.I7 s250",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-616706203",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "medium",
+   "match_note": "Res. Molukken (Nieuw-Guinea) 1:250.000"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "medium",
+   "match_note": "Res. Molukken (Nieuw-Guinea) 1:250.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-616706203.json",
+  "manifest_file": "iiif/nla/nla.obj-616706203.json",
+  "image": "https://nla.gov.au/nla.obj-616706203/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-616706203/image?wid=300",
+  "width": 12364,
+  "height": 15697
+ }
+}

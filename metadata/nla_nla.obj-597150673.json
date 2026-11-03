@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-597150673",
+ "source": "National Library of Australia (Trove)",
+ "title": "[North Sumatra 1:100,000] – blad 39",
+ "sheet": "39",
+ "series": {
+  "id": "377542",
+  "title": "[North Sumatra 1:100,000]",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 98°00'--E 100°30'/N 3°00'--N 1°40')",
+  "bbox": {
+   "west": "98.0",
+   "east": "100.5",
+   "north": "3.0",
+   "south": "1.6667"
+  },
+  "published": "Weltevreden, [Gambir] : Reproductiebedrijf Topografische dienst, [1922-1935]",
+  "extent": "22 maps :",
+  "notes": "Map series of north Sumatra showing residency, and administrative boundaries, transportation, ground and water features, vegetation, cultivation, religious sites, kampongs, built-up areas and buildings. Relief shown by contours, hachures and spot heights. | Map in Dutch. | Each sheet has individual number, from 19 to 41, but omitting 25. | sheets subtitled with names of administrativeunits covered: Gouvt. Oostkust van Sumatra ; Gouvt. Oostkust van Sumatra en Res. Tapanoeli ; Gouvten. Oostkust van Sumatra, Atjeh en Onderh. en Res. Tapanoeli ; Res. Tapanoeli ; Res. Tapanoeli en Gouvt. At",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/377542",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/377542.marcxml"
+ },
+ "date": "01 January 1922",
+ "creator": "Dutch East Indies. Topografische Dienst.",
+ "publisher": "Reproductiebedrijf Topografische dienst",
+ "call_number": "MAP G8080 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-597150673",
+ "bladwijzers": [
+  {
+   "nr": "18",
+   "title": "Noord Sumatra",
+   "scale": "1:100.000",
+   "hind": "1063",
+   "pdf": "1",
+   "pdf_page": "23",
+   "match_confidence": "high",
+   "match_note": "North Sumatra 1:100.000, sheets numbered 19-41 exactly as bladwijzer 18"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150673.json",
+  "manifest_file": "iiif/nla/nla.obj-597150673.json",
+  "image": "https://nla.gov.au/nla.obj-597150673/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-597150673/image?wid=300",
+  "width": 10127,
+  "height": 13063
+ }
+}

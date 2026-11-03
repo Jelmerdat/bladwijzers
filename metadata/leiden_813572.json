@@ -1,0 +1,45 @@
+{
+ "id": "leiden:813572",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[G[oenoeng] Gadang]",
+ "full_title": "[G[oenoeng] Gadang], / opgenomen door den Topografischen Dienst in 1930-1931.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 38,32",
+ "scale": "Schaal 1:50.000",
+ "series": {
+  "title": "Sumatra : Res[identie] Sumatra's Westkust ; Blad 21/XXII C",
+  "part_of": "Sumatra. Res[identie] Sumatra's Westkust (Blad 21/XXII C) | Sumatra : Res[identie] Sumatra's Westkust."
+ },
+ "published": "[G[oenoeng] Gadang]; Batavia : Reproductiebedrijf Topografische Dienst, 1931; D D 38,32",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:813572",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/813572",
+ "bladwijzers": [
+  {
+   "nr": "19",
+   "title": "Midden Sumatra",
+   "scale": "1:50.000",
+   "hind": "1061",
+   "pdf": "1",
+   "pdf_page": "24",
+   "match_confidence": "high",
+   "match_note": "D D 38: Midden Sumatra 1:50.000 HIND 1061 (Leiden bladwijzer D D 38,19)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644120002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/813572.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMDcvNzUvNzgvMkQvOTMvOTcvOTMvQUIvMDYvQkIvRkUvNUIvNTkvRTEvMDkvMDUvMTg4N18xX2l0ZW1fODEzNTcyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0MTIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTI4IiwiaGVpZ2h0IjoiNTk5MCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMDcvNzUvNzgvMkQvOTMvOTcvOTMvQUIvMDYvQkIvRkUvNUIvNTkvRTEvMDkvMDUvMTg4N18xX2l0ZW1fODEzNTcyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0MTIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTI4IiwiaGVpZ2h0IjoiNTk5MCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMDcvNzUvNzgvMkQvOTMvOTcvOTMvQUIvMDYvQkIvRkUvNUIvNTkvRTEvMDkvMDUvMTg4N18xX2l0ZW1fODEzNTcyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0MTIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTI4IiwiaGVpZ2h0IjoiNTk5MCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 4928,
+  "height": 5990,
+  "canvases": 1
+ }
+}

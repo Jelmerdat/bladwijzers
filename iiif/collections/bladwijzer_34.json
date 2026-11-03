@@ -1,0 +1,426 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_34.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 34: West Borneo 1:200.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232634.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad I"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232650.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232675.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232691.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad IV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232790.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad IX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232715.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232731.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad VI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232753.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad VII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232777.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232819.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232835.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232856.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232870.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232897.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232972.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232914.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232938.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232951.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XVII & XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232995.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233017.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXI & XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233030.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXI & XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233058.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233074.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233096.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233118.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233139.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-afdeeling van Borneo – blad XXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233243.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo 1:200,000 : Western Division Residency – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233379.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo 1:200,000 : Western Division Residency – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233513.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo 1:200,000 : Western Division Residency – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233689.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo 1:200,000 : Western Division Residency – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383233846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo 1:200,000 : Western Division Residency – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663670002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Matoewa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663340002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Borneo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663200002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nangah Tajap"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Goenoeng Landau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Simunjan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelau Karimata"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boekit Sebajan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tandjoeng Bajoeng"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bengkajang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635340002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Semitau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelau Nangka"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636150002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kotabaharoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poelau Bawal"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bangsal"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Goenoeng Tjemaroe"
+    ]
+   }
+  }
+ ]
+}

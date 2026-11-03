@@ -1,0 +1,354 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_53.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 53: Sumba 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727586.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 73/XLVII-XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727608.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 74/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727624.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 74/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727643.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 75/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727662.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 75/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727681.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 76/XLVI-XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727704.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 76/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727720.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 76/XLVIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727748.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 77-78/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727799.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 77/XLIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727761.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 77/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727837.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 78-79/XLIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727813.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh (Soemba) – blad 78-79/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577160.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 73/XLVII-XLVIII , BMP"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577183.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 74/XLVII , BMP"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577208.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 74/XLVII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577224.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 74/XLVIII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577243.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 74/XLVIII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577262.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 75/XLVII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577281.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 75/XLVII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 75/XLVIII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 75/XLVIII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577340.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 76/XLVI-XLVII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577365.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 76/XLVI-XLVII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577387.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 76/XLVIII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577404.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 76/XLVIII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577420.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 76/XLVIX , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577448.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 76/XLVIX , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577461.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 77-78/XLVII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 77-78/XLVII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577545.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 77/XLIX , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577568.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 77/XLIX , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577500.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 77/XLVIII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577521.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 77/XLVIII , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577628.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 78-79/XLIX , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577644.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 78-79/XLIX , HIND"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577584.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 78-79/XLVIII , AMS"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305577602.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soemba, N.E.I., 1:100,000 – blad 78-79/XLVIII , HIND"
+    ]
+   }
+  }
+ ]
+}

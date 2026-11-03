@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-308649325",
+ "source": "National Library of Australia (Trove)",
+ "title": "[Celebes 1:100,000] – blad 72-73/XXVIII",
+ "sheet": "72-73/XXVIII",
+ "series": {
+  "id": "4601394",
+  "title": "[Celebes 1:100,000]",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 118°50'-- E 120°30'/S 3°00'-- S 6°00').",
+  "bbox": {
+   "west": "118.8333",
+   "east": "120.5",
+   "north": "-3.0",
+   "south": "-6.0"
+  },
+  "published": "Batavia : Topografische Dienst, 1918-1941.",
+  "extent": "maps :",
+  "notes": "Topographic maps of southern and central Celebes (Sulawesi), Indonesia. Relief shown by contours, hachures and spot heights. | Each sheet has individual number. | Includes administrative index and index to adjoining sheets.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/4601394",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/4601394.marcxml"
+ },
+ "date": "01 January 1918",
+ "creator": "Dutch East Indies. Topografische Dienst.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8110 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-308649325",
+ "bladwijzers": [
+  {
+   "nr": "45",
+   "title": "Z.W. Celebes",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "2",
+   "match_confidence": "high",
+   "match_note": "Celebes 1:100.000, extent ZW Celebes"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308649325.json",
+  "manifest_file": "iiif/nla/nla.obj-308649325.json",
+  "image": "https://nla.gov.au/nla.obj-308649325/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-308649325/image?wid=300",
+  "width": 11359,
+  "height": 12297
+ }
+}

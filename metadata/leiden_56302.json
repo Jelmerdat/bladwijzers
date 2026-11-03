@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56302",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Porsea] : opgenomen door den Topografischen Dienst in 1917-1925",
+ "full_title": "[Porsea] : opgenomen door den Topografischen Dienst in 1917-1925,",
+ "sheet": "10.",
+ "hind_series": null,
+ "shelfmark": "D C 46,3, sheet 10.",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "Sumatra : Gouv[ernemen]t Oostkust van Sumatra ; Blad 29",
+  "part_of": "Sumatra. Gouv[ernement] Oostkust van Sumatra (Blad 29) | Sumatra : Gouv[ernement] Oostkust van Sumatra /"
+ },
+ "published": "[Porsea] : opgenomen door den Topografischen Dienst in 1917-1925; Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1926; D C 46,3, sheet 10",
+ "creator": "Topografische Dienst (Weltevreden (Batavia))",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56302",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56302",
+ "bladwijzers": [
+  {
+   "nr": "18",
+   "title": "Noord Sumatra",
+   "scale": "1:100.000",
+   "hind": "1063",
+   "pdf": "1",
+   "pdf_page": "23",
+   "match_confidence": "high",
+   "match_note": "D C 46: Noord Sumatra 1:100.000 (Leiden \"Bladwijzer van Noord Sumatra\" D C 46,3)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631330002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/56302.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvN0YvQjUvNTMvMUYvMjAvNzQvREYvRDAvNEQvM0IvQkEvNzQvRDMvRkEvRkQvMEYvMTg4N18xX2l0ZW1fNTYzMDJfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzEzMzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQ5NDQiLCJoZWlnaHQiOiI2MDIyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvN0YvQjUvNTMvMUYvMjAvNzQvREYvRDAvNEQvM0IvQkEvNzQvRDMvRkEvRkQvMEYvMTg4N18xX2l0ZW1fNTYzMDJfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzEzMzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQ5NDQiLCJoZWlnaHQiOiI2MDIyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvN0YvQjUvNTMvMUYvMjAvNzQvREYvRDAvNEQvM0IvQkEvNzQvRDMvRkEvRkQvMEYvMTg4N18xX2l0ZW1fNTYzMDJfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzEzMzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjQ5NDQiLCJoZWlnaHQiOiI2MDIyIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 4944,
+  "height": 6022,
+  "canvases": 1
+ }
+}

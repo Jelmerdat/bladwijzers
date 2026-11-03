@@ -1,0 +1,45 @@
+{
+ "id": "leiden:814750",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Berbak, D D 43,91",
+ "full_title": "Berbak, D D 43,91",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 43,91",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Sumatra. 1:100.000; Sumatra : 1:100.000"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1938",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1935.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:814750",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/814750",
+ "bladwijzers": [
+  {
+   "nr": "22",
+   "title": "Oost-Sumatra",
+   "scale": "1:100.000",
+   "hind": "1059",
+   "pdf": "1",
+   "pdf_page": "27",
+   "match_confidence": "high",
+   "match_note": "D D 43: Oost-Sumatra 1:100.000 (Leiden \"Bladwijzer van Oost-Sumatra\" D D 43,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:814750/manifest",
+  "manifest_file": "iiif/leiden/814750.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:814750/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:814750",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:814750/full/300,/0/default.jpg",
+  "width": 4925,
+  "height": 5958,
+  "canvases": 1
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-306608841",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Timor en Onderh – blad 221",
+ "sheet": "221",
+ "series": {
+  "id": "6704331",
+  "title": "Res. Timor en Onderh.",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 122°00'--E 130°00'/S 6°00'--S 11°00').",
+  "bbox": {
+   "west": "122.0",
+   "east": "130.0",
+   "north": "-6.0",
+   "south": "-11.0"
+  },
+  "published": "Weltevreden : Topografische Dienst, [1924-1941]",
+  "extent": "maps :",
+  "notes": "Topographic map series of Rote Island and West Timor showing roads, tracks, footpaths, boundaries, water features, vegetation, cultivation, swamps, buildings. Relief shown by contours and spot heights. | Includes index to adjoining sheets, and administrative index. | Later sheets published: Batavia : Topografische Dienst. | National Library of Australia's copy of sheet XLIX/L-87 is a colour planprint from a scan of the lithographed original. $5ANL",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6704331",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6704331.marcxml"
+ },
+ "date": "01 January 0192",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer. issuing body.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8117.T5 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-306608841",
+ "bladwijzers": [
+  {
+   "nr": "57",
+   "title": "Timor",
+   "scale": "1:100.000",
+   "hind": "637",
+   "pdf": "2",
+   "pdf_page": "14",
+   "match_confidence": "high",
+   "match_note": "Dutch original Res. Timor 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608841.json",
+  "manifest_file": "iiif/nla/nla.obj-306608841.json",
+  "image": "https://nla.gov.au/nla.obj-306608841/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-306608841/image?wid=300",
+  "width": 10043,
+  "height": 12412
+ }
+}

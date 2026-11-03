@@ -1,0 +1,156 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_55.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 55: Onderafd. Ende-Ngada en N. en W. Mangerai 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234660005.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad "
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658733.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658952.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659554.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234660110.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 1"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234658848.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659060.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659777.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234660220.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 2"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659178.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 3"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 3"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659445.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 4"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234659881.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Maps of Flores] – blad 4"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516449710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Onderafd[eeling] Ende-Ngada en Noord en West Mangerai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516438650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van de Onderafdeeling Endeh (Residentie Flores)"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516390760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van de Onderafdeeling Roti"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-627653449",
+ "source": "National Library of Australia (Trove)",
+ "title": "Nederlands Nieuw Guinea – blad 29-W",
+ "sheet": "29-W",
+ "series": {
+  "id": "6610962",
+  "title": "Nederlands Nieuw Guinea",
+  "scale": "Scale 1:100,000 ;",
+  "coordinates": "(E 129°35ʹ00ʺ--E 140°50ʹ00ʺ/N 0°01ʹ00ʺ--S 9°16ʹ00ʺ).",
+  "bbox": {
+   "west": "129.5833",
+   "east": "140.8333",
+   "north": "0.0167",
+   "south": "-9.2667"
+  },
+  "published": "[Delft] : Topografischen Dienst, 1955-1958.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Dutch New Guinea (subsequently Irian Jaya, Papua and West Papua), Indonesia. Relief shown by contours, shading, and spot heights. | Some sheets have: Voorlopige uitgave [Provisional edition] | Each sheet has individual title and number. | Titles of provisional and non-provisional editions of the same sheet often differ. | Includes legend. | About 200 of 300 planned sheets were completed by 1962, when the Dutch withdrew from New Guinea, and work was discontinued.  See: West Irian: a bibliography / J. van Baal, K.W. Galis & R.M. Koentjaraningrat, Foris Publi",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6610962",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6610962.marcxml"
+ },
+ "date": "01 January 1955",
+ "creator": "Netherlands. Topografische Dienst, cartographer.",
+ "publisher": "Topografischen Dienst",
+ "call_number": "MAP G8073.I7 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-627653449",
+ "bladwijzers": [
+  {
+   "nr": "68",
+   "title": "Nieuw Guinea",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "24",
+   "match_confidence": "high",
+   "match_note": "Nederlands Nieuw Guinea 1:100.000 (1955-1958)"
+  },
+  {
+   "nr": "extra",
+   "title": "Nederlands-Nieuw-Guinea bladindeling",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "39",
+   "match_confidence": "high",
+   "match_note": "Nederlands Nieuw Guinea 1:100.000 grid indexes"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653449.json",
+  "manifest_file": "iiif/nla/nla.obj-627653449.json",
+  "image": "https://nla.gov.au/nla.obj-627653449/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-627653449/image?wid=300",
+  "width": 15893,
+  "height": 13502
+ }
+}

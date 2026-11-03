@@ -1,0 +1,47 @@
+{
+ "id": "nla:nla.obj-495586262",
+ "source": "National Library of Australia (Trove)",
+ "title": "Java 1:50,000 – blad 34/XXXVII D",
+ "sheet": "34/XXXVII D",
+ "series": {
+  "id": "4601363",
+  "title": "Java 1:50,000",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 104°45'--E 115°54'/S 5°15'--S 9°30').",
+  "bbox": null,
+  "published": "Batavia : Topografische Dienst, [1911]-",
+  "extent": "maps :",
+  "notes": "Map series of Java showing residency and administrative boundaries, transportation, water features, cultivation, vegetation, settlements and buildings. | Relief shown by contours and spot heights. | Each sheet has individual number. | Includes index to adjoining sheets and diagram of administrative divisions. | Later sheets issued by the Topografische Inrichting.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/4601363",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/4601363.marcxml"
+ },
+ "date": "01 January 1911",
+ "creator": "Dutch East Indies. Topografische Dienst.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8090 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-495586262",
+ "bladwijzers": [
+  {
+   "nr": "8",
+   "title": "Java en Madura",
+   "scale": "1:50.000",
+   "hind": "1080",
+   "pdf": "1",
+   "pdf_page": "11",
+   "match_confidence": "high",
+   "match_note": "Java 1:50.000 series, same sheet numbering"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-495586262.json",
+  "manifest_file": "iiif/nla/nla.obj-495586262.json",
+  "image": "https://nla.gov.au/nla.obj-495586262/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-495586262/image?wid=300",
+  "width": 9932,
+  "height": 12202
+ }
+}

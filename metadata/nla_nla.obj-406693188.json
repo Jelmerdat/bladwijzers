@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-406693188",
+ "source": "National Library of Australia (Trove)",
+ "title": "Borneo Res. Z. en O. Afd. van Borneo – blad 342",
+ "sheet": "342",
+ "series": {
+  "id": "6612855",
+  "title": "Borneo Res. Z. en O. Afd. van Borneo",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 114°10'--E117°30'/S0°20'-- S4°20').",
+  "bbox": {
+   "west": "114.1667",
+   "east": "117.5",
+   "north": "-0.3333",
+   "south": "-4.3333"
+  },
+  "published": "Weltevreden, [Gambir, Indonesia] : Topografische Dienst, 1925-1941.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Borneo, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours and spot heights. | Includes administrative index and index to adjoining sheets.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6612855",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6612855.marcxml"
+ },
+ "date": "01 January 1925",
+ "creator": "Dutch East Indies. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8100 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-406693188",
+ "bladwijzers": [
+  {
+   "nr": "38",
+   "title": "Z. en O. afd. v. Borneo",
+   "scale": "1:100.000",
+   "hind": "620",
+   "pdf": "1",
+   "pdf_page": "43",
+   "match_confidence": "high",
+   "match_note": "Borneo Res. Z. en O. Afd. 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-406693188.json",
+  "manifest_file": "iiif/nla/nla.obj-406693188.json",
+  "image": "https://nla.gov.au/nla.obj-406693188/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-406693188/image?wid=300",
+  "width": 10047,
+  "height": 12234
+ }
+}

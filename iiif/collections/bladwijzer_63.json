@@ -1,0 +1,480 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_63.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 63: Halmahera 1:100.000; Ternate, Tidore enz. 1:100.000 / 1:20.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304911590.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 10 en 11"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134108.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134124.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134143.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 18"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134162.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 23 en 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134181.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 30"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134269.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 31"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134288.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 32"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134300.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 33"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134321.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 34"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134345.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 38"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134368.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 39"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134384.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 40"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134402.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 44"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134428.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 45"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134444.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 46"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134466.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 47"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134489.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 48 en 55"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134509.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 49 en 56"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134523.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 50 en 51"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134546.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 52"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134567.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 53"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134580.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 57"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 58"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134625.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 59"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134649.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 60"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134663.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 64"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134682.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 65"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134706.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 66"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-304911726.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 67 en 68"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134722.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 72"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134740.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 73"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134765.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 74"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134787.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 75"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-321134804.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. der Molukken (Res. Tèrnate.) – blad 82"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-593380660.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schetskaart van de eilanden Tidore en Maitara – blad (single sheet)"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55688/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tjoe River, D C 19,1, sheet 9"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55779/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Batjan], D C 21,1, sheet 36"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55920/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Djailolo], D C 21,1, sheet 9"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56030/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Akelamo], D C 21,1, sheet 18"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56062/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[oe]k[oe] Koesoe-Koesoe, D C 21,1, sheet 29"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56158/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Tabobo], D C 21,1, sheet 10"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56177/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Boeli-Serani], D C 21,1, sheet 16"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56213/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Dodinga-Baai], D C 21,1, sheet 14"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56280/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Makian], D C 21,1, sheet 23"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56299/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Kasiroeta of Tawali-Besar], D C 21,1, sheet 30"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56362/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Watam], D C 21,1, sheet 13"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57374/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Morotai Island"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:58114/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mt. Parapara, D C 19,1, sheet 16"
+    ]
+   }
+  }
+ ]
+}

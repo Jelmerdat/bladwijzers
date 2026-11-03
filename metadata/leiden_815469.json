@@ -1,0 +1,55 @@
+{
+ "id": "leiden:815469",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Tanahmerah",
+ "full_title": "Tanahmerah, / prepared and reproduced by Base Map Plant USASOS/SWPA, December 1942 - January 1943, from a Dutch map printed by Topografische Dienst (Topographic Service) Batavia, 1940.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 42,48",
+ "scale": "Schaal 1:250.000",
+ "series": {
+  "title": "Dutch New Guinea : 1:250.000 ; Tanahmerah",
+  "part_of": "Dutch New Guinea. 1:250.000 (Tanahmerah) | Dutch New Guinea : 1:250.000 /"
+ },
+ "published": "Tanahmerah; [S.l.] : Base Map Plant USASOS/SWPA, 1943; D F 42,48",
+ "creator": "Base Map Plant USASOS SWPA.",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:815469",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/815469",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660310002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/815469.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzIvQ0EvODkvNkQvMTEvQTcvOEIvMjUvN0YvNzIvRTMvNUEvMzYvRDAvODkvMzUvMTg4N18xX2l0ZW1fODE1NDY5XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwMzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTU4IiwiaGVpZ2h0IjoiNjcyMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzIvQ0EvODkvNkQvMTEvQTcvOEIvMjUvN0YvNzIvRTMvNUEvMzYvRDAvODkvMzUvMTg4N18xX2l0ZW1fODE1NDY5XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwMzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTU4IiwiaGVpZ2h0IjoiNjcyMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzIvQ0EvODkvNkQvMTEvQTcvOEIvMjUvN0YvNzIvRTMvNUEvMzYvRDAvODkvMzUvMTg4N18xX2l0ZW1fODE1NDY5XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjYwMzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTU4IiwiaGVpZ2h0IjoiNjcyMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5958,
+  "height": 6720,
+  "canvases": 1
+ }
+}

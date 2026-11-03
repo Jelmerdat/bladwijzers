@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-670044156",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra : Gouvt. Oostkust van Sumatra – blad 5D",
+ "sheet": "5D",
+ "series": {
+  "id": "6608088",
+  "title": "Sumatra : Gouvt. Oostkust van Sumatra.",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 92°30'--E 109°00'/N 8°30'--S 8°00').",
+  "bbox": {
+   "west": "92.5",
+   "east": "109.0",
+   "north": "8.5",
+   "south": "-8.0"
+  },
+  "published": "Batavia, Jakarta : Topographische Inrichting, 1915-1924.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Sumatra, Indonesia showing administrative boundaries, transportation, ground and water features, vegetation, cultivation, religious sites, kampongs and buildings. Relief shown by form lines and spot heights. | Sheets cover parts of East Sumatra. | Some sheets have varied titles. | Each sheet has individual number. | Includes index to adjoining sheets, boundary diagram, abbreviations and compilation notes.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6608088",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6608088.marcxml"
+ },
+ "date": "01 January 1915",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer, issuing body.",
+ "publisher": "Topographische Inrichting",
+ "call_number": "MAP G8080 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-670044156",
+ "bladwijzers": [
+  {
+   "nr": "16",
+   "title": "N.O. Sumatra",
+   "scale": "1:50.000",
+   "hind": "1044",
+   "pdf": "1",
+   "pdf_page": "21",
+   "match_confidence": "medium",
+   "match_note": "Oostkust van Sumatra 1:50.000; N.O. Sumatra (HIND 1044)"
+  },
+  {
+   "nr": "17",
+   "title": "Sumatra's Oostkust",
+   "scale": "1:50.000",
+   "hind": "1062",
+   "pdf": "1",
+   "pdf_page": "22",
+   "match_confidence": "high",
+   "match_note": "Sumatra's Oostkust 1:50.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044156.json",
+  "manifest_file": "iiif/nla/nla.obj-670044156.json",
+  "image": "https://nla.gov.au/nla.obj-670044156/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-670044156/image?wid=300",
+  "width": 9860,
+  "height": 11544
+ }
+}

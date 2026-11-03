@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55656",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bladwijzer van Zuid-West Celebes",
+ "full_title": "Bladwijzer van Zuid-West Celebes",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D C 2,1, index",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouvernement Celebes en Onderh[origheden] (Zuidwest); Gouvernement Celebes en Onderh[origheden] (Zuidwest)"
+ },
+ "published": "[S.l. : s.n.], [ca. 1945]",
+ "creator": null,
+ "edition": null,
+ "notes": null,
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55656",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55656",
+ "bladwijzers": [
+  {
+   "nr": "44",
+   "title": "Zuid-West Celebes",
+   "scale": "1:125.000",
+   "hind": "626",
+   "pdf": "2",
+   "pdf_page": "1",
+   "match_confidence": "high",
+   "match_note": "D C 2: Zuid-West Celebes (Leiden bladwijzer D C 2,1 index), sheets numbered as on bladwijzer 44"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55656/manifest",
+  "manifest_file": "iiif/leiden/55656.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55656/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55656",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55656/full/300,/0/default.jpg",
+  "width": 2695,
+  "height": 3992,
+  "canvases": 1
+ }
+}

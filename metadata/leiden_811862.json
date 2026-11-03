@@ -1,0 +1,45 @@
+{
+ "id": "leiden:811862",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bladwijzer van Midden Sumatra : 1:50.000",
+ "full_title": "Bladwijzer van Midden Sumatra : 1:50.000,",
+ "sheet": null,
+ "hind_series": "HIND 1061",
+ "shelfmark": "D D 38,19.",
+ "scale": "Schaal niet vastgesteld",
+ "series": {
+  "title": "Midden Sumatra : 1:50.000 ; HIND 1061",
+  "part_of": "Sumatra. Res[identie] Sumatra's Westkust (HIND 1061) | Sumatra : Res[identie] Sumatra's Westkust."
+ },
+ "published": "Bladwijzer van Midden Sumatra : 1:50.000; [S.l. : s.n.], [ca. 1945]; D D 38,19",
+ "creator": null,
+ "edition": null,
+ "notes": "Blad is genummerd: Nr. 19.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:811862",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/811862",
+ "bladwijzers": [
+  {
+   "nr": "19",
+   "title": "Midden Sumatra",
+   "scale": "1:50.000",
+   "hind": "1061",
+   "pdf": "1",
+   "pdf_page": "24",
+   "match_confidence": "high",
+   "match_note": "D D 38: Midden Sumatra 1:50.000 HIND 1061 (Leiden bladwijzer D D 38,19)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646820002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/811862.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQkEvMTMvOTUvMkUvRDAvQTIvNDIvNTAvQkIvMTUvOEYvQTgvMTQvMzQvNTkvMkUvMTg4N18xX2l0ZW1fODExODYyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ2ODIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiIzOTkzIiwiaGVpZ2h0IjoiMjc2OSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQkEvMTMvOTUvMkUvRDAvQTIvNDIvNTAvQkIvMTUvOEYvQTgvMTQvMzQvNTkvMkUvMTg4N18xX2l0ZW1fODExODYyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ2ODIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiIzOTkzIiwiaGVpZ2h0IjoiMjc2OSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQkEvMTMvOTUvMkUvRDAvQTIvNDIvNTAvQkIvMTUvOEYvQTgvMTQvMzQvNTkvMkUvMTg4N18xX2l0ZW1fODExODYyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ2ODIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiIzOTkzIiwiaGVpZ2h0IjoiMjc2OSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 3993,
+  "height": 2769,
+  "canvases": 1
+ }
+}

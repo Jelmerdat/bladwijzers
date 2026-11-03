@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56028",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "North Borneo",
+ "full_title": "North Borneo, / U.S. Army Map Service.",
+ "sheet": "NB 50",
+ "hind_series": "HIND 5000",
+ "shelfmark": "D B 16,2, sheet 10",
+ "scale": "Schaal 1:1.000.000",
+ "series": {
+  "title": "East Indies ; HIND 5000 Sheet NB 50",
+  "part_of": "East Indies (HIND 5000 Sheet NB 50) | East Indies /"
+ },
+ "published": "North Borneo; Washington D.C. : U.S. Army Map Service, 1944; D B 16,2, sheet 10",
+ "creator": "U.S. Army Map Service (Washington D.C.)",
+ "edition": "2nd. edition.",
+ "notes": "First edition in 1943. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56028",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56028",
+ "bladwijzers": [
+  {
+   "nr": "1",
+   "title": "Internationale Wereldkaart",
+   "scale": "1:1.000.000",
+   "hind": "5000",
+   "pdf": "1",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "HIND 5000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635610002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/56028.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNDMvOTYvMzEvOTkvQUMvREYvREMvQzUvMzcvREEvMkYvRjcvRTkvNTIvRUQvM0MvMTg4N18xX2l0ZW1fNTYwMjhfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzU2MTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6Ijk4MzIiLCJoZWlnaHQiOiI3NTY3Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNDMvOTYvMzEvOTkvQUMvREYvREMvQzUvMzcvREEvMkYvRjcvRTkvNTIvRUQvM0MvMTg4N18xX2l0ZW1fNTYwMjhfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzU2MTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6Ijk4MzIiLCJoZWlnaHQiOiI3NTY3Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNDMvOTYvMzEvOTkvQUMvREYvREMvQzUvMzcvREEvMkYvRjcvRTkvNTIvRUQvM0MvMTg4N18xX2l0ZW1fNTYwMjhfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzU2MTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6Ijk4MzIiLCJoZWlnaHQiOiI3NTY3Iiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 9832,
+  "height": 7567,
+  "canvases": 1
+ }
+}

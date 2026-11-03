@@ -1,0 +1,543 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_57.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 57: Timor 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383884.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 86/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384050.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 87/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383916.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 87/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383991.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 87/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384016.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 87/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384331.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 88-89/XLVI-XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384353.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 88-89/XLVI-XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384260.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 88/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384123.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 88/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384205.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 88/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384226.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 88/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384561.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 89-90/XLIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384435.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 89/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384470.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 89/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384497.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 89/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384729.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 90-91/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384793.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 90-91/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384600.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 90/XLVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384668.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 90/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384707.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 90/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384896.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 91-92/XLV-XLVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384911.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 91-92/XLV-XLVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384817.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 91/XLV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306384954.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 91/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383681.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 221"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383761.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 225"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 229"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306383821.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dutch Timor 1:100,000 – blad 230"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628909.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 86/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628923.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 87/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628967.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 89-90/XLIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628946.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 89/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306629022.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 90-91/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628980.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 90/XLVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306629006.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 90/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306629040.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 91/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628808.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 221"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628824.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 221"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628843.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 225"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628862.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 229"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628881.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en onderh – blad 230"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608924.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 86/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608981.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 87/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608943.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 87/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608962.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 87/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609044.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 88/XLIX-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609002.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 88/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609028.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 88/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609106.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 89-90/XLIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609066.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 89/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609089.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 89/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609140.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 90-91/XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609122.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 90/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609165.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 91-92/XLV-XLVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306609187.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 91/XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608841.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 221"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608864.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 224 en 229"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608886.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 225"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306608908.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Res. Timor en Onderh – blad 230"
+    ]
+   }
+  }
+ ]
+}

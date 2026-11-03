@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-711890624",
+ "source": "National Library of Australia (Trove)",
+ "title": "Schetskaart van de Mentawei-eilanden – blad (single sheet)",
+ "sheet": "(single sheet)",
+ "series": {
+  "id": "7764279",
+  "title": "Schetskaart van de Mentawei-eilanden.",
+  "scale": "Scales differ",
+  "coordinates": "(E 98°30ʹ--E 100°50ʹ/S 0°35ʹ--S 3°50ʹ).",
+  "bbox": {
+   "west": "98.5",
+   "east": "100.8333",
+   "north": "-0.5833",
+   "south": "-3.8333"
+  },
+  "published": "Batavia : Topographische Inrichting, 1914.",
+  "extent": "5 maps on 1 sheet :",
+  "notes": "Sketch map of Mentawai Islands showing footpaths, locations of the civilian observers, reefs, uncertain coasts or rivers. Relief shown by hachures, and spot heights. | \"Topographische Inrichting, Batavia 1910 (Bÿgewerkt tot September 1914)\" | Includes abbreviation, and text.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/7764279",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/7764279.marcxml"
+ },
+ "date": "01 January 1914",
+ "creator": "Netherlands. Topographische Inrichting issuing body.",
+ "publisher": "Topographische Inrichting",
+ "call_number": "MAP G8082.M4 1914",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-711890624",
+ "bladwijzers": [
+  {
+   "nr": "33",
+   "title": "Mentawei eil.",
+   "scale": "1:100.000",
+   "hind": "1045",
+   "pdf": "1",
+   "pdf_page": "38",
+   "match_confidence": "low",
+   "match_note": "Schetskaart van de Mentawei-eilanden 1914 (single sheet)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-711890624.json",
+  "manifest_file": "iiif/nla/nla.obj-711890624.json",
+  "image": "https://nla.gov.au/nla.obj-711890624/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-711890624/image?wid=300",
+  "width": 16346,
+  "height": 19099
+ }
+}

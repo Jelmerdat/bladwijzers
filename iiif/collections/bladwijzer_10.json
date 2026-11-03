@@ -1,0 +1,183 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_10.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 10: Overzichtskaart Sumatra 1:250.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540092937.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 5"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540092959.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 8"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627984809.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 9"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540092976.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 11"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093065.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 12"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093087.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 13"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627984993.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 14"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627985454.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 15"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-633747438.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 17"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-633747451.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 19"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093173.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 20"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093213.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-633748335.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-633751440.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-633753941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627985900.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 25"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093237.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093284.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540093360.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Overzichtskaart van Sumatra – blad 28"
+    ]
+   }
+  }
+ ]
+}

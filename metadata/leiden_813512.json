@@ -1,0 +1,45 @@
+{
+ "id": "leiden:813512",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "P[oelau] Sipoera",
+ "full_title": "P[oelau] Sipoera, / vluchtig opgenomen door den Topografischen Dienst in 1935.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 38,9",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "Res[identie] Sumatra's Westkust (P[oelau] Sipoera) ; Blad 15/XXIV-XXV",
+  "part_of": "Res[identie] Sumatra's Westkust (Blad 15/XXIV-XXV) | Res[identie] Sumatra's Westkust."
+ },
+ "published": "P[oelau] Sipoera; Batavia : Reproductiebedrijf Topografische Dienst, 1937; D D 38,9",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:813512",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/813512",
+ "bladwijzers": [
+  {
+   "nr": "33",
+   "title": "Mentawei eil.",
+   "scale": "1:100.000",
+   "hind": "1045",
+   "pdf": "1",
+   "pdf_page": "38",
+   "match_confidence": "high",
+   "match_note": "D D 38: Res. Sumatra's Westkust 1:100.000 = Mentawai sheets"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644680002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/813512.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQzgvODgvM0IvMUEvMEUvN0EvQTQvRUUvNkIvRUQvMjUvNTYvQzIvNEYvODUvQjMvMTg4N18xX2l0ZW1fODEzNTEyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0NjgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTU3IiwiaGVpZ2h0IjoiNjc5OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQzgvODgvM0IvMUEvMEUvN0EvQTQvRUUvNkIvRUQvMjUvNTYvQzIvNEYvODUvQjMvMTg4N18xX2l0ZW1fODEzNTEyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0NjgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTU3IiwiaGVpZ2h0IjoiNjc5OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQzgvODgvM0IvMUEvMEUvN0EvQTQvRUUvNkIvRUQvMjUvNTYvQzIvNEYvODUvQjMvMTg4N18xX2l0ZW1fODEzNTEyXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0NjgwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTU3IiwiaGVpZ2h0IjoiNjc5OCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 4957,
+  "height": 6798,
+  "canvases": 1
+ }
+}

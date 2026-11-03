@@ -1,0 +1,246 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_51.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 51: Bali 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307355.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.94B&D , new no.59/XLIII B&D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307378.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.97A , new no.60/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307393.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.97B&D , new no.60/XLIII B&D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307411.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.97C , new no. 60/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307433.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.97D & 98B , new no.60/XLIII D & 60/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307454.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.100B , new no.61/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307479.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.100C , new no.61/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307498.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.100D , new no.61/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307517.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.101A , new no.61/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307530.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.101B , new no.61/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307558.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.101C&D , new no.61/XLIV C&D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307574.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.102B , new no.61/XLV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307596.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.104A , new no.62/XLIII A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307618.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.104B , new no.62/XLIII B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307639.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.104C , new no.62/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307652.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.104D , new no.62/XLIII D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307671.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.105A , new no.62/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307694.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.105B , new no.62/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307719.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.105C , new no.62/XLIV C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307735.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.105D , new no.62/XLIV D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307756.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.106A , new no.62/XLV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307770.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.106B & 111A , new no.62/XLV B & 63/XLV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307797.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.109C , new no.63/XLIII C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307815.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.110A , new no.63/XLIV A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307831.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.110B , new no.63/XLIV B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305307853.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kl. Soenda-Eilanden (Bali) – blad old no.110C , new no.63/XLIV C"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_7.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 7: West- en Midden Java 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315619.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315494.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315510.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315532.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315635.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315656.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XXI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315670.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315697.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-482315712.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Java – blad XXVII"
+    ]
+   }
+  }
+ ]
+}

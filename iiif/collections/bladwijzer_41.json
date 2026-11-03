@@ -1,0 +1,192 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_41.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 41: Midden Celebes 1:200.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686207.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 86-87/XVI-XVII-XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686229.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 86-87/XVI-XVII-XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686286.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 88-89-90/XVI-XVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686308.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 88-89-90/XVII-XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686324.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 88-89-90/XVII-XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686241.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 88-89/XV-XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686264.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 88-89/XV-XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686343.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 90-91-92/XIII-XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686362.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 90-91-92/XIII-XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686381.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 90-91/XV-XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686442.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 92-93/IX-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686469.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 92-93/IX-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686403.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 92-93/VII-VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686427.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 92-93/VII-VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686488.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 92-93/XI-XII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686502.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 92-93/XI-XII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686528.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 96-97/V-VI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686544.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 96-97/V-VI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686566.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 96-97/VII-VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686589.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Celebes 1:200 000 – blad 96-97/VII-VIII"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56620",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Soerabaja, D B 21,1, sheet 7",
+ "full_title": "Soerabaja, D B 21,1, sheet 7",
+ "sheet": "7",
+ "hind_series": null,
+ "shelfmark": "D B 21,1, sheet 7",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Internationale wereldkaart; Internationale wereldkaart = Carte internationale du monde"
+ },
+ "published": "Batavia : Topografische Inrichting, 1926",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Topografische Inrichting.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56620",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56620",
+ "bladwijzers": [
+  {
+   "nr": "1",
+   "title": "Internationale Wereldkaart",
+   "scale": "1:1.000.000",
+   "hind": "5000",
+   "pdf": "1",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "Internationale wereldkaart 1:1.000.000 (D B 20-21)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56620/manifest",
+  "manifest_file": "iiif/leiden/56620.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56620/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56620",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56620/full/300,/0/default.jpg",
+  "width": 9330,
+  "height": 8243,
+  "canvases": 1
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-306727813",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Timor en Onderh (Soemba) – blad 78-79/XLVIII",
+ "sheet": "78-79/XLVIII",
+ "series": {
+  "id": "6382199",
+  "title": "Res. Timor en Onderh (Soemba)",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 118°30'--E 120°35'/S 9°20'--S 10°20').",
+  "bbox": {
+   "west": "118.5",
+   "east": "120.5833",
+   "north": "-9.3333",
+   "south": "-10.3333"
+  },
+  "published": "Weltevreden Reproductiebedrijf Topografische Dienst, 1925-1939.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Sumba Island, Indonesia. Relief shown by contours and spot heights. | Later sheets have publishing statement for Batavia. | Each sheet has individual title and number e.g. Tossi. Blad 73/XLVII-XLVIII. | Bottom right margin: Auteursrecht voorbehouden (Stbl. 1912 no 600). | On sheet titled \"Waikaboebak\": Gouvt. Groote Oost. | Includes index to adjoining sheets, legend, diagram of administrative divisions, and list of abbreviations.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6382199",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6382199.marcxml"
+ },
+ "date": "01 January 1925",
+ "creator": "Dutch East Indies. Topografische Dienst cartographer.",
+ "publisher": "Topografische Dienst, Reproductiebedrijf Topografische Dienst",
+ "call_number": "MAP G8117.S8 s100 (Copy 1)",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-306727813",
+ "bladwijzers": [
+  {
+   "nr": "53",
+   "title": "Sumba",
+   "scale": "1:100.000",
+   "hind": "638",
+   "pdf": "2",
+   "pdf_page": "10",
+   "match_confidence": "high",
+   "match_note": "Res. Timor (Soemba) 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306727813.json",
+  "manifest_file": "iiif/nla/nla.obj-306727813.json",
+  "image": "https://nla.gov.au/nla.obj-306727813/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-306727813/image?wid=300",
+  "width": 11324,
+  "height": 12354
+ }
+}

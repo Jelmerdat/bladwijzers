@@ -1,0 +1,55 @@
+{
+ "id": "leiden:816075",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Mamberamo Delta",
+ "full_title": "Mamberamo Delta, / prepared under the direction of the Chief Engineer by Base Map Plant U.S. Army, July 1944 ; published by Survey Directorate H[ead] Q[uarters] SEALF [=South East Asia Land Forces]",
+ "sheet": "Mamberamo Delta",
+ "hind_series": "HIND 644",
+ "shelfmark": "D F 42,13",
+ "scale": "Schaal 1:250.000;",
+ "series": {
+  "title": "Dutch New Guinea : 1:250.000 ; HIND 644 Sheet Mamberamo Delta",
+  "part_of": "Dutch New Guinea. 1:250.000 (HIND 644 Sheet Mamberamo Delta) | Dutch New Guinea : 1:250.000 /"
+ },
+ "published": "Mamberamo Delta; [S.l.] : Survey Directorate H[ead] Q[uarters] SEALF [South East Asia Land Forces], 1947; D F 42,13",
+ "creator": "Survey Directorate Head Quarters South East Asia Land Forces (SEALF)",
+ "edition": "1st edition.",
+ "notes": "This map supersedes previous edition printed in January 1943. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:816075",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/816075",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "high",
+   "match_note": "HIND 644"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "high",
+   "match_note": "HIND 644"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650050002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/816075.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvM0IvRjYvMUMvMzcvRDgvNjMvNTcvOTEvOUUvRjQvREYvQ0UvM0MvMjMvM0QvRDkvMTg4N18xX2l0ZW1fODE2MDc1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjUwMDUwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2MDMyIiwiaGVpZ2h0IjoiNzIwNiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvM0IvRjYvMUMvMzcvRDgvNjMvNTcvOTEvOUUvRjQvREYvQ0UvM0MvMjMvM0QvRDkvMTg4N18xX2l0ZW1fODE2MDc1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjUwMDUwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2MDMyIiwiaGVpZ2h0IjoiNzIwNiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvM0IvRjYvMUMvMzcvRDgvNjMvNTcvOTEvOUUvRjQvREYvQ0UvM0MvMjMvM0QvRDkvMTg4N18xX2l0ZW1fODE2MDc1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjUwMDUwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2MDMyIiwiaGVpZ2h0IjoiNzIwNiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 6032,
+  "height": 7206,
+  "canvases": 1
+ }
+}

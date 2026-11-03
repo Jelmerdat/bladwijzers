@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-540640706",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra 1:250,000 – blad 12",
+ "sheet": "12",
+ "series": {
+  "id": "6577887",
+  "title": "Sumatra 1:250,000",
+  "scale": "Scale 1:250,000",
+  "coordinates": "(E 92°30'--E 109°00'/N 8°30'--S 8°00').",
+  "bbox": {
+   "west": "92.5",
+   "east": "109.0",
+   "north": "8.5",
+   "south": "-8.0"
+  },
+  "published": "[London] : War Office, 1942.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Sumatra, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading and spot heights. | \"Reproductiebedrijf Topografische dienst, Batavia ...\" | Copied from Dutch maps (Overzichtskaart van Sumatra) dated 1924-1940. | Published by UK War Office as monochrome reprints in 1941, then as coloured & gridded reprints in 1942. | Published by US Army Map Service (AMS) as gridded reprints in 1942. | Published by South African Survey Company, S.A.E.C., as MDR 572, g",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6577887",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6577887.marcxml"
+ },
+ "date": "01 January 1941",
+ "creator": "Great Britain. War Office. General Staff. Geographical Section, cartographer. issuing body.",
+ "publisher": "War Office",
+ "call_number": "MAP G8080 s250",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-540640706",
+ "bladwijzers": [
+  {
+   "nr": "11",
+   "title": "Sumatra",
+   "scale": "1:250.000",
+   "hind": "1042",
+   "pdf": "1",
+   "pdf_page": "16",
+   "match_confidence": "medium",
+   "match_note": "War Office/AMS reprint of the Overzichtskaart van Sumatra 1:250.000; bladwijzer has HIND 1042"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540640706.json",
+  "manifest_file": "iiif/nla/nla.obj-540640706.json",
+  "image": "https://nla.gov.au/nla.obj-540640706/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-540640706/image?wid=300",
+  "width": 24717,
+  "height": 18615
+ }
+}

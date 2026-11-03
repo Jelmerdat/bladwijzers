@@ -1,0 +1,300 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_47.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 47: Zuid Celebes 1:25.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469589.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 4c"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469609.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 4d"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469623.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 4g"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469646.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 4h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469469.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 12h"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469488.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 12l&m"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469502.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 12p"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469528.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 12q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469544.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 13l"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469566.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 13n"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469427.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIIb"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469442.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIIc"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469182.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIa"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469207.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIb"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469229.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIc"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469241.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIe"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469264.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIf"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469286.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIg"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469308.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIi"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469324.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIk"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469343.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIl"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469362.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIn"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469381.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIo"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469403.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXIp"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469125.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXn"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469149.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXo"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469163.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gouvt. Celebes en Onderh – blad 76/XXXp"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55669/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Makasar]"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55821/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Enrekang"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56087/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Kadjoeboelan]"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56212/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[B[atoe] Matoempa]"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56256/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Takatidoeng]"
+    ]
+   }
+  }
+ ]
+}

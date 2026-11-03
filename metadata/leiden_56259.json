@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56259",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bladwijzer van Sumatra",
+ "full_title": "Bladwijzer van Sumatra",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D C 34,1, index",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Sumatra; Sumatra"
+ },
+ "published": "[S.l. : s.n.], [ca. 1945]",
+ "creator": null,
+ "edition": null,
+ "notes": null,
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56259",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56259",
+ "bladwijzers": [
+  {
+   "nr": "11",
+   "title": "Sumatra",
+   "scale": "1:250.000",
+   "hind": "1042",
+   "pdf": "1",
+   "pdf_page": "16",
+   "match_confidence": "high",
+   "match_note": "D C 34: Sumatra 1:250.000 (Leiden \"Bladwijzer van Sumatra\" D C 34,1)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56259/manifest",
+  "manifest_file": "iiif/leiden/56259.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56259/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56259",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56259/full/300,/0/default.jpg",
+  "width": 3970,
+  "height": 2711,
+  "canvases": 1
+ }
+}

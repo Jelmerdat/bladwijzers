@@ -1,0 +1,75 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_64.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 64: Morotai 1:63.360"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55830/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "South Morotai, D C 19,2, sheet 7"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56218/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "East Morotai, D C 19,2, sheet 5"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56239/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Northwest Morotai, D C 19,2, sheet 1"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56348/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West Morotai, D C 19,2, sheet 3"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56936/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Morotai, D C 19,2, index"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57797/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Central Morotai, D C 19,2, sheet 4"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57967/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Southwest Morotai, D C 19,2, sheet 6"
+    ]
+   }
+  }
+ ]
+}

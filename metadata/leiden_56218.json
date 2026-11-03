@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56218",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "East Morotai, D C 19,2, sheet 5",
+ "full_title": "East Morotai, D C 19,2, sheet 5",
+ "sheet": "5",
+ "hind_series": null,
+ "shelfmark": "D C 19,2, sheet 5",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Morotai Island; Morotai Island"
+ },
+ "published": "[Washington D.C.] : Base Map Plant, U.S. Army, 1944",
+ "creator": "Base Map Plant U.S. Army (Washington)",
+ "edition": null,
+ "notes": "prepared under the direction of the Chief of Engineers, GHQ, SWPA.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56218",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56218",
+ "bladwijzers": [
+  {
+   "nr": "64",
+   "title": "Morotai",
+   "scale": "1:63.360",
+   "hind": "634",
+   "pdf": "2",
+   "pdf_page": "20",
+   "match_confidence": "high",
+   "match_note": "D C 19: Morotai Island 1:63.360, Base Map Plant 1944 (= HIND 634 sheets 1-7)"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56218/manifest",
+  "manifest_file": "iiif/leiden/56218.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56218/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56218",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56218/full/300,/0/default.jpg",
+  "width": 5898,
+  "height": 6737,
+  "canvases": 1
+ }
+}

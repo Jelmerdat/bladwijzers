@@ -1,0 +1,45 @@
+{
+ "id": "leiden:814467",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Ransiki Airdrome",
+ "full_title": "Ransiki Airdrome, / prepared under the direction of the Chief Engineer by Base Map Plant U.S. Army, Aug. 1944.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 54,35",
+ "scale": "Schaal 1:20.000",
+ "series": {
+  "title": "Dutch New Guinea : 1:20.000 ; Ransiki Airdrome",
+  "part_of": "Dutch New Guinea. 1:20.000 (Ransiki Airdrome) | Dutch New Guinea : 1:20.000."
+ },
+ "published": "Ransiki Airdrome; [S.l.] : Corps of Engineers U.S. Army, War Department, 1944; D F 54,35",
+ "creator": null,
+ "edition": null,
+ "notes": "Op de achterzijde is een luchtfoto van het gebied geprojecteerd. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:814467",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/814467",
+ "bladwijzers": [
+  {
+   "nr": "78",
+   "title": "Moemi en omgeving",
+   "scale": "1:20.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "33",
+   "match_confidence": "high",
+   "match_note": "D F 54: Moemi en omgeving 1:20.000 (Leiden bladwijzer D F 54,33)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667700002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/814467.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNUIvOUEvQjQvODkvODMvODUvREEvN0EvQUIvQjQvODYvNkQvQUYvMkEvNEQvRDEvMTg4N18xX2l0ZW1fODE0NDY3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjY3NzAwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTAyIiwiaGVpZ2h0IjoiNjcxMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNUIvOUEvQjQvODkvODMvODUvREEvN0EvQUIvQjQvODYvNkQvQUYvMkEvNEQvRDEvMTg4N18xX2l0ZW1fODE0NDY3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjY3NzAwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTAyIiwiaGVpZ2h0IjoiNjcxMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNUIvOUEvQjQvODkvODMvODUvREEvN0EvQUIvQjQvODYvNkQvQUYvMkEvNEQvRDEvMTg4N18xX2l0ZW1fODE0NDY3XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjY3NzAwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1OTAyIiwiaGVpZ2h0IjoiNjcxMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5902,
+  "height": 6712,
+  "canvases": 1
+ }
+}

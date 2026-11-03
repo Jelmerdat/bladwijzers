@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55772",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Midden Peutoë",
+ "full_title": "Midden Peutoë",
+ "sheet": "17",
+ "hind_series": null,
+ "shelfmark": "D C 35,1, sheet 17",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouv[ernement] Sumatra. Res[identie] Atjeh en Onderh[oorigheden]; Gouv[ernement] Sumatra : Res[identie] Atjeh en Onderh[oorigheden]"
+ },
+ "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1939",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55772",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55772",
+ "bladwijzers": [
+  {
+   "nr": "13",
+   "title": "Noord Sumatra",
+   "scale": "1:200.000",
+   "hind": "655",
+   "pdf": "1",
+   "pdf_page": "18",
+   "match_confidence": "medium",
+   "match_note": "D C 35: Atjeh 1:200.000? Topografische Dienst 1939"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55772/manifest",
+  "manifest_file": "iiif/leiden/55772.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55772/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55772",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55772/full/300,/0/default.jpg",
+  "width": 4912,
+  "height": 5958,
+  "canvases": 1
+ }
+}

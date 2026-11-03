@@ -1,0 +1,55 @@
+{
+ "id": "leiden:816149",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Van Rees en Gauttier Gebergte",
+ "full_title": "Van Rees en Gauttier Gebergte, / prepared and reproduced by Base Map Plant, December 1942 - January 1943, from Dutch map printed by Topografische Dienst (Topographic Service) Batavia, 1939.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 42,21",
+ "scale": "Schaal 1:250.000",
+ "series": {
+  "title": "[Dutch New Guinea : 1:250.000 ; Van Rees en Gauttier Gebergte]",
+  "part_of": "Dutch New Guinea. 1:250.000 (Van Rees en Gauttier Gebergte]) | Dutch New Guinea : 1:250.000 /"
+ },
+ "published": "Van Rees en Gauttier Gebergte; [Washington D.C.] : Base Map Plant USASOS, SWPA, 1943; D F 42,21",
+ "creator": null,
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:816149",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/816149",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678130002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/816149.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMTkvNEMvRTYvRDgvNjAvMTQvMjAvQUMvQTIvQjIvRjQvREEvNjYvOTYvMEYvOTAvMTg4N18xX2l0ZW1fODE2MTQ5XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjc4MTMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODE2IiwiaGVpZ2h0IjoiNjU4MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMTkvNEMvRTYvRDgvNjAvMTQvMjAvQUMvQTIvQjIvRjQvREEvNjYvOTYvMEYvOTAvMTg4N18xX2l0ZW1fODE2MTQ5XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjc4MTMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODE2IiwiaGVpZ2h0IjoiNjU4MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMTkvNEMvRTYvRDgvNjAvMTQvMjAvQUMvQTIvQjIvRjQvREEvNjYvOTYvMEYvOTAvMTg4N18xX2l0ZW1fODE2MTQ5XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjc4MTMwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODE2IiwiaGVpZ2h0IjoiNjU4MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5816,
+  "height": 6582,
+  "canvases": 1
+ }
+}

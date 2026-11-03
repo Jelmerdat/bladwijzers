@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-327462784",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Manado (Minahasa) – blad 91/XIV",
+ "sheet": "91/XIV",
+ "series": {
+  "id": "6386913",
+  "title": "Res. Manado (Minahasa)",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 124°45'-/S 1°00').",
+  "bbox": {
+   "west": "124.75",
+   "east": "124.75",
+   "north": "-1.0",
+   "south": "-1.0"
+  },
+  "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1936-1940.",
+  "extent": "maps ;",
+  "notes": "Topographic map series of North Sulawesi, Indonesia. Relief shown by contours and spot heights. | \"Auteursrecht voorbehouden (Stbl. 1912 no. 600)\". | On earlier sheets: Schetskaart. | On later sheets: Samengesteld door den Topografische Dienst, Kartogr. Afd. naar diverse gegevens; Tweede uitgave bijgewerkt [Second edition updated]. | On later sheets: De gebruikers van deze schetskaart worden verzocht aanvullende gegevens op te zenden aan het Hoofd van den Topografische Dienst te Batavia-C. | Each sheet has individual number e.g. Blad 89/XV; Later sheet has individual title and numb",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6386913",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6386913.marcxml"
+ },
+ "date": "01 January 1936",
+ "creator": "Dutch East Indies. Topografische Dienst, cartographer.",
+ "publisher": "Reproductiebedrijf Topografische Dienst",
+ "call_number": "MAP G8110 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-327462784",
+ "bladwijzers": [
+  {
+   "nr": "43",
+   "title": "Minahasa en Midden Celebes",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "49",
+   "match_confidence": "high",
+   "match_note": "Res. Manado (Minahasa) 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-327462784.json",
+  "manifest_file": "iiif/nla/nla.obj-327462784.json",
+  "image": "https://nla.gov.au/nla.obj-327462784/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-327462784/image?wid=300",
+  "width": 9996,
+  "height": 12098
+ }
+}

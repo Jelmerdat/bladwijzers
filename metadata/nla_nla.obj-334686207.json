@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-334686207",
+ "source": "National Library of Australia (Trove)",
+ "title": "Celebes 1:200 000 – blad 86-87/XVI-XVII-XVIII",
+ "sheet": "86-87/XVI-XVII-XVIII",
+ "series": {
+  "id": "1828013",
+  "title": "Celebes 1:200 000",
+  "scale": "Scale 1:200,000 ;",
+  "coordinates": "(E 123°08'--E 127°13'/N 4°50'--N 0°00')",
+  "bbox": {
+   "west": "123.1333",
+   "east": "127.2167",
+   "north": "4.8333",
+   "south": "-0.0"
+  },
+  "published": "[Washington?] : Svy. Directorate H.Q. ALFSEA, 1942-1946.",
+  "extent": "maps :",
+  "notes": "Topographical series of the island of Sulawesi. Relief shown by contours and spot heights. Includes index to adjoining sheets. | Each sheet is named and numbered individually. | Some 1942 AMS sheets do not have series statement. | AMS edition 1 sheets issued 1942-43 in black and white. AMS ed.2 sheets issued 1943-44 in colour. HIND sheets are 1946 reprints of corresponding AMS sheets. | Batavia meridian.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/1828013",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/1828013.marcxml"
+ },
+ "date": "01 January 1942",
+ "creator": "United States. Army Map Service.",
+ "publisher": "Svy. Directorate H.Q. ALFSEA",
+ "call_number": "MAP G8110 s200",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-334686207",
+ "bladwijzers": [
+  {
+   "nr": "41",
+   "title": "Midden Celebes",
+   "scale": "1:200.000",
+   "hind": "619",
+   "pdf": "1",
+   "pdf_page": "47",
+   "match_confidence": "low",
+   "match_note": "Celebes 1:200.000 AMS/HIND; extent is N. Celebes"
+  },
+  {
+   "nr": "42",
+   "title": "Celebes, Sangihe en Talaud eil.",
+   "scale": "1:200.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "48",
+   "match_confidence": "high",
+   "match_note": "Celebes 1:200.000 AMS/HIND, extent E123-127 N0-4.8 incl. Sangihe/Talaud"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-334686207.json",
+  "manifest_file": "iiif/nla/nla.obj-334686207.json",
+  "image": "https://nla.gov.au/nla.obj-334686207/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-334686207/image?wid=300",
+  "width": 10962,
+  "height": 13309
+ }
+}

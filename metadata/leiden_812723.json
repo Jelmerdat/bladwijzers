@@ -1,0 +1,45 @@
+{
+ "id": "leiden:812723",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Kaboe-eilanden",
+ "full_title": "Kaboe-eilanden, / Topografische Dienst.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 45,53",
+ "scale": "Schaal 1:100.000",
+ "series": {
+  "title": "Nederlands Nieuw Guinea ; 8-C",
+  "part_of": "Nederlands Nieuw Guinea (8-C) | Nederlands Nieuw Guinea /"
+ },
+ "published": "Kaboe-eilanden; [Delft] : Topografische Dienst, 1958; D F 45,53",
+ "creator": "Topografische Dienst (Delft)",
+ "edition": "Voorlopige uitgave.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812723",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812723",
+ "bladwijzers": [
+  {
+   "nr": "68",
+   "title": "Nieuw Guinea",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "24",
+   "match_confidence": "high",
+   "match_note": "D F 45: Nederlands Nieuw-Guinea 1:100.000, Topografische Dienst Delft 1955-59"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658260002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812723.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvOUUvMzMvMzAvQUUvN0QvQjIvNjUvMTQvNzcvOTEvMTkvNDkvMjEvN0MvQjYvMjEvMTg4N18xX2l0ZW1fODEyNzIzXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MjYwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI3ODcyIiwiaGVpZ2h0IjoiNjYzMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvOUUvMzMvMzAvQUUvN0QvQjIvNjUvMTQvNzcvOTEvMTkvNDkvMjEvN0MvQjYvMjEvMTg4N18xX2l0ZW1fODEyNzIzXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MjYwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI3ODcyIiwiaGVpZ2h0IjoiNjYzMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvOUUvMzMvMzAvQUUvN0QvQjIvNjUvMTQvNzcvOTEvMTkvNDkvMjEvN0MvQjYvMjEvMTg4N18xX2l0ZW1fODEyNzIzXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MjYwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI3ODcyIiwiaGVpZ2h0IjoiNjYzMCIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 7872,
+  "height": 6630,
+  "canvases": 1
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "leiden:812450",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Pangkalboeloeh]",
+ "full_title": "[Pangkalboeloeh], / opgenomen door den Topografischen Dienst in 1931.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D D 30,39",
+ "scale": "Schaal 1:25.000",
+ "series": {
+  "title": "Res[identie] Bangka en Onderh[oorigheden] ; Blad 34/XXVI-m",
+  "part_of": "Res[identie] Bangka en Onderh[oorigheden] (Blad 34/XXVI-m) | Res[identie] Bangka en Onderh[oorigheden] /"
+ },
+ "published": "[Pangkalboeloeh]; Batavia : Reproductiebedrijf Topografische dienst, 1933; D D 30,39",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812450",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812450",
+ "bladwijzers": [
+  {
+   "nr": "26",
+   "title": "Bangka",
+   "scale": "1:25.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "31",
+   "match_confidence": "high",
+   "match_note": "D D 30: Res. Bangka 1:25.000, Topografische Dienst 1930-36"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644710002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812450.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzEvNzcvMzgvMEYvNTYvQ0YvQ0MvMjUvNTEvREIvMjEvMDMvOTQvOUQvOTUvOUEvMTg4N18xX2l0ZW1fODEyNDUwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0NzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTUyIiwiaGVpZ2h0IjoiNTk4MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzEvNzcvMzgvMEYvNTYvQ0YvQ0MvMjUvNTEvREIvMjEvMDMvOTQvOUQvOTUvOUEvMTg4N18xX2l0ZW1fODEyNDUwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0NzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTUyIiwiaGVpZ2h0IjoiNTk4MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzEvNzcvMzgvMEYvNTYvQ0YvQ0MvMjUvNTEvREIvMjEvMDMvOTQvOUQvOTUvOUEvMTg4N18xX2l0ZW1fODEyNDUwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ0NzEwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0OTUyIiwiaGVpZ2h0IjoiNTk4MiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 4952,
+  "height": 5982,
+  "canvases": 1
+ }
+}

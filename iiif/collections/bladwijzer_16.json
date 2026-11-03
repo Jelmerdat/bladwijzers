@@ -1,0 +1,1056 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_16.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 16: N.O. Sumatra 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765480.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad I-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765556.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad I-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765570.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad I-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765686.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad III-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765749.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad III-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765774.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad III-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765850.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad III-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765891.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad III-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584765966.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766045.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766084.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766158.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-B & I-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766319.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-B & I-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766381.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-B & I-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766469.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766553.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766577.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766739.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766806.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766822.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766920.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584766999.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IV-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767399.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767410.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767503.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767588.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-B & III-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767665.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-B & III-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767698.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-B & III-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767795.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767860.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767949.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767982.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768055.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768156.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad IX-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584767070.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad VIII-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768300.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768345.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768415.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768490.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768538.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768682.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768722.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768798.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768873.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768918.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768983.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad X-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769083.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XIV-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769155.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XV-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769236.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XV-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769273.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XV-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769349.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XVI-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769421.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XVI-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769468.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XVI-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769533.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XVII-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769634.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XVII-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769691.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XX-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769789.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XX-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584769824.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra 1:50,000 – blad XXI-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043568.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 1C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043716.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043734.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043769.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043791.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 2D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043814.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 3C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043872.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4B & 1D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670043895.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044041.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 4D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044078.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044124.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044156.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 5D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044170.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 7C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 8A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001642.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 8B&D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 8C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044250.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044392.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9B & 3D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044428.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044453.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 9D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044477.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044490.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044514.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044538.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 10D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044551.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044572.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044625.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 11D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044649.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 13A&C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044663.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044682.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044706.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044722.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 14D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044787.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001669.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044804.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044820.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 15D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044885.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670044905.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045109.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001688.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 16D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045123.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045146.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045167.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045180.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 17D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045205.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045226.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045247.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045260.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 18D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045283.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 19A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001702.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 20A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001728.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 20B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-670045302.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 21A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-668001744.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra : Gouvt. Oostkust van Sumatra – blad 21B"
+    ]
+   }
+  }
+ ]
+}

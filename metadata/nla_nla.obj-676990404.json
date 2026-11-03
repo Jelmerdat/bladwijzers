@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-676990404",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra : Res. Sumatra's Westkust – blad 34",
+ "sheet": "34",
+ "series": {
+  "id": "6613082",
+  "title": "Sumatra : Res. Sumatra's Westkust",
+  "scale": "Scale 1:40,000",
+  "coordinates": "(E 98°42'--E 101°32'/N 2°00'--S 2°00').",
+  "bbox": {
+   "west": "98.7",
+   "east": "101.5333",
+   "north": "2.0",
+   "south": "-2.0"
+  },
+  "published": "Batavia : Topografische dienst, 1893-1937.",
+  "extent": "maps :",
+  "notes": "Topographic map series of west Sumatra, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading and spot heights. | Catalogued from Blad 2.\"Herzien door den Topopgrafischen dienst in 1930\" | Prime meridian: Padang. Coordinates converted to Greenwich. | Includes bladindeeling and administrative indeeling.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6613082",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6613082.marcxml"
+ },
+ "date": "01 January 1893",
+ "creator": "Netherlands. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Topografische dienst",
+ "call_number": "MAP G8080 s40",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-676990404",
+ "bladwijzers": [
+  {
+   "nr": "20",
+   "title": "Midden Sumatra",
+   "scale": "1:40.000",
+   "hind": "1043",
+   "pdf": "1",
+   "pdf_page": "25",
+   "match_confidence": "high",
+   "match_note": "Dutch original Res. Sumatra's Westkust 1:40.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-676990404.json",
+  "manifest_file": "iiif/nla/nla.obj-676990404.json",
+  "image": "https://nla.gov.au/nla.obj-676990404/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-676990404/image?wid=300",
+  "width": 12599,
+  "height": 14605
+ }
+}

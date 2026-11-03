@@ -1,0 +1,21 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_78A.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 78A: Nabire en omgeving 1:20.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516415450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Nabire en omgeving"
+    ]
+   }
+  }
+ ]
+}

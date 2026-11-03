@@ -1,0 +1,55 @@
+{
+ "id": "leiden:812725",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Waigeo Island",
+ "full_title": "Waigeo Island, / prepared under the direction of the Chief Engineer by Base Map Plant U.S. Army.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D F 42,1",
+ "scale": "Schaal 1:250.000",
+ "series": {
+  "title": "Dutch New Guinea : 1:250.000 ; Waigeo Island",
+  "part_of": "Dutch New Guinea. 1:250.000 (Waigeo Island) | Dutch New Guinea : 1:250.000 /"
+ },
+ "published": "Waigeo Island; [Washington D.C.] : Corps of Engineers U.S. Army, War Department, 1944; D F 42,1",
+ "creator": "War Department (Washington D.C.). Corps of Engineers U.S. Army.",
+ "edition": null,
+ "notes": "Provisional map. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:812725",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/812725",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "medium",
+   "match_note": "D F 42: Dutch New Guinea 1:250.000 (Corps of Engineers/AMS)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658240002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/812725.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjMvMzkvQjUvQ0YvRjMvMkUvNzgvREYvNkEvRUUvNkUvMDQvRTUvRjYvMUYvQ0MvMTg4N18xX2l0ZW1fODEyNzI1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MjQwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODc4IiwiaGVpZ2h0IjoiNjYzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjMvMzkvQjUvQ0YvRjMvMkUvNzgvREYvNkEvRUUvNkUvMDQvRTUvRjYvMUYvQ0MvMTg4N18xX2l0ZW1fODEyNzI1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MjQwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODc4IiwiaGVpZ2h0IjoiNjYzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvNjMvMzkvQjUvQ0YvRjMvMkUvNzgvREYvNkEvRUUvNkUvMDQvRTUvRjYvMUYvQ0MvMTg4N18xX2l0ZW1fODEyNzI1XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjU4MjQwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI1ODc4IiwiaGVpZ2h0IjoiNjYzMiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 5878,
+  "height": 6632,
+  "canvases": 1
+ }
+}

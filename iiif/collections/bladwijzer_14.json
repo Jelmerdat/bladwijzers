@@ -1,0 +1,939 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_14.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 14: Noord Sumatra 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327736.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CI & CXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327757.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327837.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327859.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327876.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327892.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327916.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327934.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327950.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad CXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325846.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad I"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325867.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad II"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325880.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad III"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad IV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326819.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326835.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326856.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326870.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326897.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326995.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326914.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326938.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326951.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327015.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327031.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327053.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327154.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327077.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327090.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327111.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327133.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327179.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327198.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327217.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXI bis"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327314.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327230.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327258.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327274.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327296.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327338.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327351.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327372.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327395.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327418.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327494.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXIX (front)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327510.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXIX (rear)"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327439.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327452.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXV bis"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327471.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad LXXXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325929.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325941.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad VI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325964.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad VII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681325986.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad VIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326005.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327532.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XC"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327555.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327578.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327593.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327619.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327712.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327635.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327656.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327670.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681327697.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XCVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326026.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326047.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326060.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326083.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326186.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326634.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XL"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326650.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326675.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326691.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326715.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326731.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326753.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326777.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326790.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XLVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326107.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326129.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326141.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326164.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326204.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XX & XX a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326220.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326248.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326261.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326285.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326382.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326301.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326325.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326349.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326363.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXVIII & XXVIII a"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326400.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326421.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326445.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326468.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXIII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326484.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXIV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326616.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXIX"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326506.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXV"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326522.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXVI"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326554.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXVII"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-681326598.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sumatra – blad XXXVIII"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55667/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[G[oenoeng] Paja Karoeng], D C 32,6, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55860/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Blang Oebor-Oebor, D C 32,6, sheet 3"
+    ]
+   }
+  }
+ ]
+}

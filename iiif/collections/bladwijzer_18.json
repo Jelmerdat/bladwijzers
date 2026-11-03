@@ -1,0 +1,291 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_18.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 18: Noord Sumatra 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150298.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 19"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150316.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 20"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150334.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 21"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150350.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 22"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150375.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 23"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150391.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 24"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150417.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 26"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150430.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 27"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150458.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 28"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150474.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 29"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150496.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 30"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150518.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 31"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150539.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 32"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150552.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 33"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150571.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 34"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150594.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 35"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150612.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 36"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150636.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 37"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150657.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 38"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150673.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 39"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150699.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 40"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-597150713.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[North Sumatra 1:100,000] – blad 41"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[P[oelau] Pandjang] : opgenomen door den Topografischen Dienst in 1932-1934"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bladwijzer van Noord Sumatra : schaal 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[D[olo]k Batoegaroga] : opgenomen door den Topografischen Dienst in 1926-1928"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[D[olo]k Tindjolaoetan] : opgenomen door den Topografischen Dienst in 1926-1928"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Kampoengmesdjid] : opgenomen door den Topografischen Dienst in 1923-1925"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Sidikalang] : opgenomen door den Topografischen Dienst in 1915-1926"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636090002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Rantaurapat] : opgenomen door den Topografischen Dienst in 1924-1926"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Taroetoeng] : opgenomen door den Topografischen Dienst in 1926-1928"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "[Porsea] : opgenomen door den Topografischen Dienst in 1917-1925"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-306628923",
+ "source": "National Library of Australia (Trove)",
+ "title": "Res. Timor en onderh – blad 87/XLIX-L",
+ "sheet": "87/XLIX-L",
+ "series": {
+  "id": "4544951",
+  "title": "Res. Timor en onderh.",
+  "scale": "Scale 1:100,000.",
+  "coordinates": "(E 122⁰00'--E 130⁰00'/S 6⁰00'--S 11⁰00').",
+  "bbox": {
+   "west": "122.0",
+   "east": "130.0",
+   "north": "-6.0",
+   "south": "-11.0"
+  },
+  "published": "[Washington, D.C.] : Reprinted by Office of the Chief Engineer, USASOS, SWPA, 1942.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Rote (Roti) Island and West Timor (Timor Barat) showing roads, tracks, footpaths, boundaries, water features, vegetation, cultivation, swamps, buildings. Relief shown by contours and spot heights. | \"5000 meter modified British grid system, N.E.I. southern equatorial zone\" | Includes diagram of adjacent sheets, and an \"Index of Dutch Timor\" on verso.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/4544951",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/4544951.marcxml"
+ },
+ "date": "01 January 1942",
+ "creator": "United States. Army. South West Pacific Area. Base Map Plant.",
+ "publisher": "Reprinted by Office of the Chief Engineer, USASOS, SWPA",
+ "call_number": "MAP G8117.T5 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-306628923",
+ "bladwijzers": [
+  {
+   "nr": "57",
+   "title": "Timor",
+   "scale": "1:100.000",
+   "hind": "637",
+   "pdf": "2",
+   "pdf_page": "14",
+   "match_confidence": "medium",
+   "match_note": "US reprint Res. Timor 1:100.000 (1942)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-306628923.json",
+  "manifest_file": "iiif/nla/nla.obj-306628923.json",
+  "image": "https://nla.gov.au/nla.obj-306628923/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-306628923/image?wid=300",
+  "width": 10138,
+  "height": 14708
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "id": "leiden:813696",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Gemawang] : opgenomen door den Topografischen Dienst in 1921-1922",
+ "full_title": "[Gemawang] : opgenomen door den Topografischen Dienst in 1921-1922, / Topografische Dienst.",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D G 32,32",
+ "scale": "Schaal 1:25.000",
+ "series": {
+  "title": "Java : Res[identie] Soerakarta : 1:25.000 ; Blad XXXVI l (Alg. No. XLII-49 l)",
+  "part_of": "Java. 1:25.000 (Blad XXXVI l (Alg. No. XLII-49 l)) | Java : 1:25.000."
+ },
+ "published": "[Gemawang] : opgenomen door den Topografischen Dienst in 1921-1922; Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1925; D G 32,32",
+ "creator": "Topografische Dienst (Batavia)",
+ "edition": null,
+ "notes": null,
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:813696",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/813696",
+ "bladwijzers": [
+  {
+   "nr": "9",
+   "title": "Java en Madura",
+   "scale": "1:25.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "13",
+   "match_confidence": "high",
+   "match_note": "D G 32: idem"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12516408020002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/813696.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRkUvRUIvNkQvRUIvOTEvREYvQzUvMDEvRUUvNEQvQTYvODgvREYvNTMvQ0MvNzAvMTg4N18xX2l0ZW1fODEzNjk2XzAxLmpwMiIsInJlcF9pZCI6IjEyNTE2NDA4MDIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0NjA4IiwiaGVpZ2h0IjoiNTQ0NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRkUvRUIvNkQvRUIvOTEvREYvQzUvMDEvRUUvNEQvQTYvODgvREYvNTMvQ0MvNzAvMTg4N18xX2l0ZW1fODEzNjk2XzAxLmpwMiIsInJlcF9pZCI6IjEyNTE2NDA4MDIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0NjA4IiwiaGVpZ2h0IjoiNTQ0NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvRkUvRUIvNkQvRUIvOTEvREYvQzUvMDEvRUUvNEQvQTYvODgvREYvNTMvQ0MvNzAvMTg4N18xX2l0ZW1fODEzNjk2XzAxLmpwMiIsInJlcF9pZCI6IjEyNTE2NDA4MDIwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0NjA4IiwiaGVpZ2h0IjoiNTQ0NiIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 4608,
+  "height": 5446,
+  "canvases": 1
+ }
+}

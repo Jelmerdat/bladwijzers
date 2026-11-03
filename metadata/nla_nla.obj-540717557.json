@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-540717557",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra, res. Palembang – blad B",
+ "sheet": "B",
+ "series": {
+  "id": "6609451",
+  "title": "Sumatra, res. Palembang",
+  "scale": "Scale 1:200,000",
+  "coordinates": "(E 104°03'-- E 106°06'/S 1°03'--S 4°06').",
+  "bbox": {
+   "west": "104.05",
+   "east": "106.1",
+   "north": "-1.05",
+   "south": "-4.1"
+  },
+  "published": "Batavia, Indonesia : Topographische Inrichting, 1924-1925.",
+  "extent": "maps :",
+  "notes": "Topographic map series from Palembang to Jambi region of South Sumatra, Indonesia showing roads, tracks, footpaths, boundaries, water features, vegetation, cultivation, swamps, buildings and built-up areas. | Includes bladindeeling, administrative index and schets anngevende de meetlijnen.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6609451",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6609451.marcxml"
+ },
+ "date": "01 January 1924",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia), cartographer. issuing",
+ "publisher": "Topographische Inrichting",
+ "call_number": "MAP G8080 s200",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-540717557",
+ "bladwijzers": [
+  {
+   "nr": "24",
+   "title": "Zuid Sumatra",
+   "scale": "1:200.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "29",
+   "match_confidence": "high",
+   "match_note": "Sumatra res. Palembang 1:200.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717557.json",
+  "manifest_file": "iiif/nla/nla.obj-540717557.json",
+  "image": "https://nla.gov.au/nla.obj-540717557/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-540717557/image?wid=300",
+  "width": 13278,
+  "height": 14395
+ }
+}

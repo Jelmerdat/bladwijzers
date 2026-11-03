@@ -1,0 +1,696 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collection.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzers Kaartenmagazijn Topografische Dienst – online map sheets"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_1.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 1: Internationale Wereldkaart 1:1.000.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_2.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 2: Asia-serie 1:500.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_3.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 3: Java en Madura, Overzichtskaart 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_4.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 4: Java, Madura en Bali 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_7.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 7: West- en Midden Java 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_8.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 8: Java en Madura 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_9.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 9: Java en Madura 1:25.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_10.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 10: Overzichtskaart Sumatra 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_11.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 11: Sumatra 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_13.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 13: Noord Sumatra 1:200.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_14.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 14: Noord Sumatra 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_15.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 15: N.W. Sumatra 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_16.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 16: N.O. Sumatra 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_17.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 17: Sumatra's Oostkust 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_18.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 18: Noord Sumatra 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_19.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 19: Midden Sumatra 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_20.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 20: Midden Sumatra 1:40.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_21.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 21: West-Sumatra 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_22.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 22: Oost-Sumatra 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_23.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 23: Zuid Sumatra 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_24.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 24: Zuid Sumatra 1:200.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_25.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 25: Bangka 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_26.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 26: Bangka 1:25.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_28.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 28: Riouw-Archipel 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_32.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 32: Nias 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_33.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 33: Mentawei eil. 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_34.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 34: West Borneo 1:200.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_35.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 35: West Borneo 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_36.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 36: Zuider- en Oosterafd. v. Borneo 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_37.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 37: Alg. schetskaarten v/d Z.-O. afd. v. Borneo 1:200.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_38.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 38: Z. en O. afd. v. Borneo 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_39a.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 39a: Zuider- en Oosterafd. v. Borneo 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_39b.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 39b: Zuider- en Oosterafd. v. Borneo 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_40.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 40: Balikpapan en omgeving 1:25.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_41.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 41: Midden Celebes 1:200.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_42.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 42: Celebes, Sangihe en Talaud eil. 1:200.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_43.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 43: Minahasa en Midden Celebes 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_44.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 44: Zuid-West Celebes 1:125.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_45.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 45: Z.W. Celebes 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_46.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 46: Zuid West Celebes 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_47.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 47: Zuid Celebes 1:25.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_48.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 48: Talaud eilanden 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_49.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 49: Talaud eilanden 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_51.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 51: Bali 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_52.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 52: Lombok 1:25.000 / 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_53.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 53: Sumba 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_54.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 54: Onderafd. Oost Flores en Solor enz. 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_55.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 55: Onderafd. Ende-Ngada en N. en W. Mangerai 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_56.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 56: P. Alor 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_57.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 57: Timor 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_59.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 59: P. Tanimbar (Selaroe eil.) 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_60.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 60: Ambon 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_61.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 61: Ambon 1:50.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_62.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 62: Ceram 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_63.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 63: Halmahera 1:100.000; Ternate, Tidore enz. 1:100.000 / 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_64.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 64: Morotai 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_68.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 68: Nieuw Guinea 1:100.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_69.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 69: Nieuw Guinea 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_69A.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 69A: Nieuw Guinea 1:250.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_70.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 70: Radja ampat groep 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_71.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 71: N.W. en N.O. Vogelkop 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_72.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 72: N.W. en N.O. Vogelkop 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_73.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 73: Biak-Japen 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_74.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 74: Kuststreek Verkam-Hollandia 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_75.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 75: Merauke en omgeving 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_76.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 76: Noordwest Vogelkop 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_77.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 77: Manokwari en omgeving 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_78.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 78: Moemi en omgeving 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_78A.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 78A: Nabire en omgeving 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_79.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 79: Eiland Noemfoor en Z. Biak 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_80.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 80: Eiland Noemfoor en Z. Biak 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_81.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 81: Sawar en omgeving 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_82.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 82: Hollandia en omgeving 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_83.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 83: Eilanden rondom Waigeo 1:63.360"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_84.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer 84: Eilanden rondom Nieuw Guinea 1:20.000"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_extra.json",
+   "type": "Collection",
+   "label": {
+    "none": [
+     "Bladwijzer extra: Nederlands-Nieuw-Guinea bladindeling 1:100.000"
+    ]
+   }
+  }
+ ]
+}

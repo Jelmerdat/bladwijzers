@@ -1,0 +1,2991 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_extra.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer extra: Nederlands-Nieuw-Guinea bladindeling 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644201.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 2-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644225.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 4-B + 4-C + 3-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644249.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644263.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644282.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644309.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-D + 4-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644351.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644380.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644405.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644426.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644447.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644460.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-D + 6-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644483.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644507.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644529.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-N + 6-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644541.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-B + 7-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644564.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644586.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644608.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644624.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644643.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644662.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644681.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-J + 6-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644704.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-J + 6-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644720.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644748.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644761.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644785.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644821.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644845.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644868.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644884.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644927.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644942.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644969.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644988.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-K + 8-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645009.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-M + 7-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645023.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645046.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-Q + 9-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645080.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645102.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645128.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645144.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-E + 10-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645166.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645189.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645206.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645222.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645240.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-K + 9-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645287.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645327.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645369.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645388.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645401.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645425.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645463.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645482.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645505.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645526.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645547.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645560.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645583.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645604.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645648.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645721.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645768.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-D + 10-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646024.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-D + 10-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646043.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646062.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646081.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646100.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646121.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646145.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646168.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-M + 11-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646202.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646244.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646266.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646289.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646304.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646320.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646348.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646361.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646385.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-F + 12-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646464.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646486.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646503.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646527.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646542.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646569.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646588.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646606.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646622.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646640.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646665.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646687.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646709.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646723.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646746.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646767.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646780.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646805.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646826.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646901.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646982.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647078.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-H + 16-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647119.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-H + 16-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647143.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647162.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647181.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-K + 17-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-K + 17-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647275.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647291.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647313.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647337.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647376.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647392.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647415.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647444.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647466.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647489.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647509.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647538.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647551.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647580.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647625.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647658.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647674.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647706.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647722.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647740.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647779.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647798.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647820.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647848.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647861.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647899.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647918.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-P + 19-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647947.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-P + 19-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647960.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648049.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648074.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648096.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648126.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648147.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648160.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648194.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648219.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648235.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648256.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648281.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648354.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648379.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648398.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648473.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648628.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648653.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648677.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648690.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648727.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648742.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648769.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648791.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648838.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648880.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648932.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648955.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649036.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649061.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649085.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649103.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-S + R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649150.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-S + R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649188.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649209.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649238.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649251.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649272.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649378.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649393.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649411.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649501.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649525.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649549.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-T + S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649574.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649596.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649618.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649647.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649660.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649683.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649719.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649735.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649762.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649781.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649890.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649921.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649945.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649968.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649992.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650013.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650037.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650068.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650084.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650101.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650125.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650158.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650232.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650255.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650286.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650308.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650324.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650356.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650370.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650397.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650416.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650442.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650553.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650577.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650609.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650623.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650667.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650695.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650771.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650794.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650822.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650840.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650879.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650898.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650912.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650948.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650961.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650985.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651064.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651170.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651197.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651275.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651300.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651321.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651359.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651376.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651392.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651415.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651617.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651649.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651674.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651696.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651711.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651857.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651899.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651926.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651947.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651960.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651983.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652019.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652097.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652113.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652145.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652168.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652184.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652215.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652231.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652253.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652289.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652304.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652320.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652357.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652373.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652399.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652410.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652441.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652550.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652575.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652606.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652622.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652640.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652665.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652698.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652772.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652860.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652883.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652901.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652930.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652958.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652974.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653014.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653115.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653240.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653539.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653737.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653864.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653970.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654001.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654025.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654058.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654074.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654105.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654126.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654152.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654183.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654208.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654235.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654256.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654270.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654340.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654436.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654457.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654500.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654521.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 32-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654559.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 32-Z"
+    ]
+   }
+  }
+ ]
+}

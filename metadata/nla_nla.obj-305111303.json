@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-305111303",
+ "source": "National Library of Australia (Trove)",
+ "title": "Alor Island – blad ",
+ "sheet": "",
+ "series": {
+  "id": "6973153",
+  "title": "Alor Island",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 124°16ʹ--E 125°08ʹ/S 8°07ʹ--S 8°28ʹ).",
+  "bbox": {
+   "west": "124.2667",
+   "east": "125.1333",
+   "north": "-8.1167",
+   "south": "-8.4667"
+  },
+  "published": "Washington, D.C. : Army Map Service, 1942.",
+  "extent": "1 map on 2 sheets :",
+  "notes": "Map of Alor Island showing villages, sparsely inhabited regions, coconut trees, undergrowths, forests, grasses, palms, wetlands, unpaved roads, horse tracks, footpaths, rivers, lakes, stones, Christian cemeteries, Chinese and native graves, missions, and landscape borders. Relief shown by contours, form lines and spot heights. | Base map from the Dutch map: Overzichtskaart van het Eiland Alor / reproductiebedrijf Topografische dienst. Batavia, 1932. | \"(Vluchtig opgenomen door den Topografische dienst in 1927-1928)\" | Includes magnetic declination diagram, grid references, leaf classif",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6973153",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6973153.marcxml"
+ },
+ "date": "01 January 1942",
+ "creator": "United States. Army Map Service.",
+ "publisher": "Army Map Service",
+ "call_number": "MAP G8117.A4 1942 (Copy 1)",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-305111303",
+ "bladwijzers": [
+  {
+   "nr": "56",
+   "title": "P. Alor",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "13",
+   "match_confidence": "medium",
+   "match_note": "AMS reprint Alor Island 1:100.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305111303.json",
+  "manifest_file": "iiif/nla/nla.obj-305111303.json",
+  "image": "https://nla.gov.au/nla.obj-305111303/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-305111303/image?wid=300",
+  "width": 13552,
+  "height": 13407
+ }
+}

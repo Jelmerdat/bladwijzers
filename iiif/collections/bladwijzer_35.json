@@ -1,0 +1,21 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_35.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 35: West Borneo 1:50.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-390061800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Residentie Wester-Afdeeling van Borneo – blad XXII-p"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-234435032",
+ "source": "National Library of Australia (Trove)",
+ "title": "Ambon-groep – blad XXX-101-A",
+ "sheet": "XXX-101-A",
+ "series": {
+  "id": "6381142",
+  "title": "Ambon-groep",
+  "scale": "Scale 1:50,000",
+  "coordinates": "(E 128°10'53\"/S 3°41'42\").",
+  "bbox": {
+   "west": "128.1814",
+   "east": "128.1814",
+   "north": "-3.695",
+   "south": "-3.695"
+  },
+  "published": "Weltevreden, [Gambir] : Topografische Dienst, 1924-",
+  "extent": "maps :",
+  "notes": "Topographic map series of Ambon Island, Indonesia. Relief shown by form lines and spot heights. | Sheets issued <1924> published by the Topografische Inrichting; <1925-> by the Topografische Dienst. | Sheets individually numbered, e.g.: Blad XXX-101 A. | Includes index to adjoining sheets and diagram of administrative divisions.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6381142",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6381142.marcxml"
+ },
+ "date": "01 January 1924",
+ "creator": "Netherlands. Topografische Dienst, cartographer.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8132.A4 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-234435032",
+ "bladwijzers": [
+  {
+   "nr": "61",
+   "title": "Ambon",
+   "scale": "1:50.000",
+   "hind": "635",
+   "pdf": "2",
+   "pdf_page": "17",
+   "match_confidence": "high",
+   "match_note": "Ambon-groep 1:50.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-234435032.json",
+  "manifest_file": "iiif/nla/nla.obj-234435032.json",
+  "image": "https://nla.gov.au/nla.obj-234435032/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-234435032/image?wid=300",
+  "width": 4618,
+  "height": 5748
+ }
+}

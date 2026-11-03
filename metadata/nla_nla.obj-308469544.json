@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-308469544",
+ "source": "National Library of Australia (Trove)",
+ "title": "Gouvt. Celebes en Onderh – blad 13l",
+ "sheet": "13l",
+ "series": {
+  "id": "4601419",
+  "title": "Gouvt. Celebes en Onderh.",
+  "scale": "Scale 1:25,000",
+  "coordinates": "(E 119°45'--120°05\"/S 3°55'--S 5°30')",
+  "bbox": {
+   "west": "119.75",
+   "east": "120.0833",
+   "north": "-3.9167",
+   "south": "-5.5"
+  },
+  "published": "Batavia : Topographische inrichting, 1921-1931.",
+  "extent": "maps :",
+  "notes": "Later sheets published by the Topographische Dienst. | Topographic map series providing Incomplete coverage of two areas in South Sulawesi (Celebes), including Singkang and Makassar (Ujung Padang).",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/4601419",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/4601419.marcxml"
+ },
+ "date": "01 January 1921",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia)",
+ "publisher": "Topographische inrichting",
+ "call_number": "MAP G8110 s25",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-308469544",
+ "bladwijzers": [
+  {
+   "nr": "47",
+   "title": "Zuid Celebes",
+   "scale": "1:25.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "4",
+   "match_confidence": "high",
+   "match_note": "Gouvt. Celebes 1:25.000 (Makassar area)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308469544.json",
+  "manifest_file": "iiif/nla/nla.obj-308469544.json",
+  "image": "https://nla.gov.au/nla.obj-308469544/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-308469544/image?wid=300",
+  "width": 10243,
+  "height": 12070
+ }
+}

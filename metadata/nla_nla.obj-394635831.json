@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-394635831",
+ "source": "National Library of Australia (Trove)",
+ "title": "S.E. Borneo 1:100 000 – blad 64/xxix",
+ "sheet": "64/xxix",
+ "series": {
+  "id": "2072184",
+  "title": "S.E. Borneo 1:100 000",
+  "scale": "Scale 1:100 000 ;",
+  "coordinates": "(E 114°30' --E 117°50' / S 0°20'--S 4°20').",
+  "bbox": {
+   "west": "114.5",
+   "east": "117.8333",
+   "north": "-0.3333",
+   "south": "-4.3333"
+  },
+  "published": "Washington, D.C. : The Service, 1943-1944.",
+  "extent": "maps :",
+  "notes": "Topographic map series of Southeast Borneo from Banjarmasin to Samarinda showing boundaries, main roads, railways, plantations, monuments, telephone lines, forests, water features and settlements. Relief shown by contours, hachures and spot heights. | HIND sheets reproduced by 110 Map Production Coy. R.E. and Survey Production Centre, South East Asia, 1945-46.  GSGS sheets published by Geographical Section, General Staff, War Office [UK], 1950-51. | Some AMS sheets issued without series notes. | [United States. Army Map Service] \"AMS T631\" | Sheet lines based on Batavia meridian. | $",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/2072184",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/2072184.marcxml"
+ },
+ "date": "01 January 1943",
+ "creator": "United States. Army Map Service.",
+ "publisher": "The Service",
+ "call_number": "MAP G8100 s100 1943-51",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-394635831",
+ "bladwijzers": [
+  {
+   "nr": "38",
+   "title": "Z. en O. afd. v. Borneo",
+   "scale": "1:100.000",
+   "hind": "620",
+   "pdf": "1",
+   "pdf_page": "43",
+   "match_confidence": "high",
+   "match_note": "S.E. Borneo 1:100.000 AMS/HIND reprints (bladwijzer HIND 620)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-394635831.json",
+  "manifest_file": "iiif/nla/nla.obj-394635831.json",
+  "image": "https://nla.gov.au/nla.obj-394635831/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-394635831/image?wid=300",
+  "width": 10333,
+  "height": 12723
+ }
+}

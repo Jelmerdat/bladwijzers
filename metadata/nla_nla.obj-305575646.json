@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-305575646",
+ "source": "National Library of Australia (Trove)",
+ "title": "Kl. Soenda-Eilanden. Lombok – blad XLIV-65 p",
+ "sheet": "XLIV-65 p",
+ "series": {
+  "id": "6381137",
+  "title": "Kl. Soenda-Eilanden.   Lombok.",
+  "scale": "Scale 1:25,000",
+  "coordinates": "(E 116°40'/S 8°30').",
+  "bbox": {
+   "west": "116.6667",
+   "east": "116.6667",
+   "north": "-8.5",
+   "south": "-8.5"
+  },
+  "published": "Weltevreden [Gambir] : Topografische Dienst, 1926-",
+  "extent": "maps :",
+  "notes": "Topographic map series of Lombok, Indonesia. Relief shown by contours and spot heights. | Also shows agricultural land use and administrative boundaries. | Sheets individually numbered, e.g.: Blad 65/XLIV i. | Some sheets have place of publication: Batavia. | Includes notes, sheet-index diagram, and administrative divisions diagram.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6381137",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6381137.marcxml"
+ },
+ "date": "01 January 1926",
+ "creator": "Dutch East Indies. Topografische Dienst, cartographer.",
+ "publisher": "Topografische Dienst",
+ "call_number": "MAP G8117.L6 s25",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-305575646",
+ "bladwijzers": [
+  {
+   "nr": "52",
+   "title": "Lombok",
+   "scale": "1:25.000 / 1:50.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "9",
+   "match_confidence": "high",
+   "match_note": "Lombok 1:25.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-305575646.json",
+  "manifest_file": "iiif/nla/nla.obj-305575646.json",
+  "image": "https://nla.gov.au/nla.obj-305575646/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-305575646/image?wid=300",
+  "width": 10040,
+  "height": 12363
+ }
+}

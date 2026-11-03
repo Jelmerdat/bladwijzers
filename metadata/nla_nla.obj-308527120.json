@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-308527120",
+ "source": "National Library of Australia (Trove)",
+ "title": "Gouvt. Groote Oost. Resn. Celebes en Onderh. en Manado – blad 81/XXVII Towoeti-Meer",
+ "sheet": "81/XXVII Towoeti-Meer",
+ "series": {
+  "id": "6386761",
+  "title": "Gouvt. Groote Oost. Resn. Celebes en Onderh. en Manado",
+  "scale": "Scale 1:100,000",
+  "coordinates": "(E 121°00'00\"--E 124°50'39\"/S 1°30'06\"--S 2°00'00\").",
+  "bbox": {
+   "west": "121.0",
+   "east": "124.8442",
+   "north": "-1.5017",
+   "south": "-2.0"
+  },
+  "published": "Batavia : Reproductiebedrijf Topografische Dienst, 1939-1940.",
+  "extent": "maps ;",
+  "notes": "Topographic map series of Manado residency, Sulawesi, Indonesia. Relief shown by contours, hachures and spot heights. Depths shown by bathymetric soundings and isolines. | \"Auteursrecht voorbehouden (Stbl. 1912 no. 600)\". | \"De gebruikers van deze shetskaart worden verzocht aanvullende gegevens op te zenden aan het Hoofd van den Topografische Dienst te Batavia-C.\". | Each sheet is named and numbered individually e.g. Mahalona-Meer blad 81/XXVI. | Includes legend, index to adjoining sheets, administrative boundary diagram, abbreviations and notes on data used.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6386761",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6386761.marcxml"
+ },
+ "date": "01 January 1939",
+ "creator": "Netherlands. Topografische Dienst, cartographer.",
+ "publisher": "Reproductiebedrijf Topografische Dienst",
+ "call_number": "MAP G8110 s100",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-308527120",
+ "bladwijzers": [
+  {
+   "nr": "43",
+   "title": "Minahasa en Midden Celebes",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "49",
+   "match_confidence": "high",
+   "match_note": "Celebes en Manado 1:100.000 (Midden Celebes: Matano, Towoeti)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-308527120.json",
+  "manifest_file": "iiif/nla/nla.obj-308527120.json",
+  "image": "https://nla.gov.au/nla.obj-308527120/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-308527120/image?wid=300",
+  "width": 9745,
+  "height": 12292
+ }
+}

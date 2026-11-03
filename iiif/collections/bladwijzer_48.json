@@ -1,0 +1,48 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_48.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 48: Talaud eilanden 1:63.360"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56319/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaboeroeang Island, D C 4,2, sheet 3"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56377/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Beo Road (Karakelang Island), D C 4,2, sheet 1"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57715/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Talaud Islands"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57500/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kawio Islands, D C 4,1, sheet 12"
+    ]
+   }
+  }
+ ]
+}

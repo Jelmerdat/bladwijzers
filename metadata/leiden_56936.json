@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56936",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Bladwijzer van Morotai, D C 19,2, index",
+ "full_title": "Bladwijzer van Morotai, D C 19,2, index",
+ "sheet": null,
+ "hind_series": null,
+ "shelfmark": "D C 19,2, index",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Morotai Island; Morotai Island"
+ },
+ "published": "[S.l. : s.n.], [ca. 1944]",
+ "creator": null,
+ "edition": null,
+ "notes": null,
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56936",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56936",
+ "bladwijzers": [
+  {
+   "nr": "64",
+   "title": "Morotai",
+   "scale": "1:63.360",
+   "hind": "634",
+   "pdf": "2",
+   "pdf_page": "20",
+   "match_confidence": "high",
+   "match_note": "Morotai Island, Base Map Plant 1944, sheets 1-7 + index = bladwijzer 64 (HIND 634) sheets 1-7"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56936/manifest",
+  "manifest_file": "iiif/leiden/56936.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56936/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56936",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:56936/full/300,/0/default.jpg",
+  "width": 3983,
+  "height": 2752,
+  "canvases": 1
+ }
+}

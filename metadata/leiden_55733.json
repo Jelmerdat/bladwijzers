@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55733",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Baroebai]",
+ "full_title": "[Baroebai], / prepared under the direction of the Chief of Engineers U.S. Army, by the Army Map Service (PT) U.S. Army.",
+ "sheet": "16.C",
+ "hind_series": "HIND 1062",
+ "shelfmark": "D C 46,2, sheet 2",
+ "scale": "Scale 1:50.000 | 3 schaalstokken.",
+ "series": {
+  "title": "Sumatra ; HIND 1062 Sheet 16.C",
+  "part_of": "East Coast Sumatra (HIND 1062 Sheet 16.C) | East Coast Sumatra /"
+ },
+ "published": "[Baroebai]; Washington D.C. : Army Map Service, 1943; D C 46,2, sheet 2",
+ "creator": "Army Map Service U.S. Army (Washington D.C.)",
+ "edition": null,
+ "notes": "Copied from a Dutch map dated 1918. | Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55733",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55733",
+ "bladwijzers": [
+  {
+   "nr": "17",
+   "title": "Sumatra's Oostkust",
+   "scale": "1:50.000",
+   "hind": "1062",
+   "pdf": "1",
+   "pdf_page": "22",
+   "match_confidence": "high",
+   "match_note": "HIND 1062"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663550002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/55733.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzgvOEMvNTAvQjIvQTYvNTYvM0QvQUYvNDAvRUMvODQvOUIvNTkvMjIvODkvNjkvMTg4N18xX2l0ZW1fNTU3MzNfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM1NTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjYwMDAiLCJoZWlnaHQiOiI2NzUwIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzgvOEMvNTAvQjIvQTYvNTYvM0QvQUYvNDAvRUMvODQvOUIvNTkvMjIvODkvNjkvMTg4N18xX2l0ZW1fNTU3MzNfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM1NTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjYwMDAiLCJoZWlnaHQiOiI2NzUwIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMzgvOEMvNTAvQjIvQTYvNTYvM0QvQUYvNDAvRUMvODQvOUIvNTkvMjIvODkvNjkvMTg4N18xX2l0ZW1fNTU3MzNfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2NjM1NTAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjYwMDAiLCJoZWlnaHQiOiI2NzUwIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 6000,
+  "height": 6750,
+  "canvases": 1
+ }
+}

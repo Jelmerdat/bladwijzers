@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-540717613",
+ "source": "National Library of Australia (Trove)",
+ "title": "Gouvt. Sumatra Res. Atjeh en Onderh – blad 4-5/IV-V",
+ "sheet": "4-5/IV-V",
+ "series": {
+  "id": "6609483",
+  "title": "Gouvt. Sumatra Res. Atjeh en Onderh",
+  "scale": "Scale 1:200,000",
+  "coordinates": "(E 95°00'-- E 98°00'/N 6°00'--N 2°00').",
+  "bbox": {
+   "west": "95.0",
+   "east": "98.0",
+   "north": "6.0",
+   "south": "2.0"
+  },
+  "published": "[Tōkyō] : Sanbō Honbu, [1941-1943?]",
+  "extent": "maps ;",
+  "notes": "Topographic map series of Aceh region, Indonesia showing roads, tracks, footpaths, boundaries, water features, vegetation, cultivation, swamps, buildings and built-up areas. Relief shown by contours and spot heights. | Japanese copies of Dutch maps. | Includes bladindeeling, administrative index and schets anngevende de meetlijnen.",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6609483",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6609483.marcxml"
+ },
+ "date": "01 January 1941",
+ "creator": "Netherlands. Topografische Dienst, cartographer. issuing body.",
+ "publisher": "Sanbō Honbu",
+ "call_number": "MAP G8080 s200",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-540717613",
+ "bladwijzers": [
+  {
+   "nr": "13",
+   "title": "Noord Sumatra",
+   "scale": "1:200.000",
+   "hind": "655",
+   "pdf": "1",
+   "pdf_page": "18",
+   "match_confidence": "medium",
+   "match_note": "Japanese reprint of same Atjeh 1:200.000 sheets"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-540717613.json",
+  "manifest_file": "iiif/nla/nla.obj-540717613.json",
+  "image": "https://nla.gov.au/nla.obj-540717613/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-540717613/image?wid=300",
+  "width": 11540,
+  "height": 15542
+ }
+}

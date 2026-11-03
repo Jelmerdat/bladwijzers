@@ -1,0 +1,273 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_1.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 1: Internationale Wereldkaart 1:1.000.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55685/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Manado, D B 20,1, sheet 10"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55846/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Timor-Zee, D B 21,1, sheet 15"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55863/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bandjarmasin, D B 21,1, sheet 3"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ceram"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624130002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koepang"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "North Borneo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boetoeng"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56039/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ternate, D B 20,1, sheet 11"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Blitar"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soerabaja"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Banda"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57490/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sabang & Nicobar Islands, D B 20,1, sheet 1"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56791/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "North Borneo, D B 20,1, sheet 3"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:58087/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "South Mindanao, D B 20,1, sheet 4"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57751/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "San Agustin, D B 20,1, sheet 5"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57627/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sarawak"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57949/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oost Borneo, D B 20,1, sheet 9"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:58061/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Padang, D B 20,1, sheet 12"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56942/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Palembang, D B 21,1, sheet 1"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57107/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pontianak, D B 21,1, sheet 2"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57169/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bandjarmasin, D B 21,1, sheet 4"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57055/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Geelvink-baai, D B 21,1, sheet 5 | Geelvinkbaai"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56620/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soerabaja, D B 21,1, sheet 7"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57577/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Makassar, D B 21,1, sheet 8"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56525/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Makassar, D B 21,1, sheet 9"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12513828740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Portrait of a woman"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:56861/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Singaradja, D B 21,1, sheet 12"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57378/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koepang, D B 21,1, sheet 13"
+    ]
+   }
+  },
+  {
+   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57684/manifest",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koepang, D B 21,1, sheet 14"
+    ]
+   }
+  }
+ ]
+}

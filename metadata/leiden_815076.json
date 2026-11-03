@@ -1,0 +1,55 @@
+{
+ "id": "leiden:815076",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Anggi Gigi",
+ "full_title": "Anggi Gigi, / prepared and reproduced by Base Map Plant USAFFE, June 1943 from various Dutch maps based upon the Dutch Government maps 1:100.000 ; published by Survey Directorate H[ead] Q[uarters] SEALF [=South East Asia Land Forces], Jan. 1947.",
+ "sheet": "Anggi Gigi",
+ "hind_series": "HIND 644",
+ "shelfmark": "D F 42,8",
+ "scale": "Schaal 1:250.000;",
+ "series": {
+  "title": "Dutch New Guinea : 1:250.000 ; HIND 644 Sheet Anggi Gigi",
+  "part_of": "Dutch New Guinea. 1:250.000 (HIND 644 Sheet Anggi Gigi) | Dutch New Guinea : 1:250.000 /"
+ },
+ "published": "Anggi Gigi; [S.l.] : Survey Directorate H[ead] Q[uarters] SEALF [=South East Asia Land Forces], 1947; D F 42,8",
+ "creator": "Survey Directorate Head Quarters South East Asia Land Forces.",
+ "edition": "1st edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:815076",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/815076",
+ "bladwijzers": [
+  {
+   "nr": "69",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "25",
+   "match_confidence": "high",
+   "match_note": "HIND 644"
+  },
+  {
+   "nr": "69A",
+   "title": "Nieuw Guinea",
+   "scale": "1:250.000",
+   "hind": "644",
+   "pdf": "2",
+   "pdf_page": "26",
+   "match_confidence": "high",
+   "match_note": "HIND 644"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634770002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/815076.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQjMvNDQvMkQvN0YvRjUvMjAvMzIvNzkvMDkvQUIvNzUvQjYvQkQvQjQvNkYvQjEvMTg4N18xX2l0ZW1fODE1MDc2XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM0NzcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2MTI4IiwiaGVpZ2h0IjoiNzM1NyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQjMvNDQvMkQvN0YvRjUvMjAvMzIvNzkvMDkvQUIvNzUvQjYvQkQvQjQvNkYvQjEvMTg4N18xX2l0ZW1fODE1MDc2XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM0NzcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2MTI4IiwiaGVpZ2h0IjoiNzM1NyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvQjMvNDQvMkQvN0YvRjUvMjAvMzIvNzkvMDkvQUIvNzUvQjYvQkQvQjQvNkYvQjEvMTg4N18xX2l0ZW1fODE1MDc2XzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjM0NzcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI2MTI4IiwiaGVpZ2h0IjoiNzM1NyIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
+  "width": 6128,
+  "height": 7357,
+  "canvases": 1
+ }
+}

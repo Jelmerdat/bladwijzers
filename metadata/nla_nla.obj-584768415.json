@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-584768415",
+ "source": "National Library of Australia (Trove)",
+ "title": "Sumatra 1:50,000 – blad X-B",
+ "sheet": "X-B",
+ "series": {
+  "id": "6607938",
+  "title": "Sumatra 1:50,000",
+  "scale": "Scale 1:50,000 ;",
+  "coordinates": "(E 92°30'--E 109°00'/N 8°30'--S 8°00').",
+  "bbox": {
+   "west": "92.5",
+   "east": "109.0",
+   "north": "8.5",
+   "south": "-8.0"
+  },
+  "published": "[London] : Geographic Section General Staff, 1941-1943",
+  "extent": "maps :",
+  "notes": "Topographic map series of Sumatra, Indonesia showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by form lines and spot heights. | Copied from Dutch map dated 1915-- | Includes incidence of grid letters and index to adjoining sheets. | Some sheets reprinted by Army Map Service, U.S. Army. | Some sheets with  \"HIND 1033\".",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6607938",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6607938.marcxml"
+ },
+ "date": "01 January 1942",
+ "creator": "Great Britain. War Office. General Staff. Geographical Section, issuing body.",
+ "publisher": "Geographic Section General Staff",
+ "call_number": "MAP G8080 s50",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-584768415",
+ "bladwijzers": [
+  {
+   "nr": "16",
+   "title": "N.O. Sumatra",
+   "scale": "1:50.000",
+   "hind": "1044",
+   "pdf": "1",
+   "pdf_page": "21",
+   "match_confidence": "low",
+   "match_note": "British GSGS/AMS Sumatra 1:50.000 reprints (some HIND 1033)"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-584768415.json",
+  "manifest_file": "iiif/nla/nla.obj-584768415.json",
+  "image": "https://nla.gov.au/nla.obj-584768415/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-584768415/image?wid=300",
+  "width": 10147,
+  "height": 12708
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "id": "nla:nla.obj-383232995",
+ "source": "National Library of Australia (Trove)",
+ "title": "Residentie Wester-afdeeling van Borneo – blad XX",
+ "sheet": "XX",
+ "series": {
+  "id": "6612831",
+  "title": "Residentie Wester-afdeeling van Borneo",
+  "scale": "Scale 1:200,000",
+  "coordinates": "(E 108°34ʹ00ʺ--E 114°33ʹ00ʺ/N 2°18ʹ00ʺ--S 3°36ʹ00ʺ).",
+  "bbox": {
+   "west": "108.5667",
+   "east": "114.55",
+   "north": "2.3",
+   "south": "-3.6"
+  },
+  "published": "Batavia : Topographisch Bureau te Batavia, 1889-1941.",
+  "extent": "maps :",
+  "notes": "Topographic maps of area that is now West Kalimantan (Kalimantan Barat) Province (Borneo, Indonesia) showing roads, railroads and populated places; some sheets also show vegetation, cultivated areas and water features. Relief shown by contours, shading, and spot heights on some sheets. | Survey date in upper margin below title, e.g.: Opgenomen in 1887-1888 -- Opgenomen in 1892-1895. | Common title from upper margin (center). | Sheet titles and numbers in upper margin (left end), e.g.: Blad I. Paloh -- Blad X. Kētapang -- Blad XXVI. Boven Mandai. | Various eds. of some sheets. | So",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/6612831",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/6612831.marcxml"
+ },
+ "date": "01 January 1889",
+ "creator": "Netherlands. Topografisch Bureau, cartographer. issuing body.",
+ "publisher": "Topographisch Bureau te Batavia",
+ "call_number": "MAP G8100 s200",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-383232995",
+ "bladwijzers": [
+  {
+   "nr": "34",
+   "title": "West Borneo",
+   "scale": "1:200.000",
+   "hind": "1099",
+   "pdf": "1",
+   "pdf_page": "39",
+   "match_confidence": "high",
+   "match_note": "Res. Wester-afdeeling van Borneo 1:200.000"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-383232995.json",
+  "manifest_file": "iiif/nla/nla.obj-383232995.json",
+  "image": "https://nla.gov.au/nla.obj-383232995/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-383232995/image?wid=300",
+  "width": 14797,
+  "height": 16811
+ }
+}

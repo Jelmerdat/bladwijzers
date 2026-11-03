@@ -1,0 +1,45 @@
+{
+ "id": "leiden:55844",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Patalasang], D C 2,1, sheet 46",
+ "full_title": "[Patalasang], D C 2,1, sheet 46",
+ "sheet": "46",
+ "hind_series": null,
+ "shelfmark": "D C 2,1, sheet 46",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Gouvernement Celebes en Onderh[origheden] (Zuidwest); Gouvernement Celebes en Onderh[origheden] (Zuidwest)"
+ },
+ "published": "Batavia : Topografische Inrichting, 1924",
+ "creator": "Topografische Inrichting (Batavia)",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1914-1920.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55844",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55844",
+ "bladwijzers": [
+  {
+   "nr": "44",
+   "title": "Zuid-West Celebes",
+   "scale": "1:125.000",
+   "hind": "626",
+   "pdf": "2",
+   "pdf_page": "1",
+   "match_confidence": "high",
+   "match_note": "D C 2: Zuid-West Celebes (Leiden bladwijzer D C 2,1 index), sheets numbered as on bladwijzer 44"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55844/manifest",
+  "manifest_file": "iiif/leiden/55844.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55844/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55844",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55844/full/300,/0/default.jpg",
+  "width": 4829,
+  "height": 5832,
+  "canvases": 1
+ }
+}

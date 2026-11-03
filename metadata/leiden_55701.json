@@ -1,0 +1,55 @@
+{
+ "id": "leiden:55701",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "[Schiereiland Laitimor], D C 22,3, sheet 2",
+ "full_title": "[Schiereiland Laitimor], D C 22,3, sheet 2",
+ "sheet": "2",
+ "hind_series": null,
+ "shelfmark": "D C 22,3, sheet 2",
+ "scale": null,
+ "series": {
+  "title": null,
+  "part_of": "Ambon Groep; Ambon Groep"
+ },
+ "published": "Weltevreden (Batavia) : Reproductiebedrijf Topografische Dienst, 1925",
+ "creator": "Topografische Dienst (Weltevreden (Batavia))",
+ "edition": null,
+ "notes": "opgenomen door den Topografischen Dienst in 1921-1923.; Legenda.",
+ "rights": null,
+ "persistent_url": "https://hdl.handle.net/1887.1/item:55701",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/55701",
+ "bladwijzers": [
+  {
+   "nr": "60",
+   "title": "Ambon",
+   "scale": "1:100.000",
+   "hind": "",
+   "pdf": "2",
+   "pdf_page": "17",
+   "match_confidence": "medium",
+   "match_note": "D C 22: Ambon Groep"
+  },
+  {
+   "nr": "61",
+   "title": "Ambon",
+   "scale": "1:50.000",
+   "hind": "635",
+   "pdf": "2",
+   "pdf_page": "17",
+   "match_confidence": "medium",
+   "match_note": "D C 22: Ambon Groep"
+  }
+ ],
+ "iiif": {
+  "presentation": "2.1",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55701/manifest",
+  "manifest_file": "iiif/leiden/55701.json",
+  "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55701/full/full/0/default.jpg",
+  "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55701",
+  "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55701/full/300,/0/default.jpg",
+  "width": 4912,
+  "height": 5974,
+  "canvases": 1
+ }
+}

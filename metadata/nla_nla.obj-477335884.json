@@ -1,0 +1,62 @@
+{
+ "id": "nla:nla.obj-477335884",
+ "source": "National Library of Australia (Trove)",
+ "title": "Overzichtskaart van Java en Madoera – blad IV",
+ "sheet": "IV",
+ "series": {
+  "id": "378204",
+  "title": "Overzichtskaart van Java en Madoera",
+  "scale": "Scale 1:250 000",
+  "coordinates": "(E 105°00'--E 114°40'/S 5°40'--S 9°00')",
+  "bbox": {
+   "west": "105.0",
+   "east": "114.6667",
+   "north": "-5.6667",
+   "south": "-9.0"
+  },
+  "published": "Batavia [Jakarta] : Topografische Inrichting, 1924-",
+  "extent": "10 maps :",
+  "notes": "Maps series of Java and Madura showing residency, plantation and estate boundaries, transportation, water features and populated places. Relief shown by contours, hypsometric tints and spot heights. | Map in Dutch. | Includes lists of estates and plantations and private landed estates, index of adjoining sheets, list of residencies and an administrative division diagram. | Some sheets reproduced in 1940 without full colouring as uncorrected emergency editions: \"Ongecorrigeerde spoeddruk 1940\"",
+  "catalogue": "https://catalogue.nla.gov.au/catalog/378204",
+  "marcxml": "https://catalogue.nla.gov.au/catalog/378204.marcxml"
+ },
+ "date": "01 January 1924",
+ "creator": "Topografische Inrichting (Jakarta, Indonesia)",
+ "publisher": "Topografische Inrichting",
+ "call_number": "MAP G8090 s250 1924-40",
+ "access": "Unrestricted",
+ "persistent_url": "https://nla.gov.au/nla.obj-477335884",
+ "bladwijzers": [
+  {
+   "nr": "3",
+   "title": "Java en Madura, Overzichtskaart",
+   "scale": "1:250.000",
+   "hind": "",
+   "pdf": "1",
+   "pdf_page": "6",
+   "match_confidence": "high",
+   "match_note": "same title Overzichtskaart van Java en Madoera, 1:250.000"
+  },
+  {
+   "nr": "4",
+   "title": "Java, Madura en Bali",
+   "scale": "1:250.000",
+   "hind": "1046",
+   "pdf": "1",
+   "pdf_page": "7",
+   "match_confidence": "low",
+   "match_note": "Java, Madura en Bali 1:250.000 (HIND 1046) probably a reprint of the same overzichtskaart; NLA has no HIND 1046 edition"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "generated from NLA data",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-477335884.json",
+  "manifest_file": "iiif/nla/nla.obj-477335884.json",
+  "image": "https://nla.gov.au/nla.obj-477335884/image",
+  "image_service": null,
+  "thumbnail": "https://nla.gov.au/nla.obj-477335884/image?wid=300",
+  "width": 24533,
+  "height": 19759
+ }
+}

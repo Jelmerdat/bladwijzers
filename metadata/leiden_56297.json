@@ -1,0 +1,45 @@
+{
+ "id": "leiden:56297",
+ "source": "Leiden University Libraries (KITLV maps)",
+ "title": "Tarakan",
+ "full_title": "Tarakan, / prepared under the direction of the Chief of Engineers by the Army Map Service, US Army.",
+ "sheet": "NB 50 D",
+ "hind_series": "HIND 1112",
+ "shelfmark": "D B 47,4, sheet 2",
+ "scale": "Schaal 1:250.000;",
+ "series": {
+  "title": "Borneo ; HIND 1112 sheet NB 50 D",
+  "part_of": "Borneo 1:250.000 (HIND 1112 sheet NB 50 D) | Borneo 1:250.000 /"
+ },
+ "published": "Tarakan; Washington D.C. : Army Map Service, US Army, 1945; D B 47,4, sheet 2",
+ "creator": "US Army (Washington D.C.). Army Map Service.",
+ "edition": "1st edition.",
+ "notes": "Legenda.",
+ "rights": "Full access. | The rights status of this resource is public domain",
+ "persistent_url": "https://hdl.handle.net/1887.1/item:56297",
+ "catalogue_url": "https://digitalcollections.universiteitleiden.nl/view/item/56297",
+ "bladwijzers": [
+  {
+   "nr": "36",
+   "title": "Zuider- en Oosterafd. v. Borneo",
+   "scale": "1:250.000",
+   "hind": "1112",
+   "pdf": "1",
+   "pdf_page": "41",
+   "match_confidence": "high",
+   "match_note": "HIND 1112"
+  }
+ ],
+ "iiif": {
+  "presentation": "3.0",
+  "origin": "Leiden University Libraries (original)",
+  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631370002711/manifest?iiifVersion=3",
+  "manifest_file": "iiif/leiden/56297.json",
+  "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODMvRkMvNUMvQ0MvQkMvRTkvOTgvMkUvNzAvMUEvRkQvNEMvQ0YvQjkvMzYvMTQvMTg4N18xX2l0ZW1fNTYyOTdfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzEzNzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjU4NjQiLCJoZWlnaHQiOiI3MTgzIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODMvRkMvNUMvQ0MvQkMvRTkvOTgvMkUvNzAvMUEvRkQvNEMvQ0YvQjkvMzYvMTQvMTg4N18xX2l0ZW1fNTYyOTdfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzEzNzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjU4NjQiLCJoZWlnaHQiOiI3MTgzIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9",
+  "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvODMvRkMvNUMvQ0MvQkMvRTkvOTgvMkUvNzAvMUEvRkQvNEMvQ0YvQjkvMzYvMTQvMTg4N18xX2l0ZW1fNTYyOTdfMDEuanAyIiwicmVwX2lkIjoiMTI1MDA2MzEzNzAwMDI3MTEiLCJpbnN0YW5jZSI6ImV1IiwiaW5zdGl0dXRpb24iOiIzMVVLQl9MRVUiLCJ3aWR0aCI6IjU4NjQiLCJoZWlnaHQiOiI3MTgzIiwid21LZXkiOm51bGwsIndtV2lkdGgiOm51bGwsIndtSGVpZ2h0IjpudWxsLCJ3bVBvc2l0aW9uIjpudWxsLCJ3bVJlcGVhdCI6ZmFsc2UsIm5hOTEiOm51bGx9/full/300,/0/default.jpg",
+  "width": 5864,
+  "height": 7183,
+  "canvases": 1
+ }
+}

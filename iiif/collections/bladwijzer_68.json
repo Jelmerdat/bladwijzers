@@ -1,0 +1,4890 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://jelmerdat.github.io/bladwijzers/iiif/collections/bladwijzer_68.json",
+ "type": "Collection",
+ "label": {
+  "none": [
+   "Bladwijzer 68: Nieuw Guinea 1:100.000"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644201.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 2-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644225.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 4-B + 4-C + 3-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644249.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644263.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644282.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644309.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-D + 4-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644351.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644380.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 5-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644405.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644426.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644447.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644460.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-D + 6-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644483.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644507.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644529.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 6-N + 6-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644541.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-B + 7-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644564.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644586.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644608.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644624.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644643.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644662.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644681.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-J + 6-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644704.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-J + 6-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644720.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644748.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644761.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 7-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644785.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644800.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644821.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644845.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644868.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644884.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644903.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644927.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644942.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644969.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627644988.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-K + 8-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645009.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-M + 7-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645023.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645046.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 8-Q + 9-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645080.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645102.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645128.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645144.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-E + 10-E"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645166.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645189.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645206.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645222.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645240.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-K + 9-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645287.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645303.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645327.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 9-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645369.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-A"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645388.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645401.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645425.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645463.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645482.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645505.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645526.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645547.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645560.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645583.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645604.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 10-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645648.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-B"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645721.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-C"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627645768.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-D + 10-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646024.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-D + 10-D"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646043.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646062.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646081.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646100.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646121.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646145.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646168.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 11-M + 11-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646202.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646244.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646266.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646289.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646304.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646320.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646348.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646361.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 12-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646385.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-F + 12-F"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646464.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646486.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646503.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646527.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646542.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646569.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646588.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646606.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 13-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646622.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646640.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646665.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646687.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646709.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646723.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 14-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646746.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646767.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646780.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646805.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646826.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646901.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627646982.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647078.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 15-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-H + 16-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647119.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-H + 16-G"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647143.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647162.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647181.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-K + 17-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647203.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-K + 17-K"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647275.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647291.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647313.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647337.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647376.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 16-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647392.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-H"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647415.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647444.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-J"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647466.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647489.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-L"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647509.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647538.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647551.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647580.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647601.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647625.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647658.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647674.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647706.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647722.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647740.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647779.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647798.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 17-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647820.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647848.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-M"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647861.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647899.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-N"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647918.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-P + 19-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647947.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-P + 19-P"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627647960.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648049.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648074.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648096.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648126.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648147.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648160.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648194.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648219.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648235.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648256.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648281.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648354.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648379.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 18-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648398.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648473.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Q"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648628.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648653.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648677.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648690.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648727.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648742.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648769.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648791.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648838.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648880.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648907.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648932.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627648955.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649036.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649061.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649085.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649103.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 19-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649134.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-S + R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649150.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-S + R"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649188.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649209.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649238.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649251.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649272.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649307.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649329.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649341.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649378.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649393.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649411.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649501.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649525.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 20-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649549.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-T + S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649574.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649596.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649618.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649647.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649660.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649683.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649719.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649735.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649762.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 21-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649781.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649890.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649921.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649945.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649968.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627649992.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650013.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650037.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650068.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650084.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650101.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650125.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650158.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650232.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 22-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650255.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650286.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650308.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650324.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650356.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650370.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650397.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650416.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650442.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650553.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650577.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650609.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 23-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650623.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650667.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650695.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650771.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650794.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650822.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650840.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650879.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650898.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650912.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650948.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650961.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 24-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627650985.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651064.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651093.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651170.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651197.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651227.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651242.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651275.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651300.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651321.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651359.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651376.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 25-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651392.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651415.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651617.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651649.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651674.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651696.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651711.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651857.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651899.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651926.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651947.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 26-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651960.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627651983.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652019.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652097.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652113.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652145.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652168.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652184.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652215.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652231.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652253.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652289.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652304.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652320.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 27-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652357.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652373.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652399.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652410.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652441.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652550.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652575.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652606.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652622.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652640.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652665.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652698.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652772.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652860.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 28-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652883.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652901.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652930.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652958.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627652974.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653014.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653115.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653240.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653342.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653449.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-W"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653539.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653620.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653737.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653864.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627653970.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654001.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 29-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654025.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654058.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-S"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654074.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654105.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-T"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654126.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654152.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-U"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654183.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654208.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-V"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654235.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654256.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-X"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654270.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654306.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654322.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654340.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 30-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654436.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654457.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Y"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654485.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654500.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 31-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654521.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 32-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/nla/nla.obj-627654559.json",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nederlands Nieuw Guinea – blad 32-Z"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Coen-gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500669240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Frederik Hendrik-eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaondo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waghete"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Vlakke Hoek"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Selpele"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Putsinera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Komolom"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaap Vals"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634910002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mimirop"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Charles Louis-gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Aboge"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kebarvlakte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wasior"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659280002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Itorakebo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Masikeri-gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tamaraw"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gam"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677850002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Napan-Jaoer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tagaepe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Amamapare"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oost-Kasteel-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "De Jongs Punt"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660450002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaokanao"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Vriendschaps-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500660710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ogar-eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Batanta"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Roembati"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634030002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kepi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634140002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kimaam"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Iweka-Temare"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500666990002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ipoekwa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Selassi-baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waigama"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sitoeboer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sailolof"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Katan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Monggai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaimana"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678180002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kelakinoga"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678170002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koembe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaap Monmon"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500678100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Noesela-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677980002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oemari"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jenbekaki"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668070002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Heits"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668060002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koerkari"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646840002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sibil of Mabilabol"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Warkopi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wanggambi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500646770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wairoendi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jofsisera"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tambani"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680510002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ajam"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500680370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kofiau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658620002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Modera-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Poolgebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658410002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sawai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658020002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sara"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500657910002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Van Heutsz-gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500657840002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tjemor"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Hamoekoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654400002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Makaupa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Schildpad-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Makbon"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dohalik"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gag"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bamol"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644800002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Saror"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Janggandoer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mapia-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Warsa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Babo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Fly-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500652290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mar"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soesoenoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658840002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Korido"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waar"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ransiki"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Manokwari"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658300002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pom"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658260002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaboe-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658160002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Getentiri"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658910002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pirimapon"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658670002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Seroei"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Doemande"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673470002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Arandai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Samai-eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mappi-meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627650002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jar"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500627580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Winoesi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641240002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kwatisore"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640950002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jawimoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640930002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Iwoer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Aljoei-baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Rijklof van Goens-baai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500679220002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gariau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Steenkool"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654880002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oosterbaan-top"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654870002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Carstensz-toppen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500654820002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Dusseldorp-meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650850002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ije"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650750002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Moeroe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Noemfoor"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Aidoema"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kwantoea"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wendehsi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Arare"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650260002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Aroep"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645850002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tamal-Mot"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645590002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ambisoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645330002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kanggoep"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Selalabo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636860002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kabare"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636760002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Amaroe-meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636610002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boeroe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636510002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Moerba"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500636460002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Karas"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643030002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Warimoi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642840002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Meosnoem"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642630002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Nevelgebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642580002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wairin"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655980002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tydeman-riffen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Segoenbaai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656260002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Terek"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656200002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kabtel"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500656010002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Fak-Fak"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Pasirpoetih"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628190002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Inanwatan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Karoefa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628720002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaap van den Bosch"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kaap de Goede Hoop"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taroea"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tiwarra"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Berari"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665500002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Onggaja"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665480002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sikafio"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665850002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koewawin"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500665810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Moeting"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500650940002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Modderhoek"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651350002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Semini-Nanesa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Adi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Fafanlap"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651120002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Antares"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651100002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Becking-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500651040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Orimbori"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Okaba"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635770002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boepoel"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Omba"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635520002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635440002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ajoe-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500635370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Aremkoeboen"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500634310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Koa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soewa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629190002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mega"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500629180002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oewapa"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628920002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Konerau"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500628890002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "West-Baliem-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Otaweri"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663690002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Torai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mesi"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644250002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Torpedoboot-eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500673700002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Ninati"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624000002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Seget"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663570002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Lelintah"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500663310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sajan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662860002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Boo-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500662780002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tanahmerah"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659310002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bomberai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659270002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Saoanek"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659230002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bovenloop Becking-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659110002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taghaimon"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500659020002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Saoekorem"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500658980002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Monoe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641710002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Padaido-eilanden"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641210002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Namasan"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500641190002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kogoban"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500640830002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Mindiptana"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645600002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bade"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Aiwasa-meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645320002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Keyts-gebergte"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500644970002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Oeta"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668840002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Berma"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500668660002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wasian"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655260002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Masin"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655200002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jawar"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655180002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Bebeke"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Faumai"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500655640002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Rorobo"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649790002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Merauke"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Os"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Taminaboean"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Biak"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649420002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jamas"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500649490002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Soerets"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667730002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Jende"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667550002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tamenoeën"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667510002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Tiraga"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Baroe"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500667810002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kanari-eiland"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676380002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Gab-Gab meer"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500676370002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Andreae-rivier"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677090002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Samberbaba"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500677020002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Sorong"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642530002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Wamal"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643290002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Kondomiraf"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642430002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Waaf"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642390002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Moebke"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500643040002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Klamono"
+    ]
+   }
+  },
+  {
+   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500642740002711/manifest?iiifVersion=3",
+   "type": "Manifest",
+   "label": {
+    "none": [
+     "Agats"
+    ]
+   }
+  }
+ ]
+}
