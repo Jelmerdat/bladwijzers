@@ -28,6 +28,7 @@ main{display:grid;grid-template-rows:1fr auto;min-height:0}
 #meta dl{display:grid;grid-template-columns:max-content 1fr;gap:2px 12px;margin:0}
 #meta dt{color:var(--mut)}
 #meta dd{margin:0}
+#meta button{font:inherit;padding:2px 8px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);cursor:pointer}
 .note{color:var(--mut);font-size:12px}
 @media (max-width:700px){.app{grid-template-columns:1fr;grid-template-rows:auto 35vh 1fr}aside{border-right:0;border-bottom:1px solid var(--line)}header{grid-column:1}}
 </style>
@@ -49,7 +50,7 @@ function imageOf(m){
   if(m.sequences){const r=m.sequences[0].canvases[0].images[0].resource;const s=r.service&&(r.service['@id']||r.service.id);return s?{tile:s+'/info.json'}:{url:r['@id']};}
   const b=m.items[0].items[0].items[0].body;let s=b.service;if(Array.isArray(s))s=s[0];const sid=s&&(s.id||s['@id']);
   if(sid)return{tile:sid+'/info.json'};
-  let u=b.id; if(/nla\.gov\.au\/nla\.obj-\d+\/image$/.test(u))u+='?wid=4000';   // NLA: no IIIF image service, no CORS -> plain image
+  let u=b.id; if(/nla\.gov\.au\/nla\.obj-\d+\/image$/.test(u))u+='?wid=3000';   // NLA: no IIIF image service, no CORS -> plain image
   return{url:u};
 }
 async function openManifest(url,btn){
@@ -59,6 +60,17 @@ async function openManifest(url,btn){
   try{
     const m=await (await fetch(url)).json(); current=m;
     const im=imageOf(m);
+    if(!im.tile){
+      // NLA puts a bot check in front of its images: a visitor must pass it once on nla.gov.au before images load here
+      const ok=await new Promise(res=>{const i=new Image();const t=setTimeout(()=>res(false),45000);i.onload=()=>{clearTimeout(t);res(true)};i.onerror=()=>{clearTimeout(t);res(false)};i.src=im.url;});
+      if(!ok){
+        viewer.close();
+        const home=(m.homepage&&m.homepage[0]&&m.homepage[0].id)||'https://nla.gov.au/';
+        meta.innerHTML=`<p><strong>${esc(txt(m.label))}</strong></p><p>De afbeelding van de National Library of Australia kon niet laden. NLA laat bezoekers eerst een korte botcontrole doorlopen. <a href="${esc(home)}" target="_blank" rel="noopener">Open dit blad één keer op nla.gov.au</a>, wacht tot de pagina geladen is, en klik dan op <button id="retry">Opnieuw proberen</button>.</p><p class="note"><a href="${esc(url)}" target="_blank" rel="noopener">IIIF manifest</a></p>`;
+        document.getElementById('retry').onclick=()=>openManifest(url,btn);
+        return;
+      }
+    }
     viewer.open(im.tile?im.tile:{type:'image',url:im.url,crossOriginPolicy:false});
     const rows=(m.metadata||[]).map(x=>`<dt>${esc(txt(x.label))}</dt><dd>${esc(txt(x.value)).replace(/(https?:\/\/[^\s;<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>')}</dd>`).join('');
     meta.innerHTML=`<p><strong>${esc(txt(m.label))}</strong> · <a href="${esc(url)}" target="_blank" rel="noopener">IIIF manifest</a>${im.tile?' · deep zoom':' · <span class="note">NLA-afbeelding (geen IIIF Image API)</span>'}</p><dl>${rows}</dl>`;
