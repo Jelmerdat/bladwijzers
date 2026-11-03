@@ -33,6 +33,7 @@ This repository is served with GitHub Pages at `https://jelmerdat.github.io/blad
 If you move the files elsewhere, run `python3 set_base_url.py https://new.host/path/` in this folder to rewrite every manifest id.
 
 ## Notes
+- **Viewing:** use `viewer.html?c=iiif/collections/bladwijzer_<nr>.json` (linked from the start page). National Library of Australia images cannot be shown in external IIIF viewers such as Mirador, because nla.gov.au sends no CORS headers; the built-in viewer loads them as plain images. Leiden sheets work in any IIIF viewer (deep zoom).
 - Leiden v3 manifests are stored exactly as Leiden publishes them; they deviate slightly from the official IIIF 3 JSON schema but load in common viewers. All generated NLA manifests and the collections validate against the IIIF Presentation 3 schema.
 - Not found online yet: bladwijzers 5, 6, 12, 27, 29, 30, 31, 50, 58, 65, 66, 67 (see overview).
 - Rights: Leiden items are marked public domain ("Full access"); NLA items "Unrestricted" – check each record before re-publishing images.

@@ -9,7 +9,7 @@
  },
  "items": [
   {
-   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57215/manifest",
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/57215.json",
    "type": "Manifest",
    "label": {
     "none": [
@@ -18,7 +18,7 @@
    }
   },
   {
-   "id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:57421/manifest",
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/57421.json",
    "type": "Manifest",
    "label": {
     "none": [

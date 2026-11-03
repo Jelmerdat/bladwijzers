@@ -9,7 +9,7 @@
  },
  "items": [
   {
-   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500623970002711/manifest?iiifVersion=3",
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/55664.json",
    "type": "Manifest",
    "label": {
     "none": [
@@ -18,7 +18,7 @@
    }
   },
   {
-   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500624230002711/manifest?iiifVersion=3",
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/55870.json",
    "type": "Manifest",
    "label": {
     "none": [
@@ -27,7 +27,7 @@
    }
   },
   {
-   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500631370002711/manifest?iiifVersion=3",
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/56297.json",
    "type": "Manifest",
    "label": {
     "none": [
@@ -36,7 +36,7 @@
    }
   },
   {
-   "id": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500632160002711/manifest?iiifVersion=3",
+   "id": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/56353.json",
    "type": "Manifest",
    "label": {
     "none": [
