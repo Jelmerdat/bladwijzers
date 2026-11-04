@@ -17,9 +17,14 @@ Every online map sheet that belongs to a bladwijzer has **one IIIF manifest** an
 | `iiif/collection.json` | Top-level IIIF Collection of all bladwijzers. |
 | `metadata/<source>_<id>.json` | JSON record per map: title, sheet, HIND series, shelfmark/call number, scale, series (incl. coordinates for NLA), publisher/date, persistent URL, linked bladwijzer(s) with match confidence and reason, and all IIIF links (manifest, image service, image, thumbnail, width/height). |
 | `all_maps.json` | All JSON records in one file (4,558 maps). |
+| `bladwijzers_iiif.xlsx` | Excel workbook: overview, all map sheets with clickable IIIF/viewer links, and an explanation tab. |
 | `all_sheets.csv` | One row per bladwijzer × map, with manifest URL, local manifest file, metadata file, image service and thumbnail. |
 | `per_bladwijzer/*.csv` | Same rows split per bladwijzer. |
 | `bladwijzer_overview.csv` | Per bladwijzer: number of matched maps by confidence, sources, IIIF collection file, status. |
+
+## Link columns (CSV / Excel)
+- `iiif_manifest` – manifest hosted on this site (use this). `original_manifest` – the manifest at Leiden (empty for generated NLA manifests).
+- `viewer_url` – opens the sheet in the built-in viewer. `iiif_collection` – collection of the whole bladwijzer. `metadata_url` – JSON record.
 
 ## How sheets were matched to bladwijzers
 1. **HIND number** – the HIND series numbers in the bladwijzer cartouches (e.g. HIND 1043, 646, 5002) are printed in Leiden's series data for each sheet → *high*.

@@ -57,6 +57,14 @@
   "image_service": null,
   "thumbnail": "https://nla.gov.au/nla.obj-681326753/image?wid=300",
   "width": 10138,
-  "height": 12192
+  "height": 12192,
+  "metadata_file": "metadata/nla_nla.obj-681326753.json",
+  "original_manifest": null,
+  "metadata_url": "https://jelmerdat.github.io/bladwijzers/metadata/nla_nla.obj-681326753.json",
+  "viewer": [
+   "https://jelmerdat.github.io/bladwijzers/viewer.html?c=iiif/collections/bladwijzer_14.json&m=https%3A%2F%2Fjelmerdat.github.io%2Fbladwijzers%2Fiiif%2Fnla%2Fnla.obj-681326753.json",
+   "https://jelmerdat.github.io/bladwijzers/viewer.html?c=iiif/collections/bladwijzer_23.json&m=https%3A%2F%2Fjelmerdat.github.io%2Fbladwijzers%2Fiiif%2Fnla%2Fnla.obj-681326753.json"
+  ],
+  "viewer_note": "NLA images load only in the built-in viewer, after a one-time bot check on nla.gov.au (no CORS on nla.gov.au)."
  }
 }

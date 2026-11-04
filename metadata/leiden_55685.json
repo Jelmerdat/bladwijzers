@@ -33,13 +33,19 @@
  "iiif": {
   "presentation": "2.1",
   "origin": "Leiden University Libraries (original)",
-  "manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55685/manifest",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/55685.json",
   "manifest_file": "iiif/leiden/55685.json",
   "image": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55685/full/full/0/default.jpg",
   "image_service": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55685",
   "thumbnail": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:55685/full/300,/0/default.jpg",
   "width": 9560,
   "height": 7022,
-  "canvases": 1
+  "canvases": 1,
+  "metadata_file": "metadata/leiden_55685.json",
+  "original_manifest": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:55685/manifest",
+  "metadata_url": "https://jelmerdat.github.io/bladwijzers/metadata/leiden_55685.json",
+  "viewer": [
+   "https://jelmerdat.github.io/bladwijzers/viewer.html?c=iiif/collections/bladwijzer_1.json&m=https%3A%2F%2Fjelmerdat.github.io%2Fbladwijzers%2Fiiif%2Fleiden%2F55685.json"
+  ]
  }
 }

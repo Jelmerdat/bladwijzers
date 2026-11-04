@@ -33,13 +33,19 @@
  "iiif": {
   "presentation": "3.0",
   "origin": "Leiden University Libraries (original)",
-  "manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645070002711/manifest?iiifVersion=3",
+  "manifest": "https://jelmerdat.github.io/bladwijzers/iiif/leiden/814060.json",
   "manifest_file": "iiif/leiden/814060.json",
   "image": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMkQvNDcvQTQvNTEvMjUvMjMvRTUvOEQvN0EvQzYvMjIvQkUvQTUvMUEvMDkvNUMvMTg4N18xX2l0ZW1fODE0MDYwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ1MDcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODgzIiwiaGVpZ2h0IjoiNTkzOSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
   "image_service": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMkQvNDcvQTQvNTEvMjUvMjMvRTUvOEQvN0EvQzYvMjIvQkUvQTUvMUEvMDkvNUMvMTg4N18xX2l0ZW1fODE0MDYwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ1MDcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODgzIiwiaGVpZ2h0IjoiNTkzOSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D",
   "thumbnail": "https://eu-img02.ext.exlibrisgroup.com/iiif/2/eyJyZWdpb24iOiJldS1jZW50cmFsLTEiLCJidWNrZXQiOiJldS1zdDAxLmV4dC5leGxpYnJpc2dyb3VwLmNvbSIsImtleSI6IjMxVUtCX0xFVS9zdG9yYWdlL2FsbWEvMkQvNDcvQTQvNTEvMjUvMjMvRTUvOEQvN0EvQzYvMjIvQkUvQTUvMUEvMDkvNUMvMTg4N18xX2l0ZW1fODE0MDYwXzAxLmpwMiIsInJlcF9pZCI6IjEyNTAwNjQ1MDcwMDAyNzExIiwiaW5zdGFuY2UiOiJldSIsImluc3RpdHV0aW9uIjoiMzFVS0JfTEVVIiwid2lkdGgiOiI0ODgzIiwiaGVpZ2h0IjoiNTkzOSIsIndtS2V5IjpudWxsLCJ3bVdpZHRoIjpudWxsLCJ3bUhlaWdodCI6bnVsbCwid21Qb3NpdGlvbiI6bnVsbCwid21SZXBlYXQiOmZhbHNlLCJuYTkxIjpudWxsfQ%3D%3D/full/300,/0/default.jpg",
   "width": 4883,
   "height": 5939,
-  "canvases": 1
+  "canvases": 1,
+  "metadata_file": "metadata/leiden_814060.json",
+  "original_manifest": "https://catalogue.leidenuniv.nl/view/iiif/presentation/31UKB_LEU/12500645070002711/manifest?iiifVersion=3",
+  "metadata_url": "https://jelmerdat.github.io/bladwijzers/metadata/leiden_814060.json",
+  "viewer": [
+   "https://jelmerdat.github.io/bladwijzers/viewer.html?c=iiif/collections/bladwijzer_26.json&m=https%3A%2F%2Fjelmerdat.github.io%2Fbladwijzers%2Fiiif%2Fleiden%2F814060.json"
+  ]
  }
 }
